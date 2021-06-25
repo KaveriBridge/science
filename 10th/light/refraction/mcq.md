@@ -5,7 +5,7 @@
 * (A)
 
 #### The name of a line drawn at 90° to the surface of a material is 
-A) Incident 
-B) Vertical
-C) Boundary
-D) Normal
+(A) Incident 
+(B) Vertical
+(C) Boundary
+(D) Normal
