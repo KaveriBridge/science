@@ -34,3 +34,10 @@ Answer: Glass is denser than air or water. Light slows down when it enters glass
 * 38°
 
 Answer: The angle of refraction is 22°. The light ray slows down and bends towards the normal line.
+
+#### The unit of power of lens is
+* a. Metre         b. Centimeter         c. Diopter         d. M<sup>-1</sup>
+* 
+#### The radius of curvature of a lens is 20cm the focal length is
+* a. 10cm         b. 20cm         c. 5cm         d. 40cm
+
