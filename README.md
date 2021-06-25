@@ -1,2 +1,2 @@
-# science
+# Science
 Science chapters
