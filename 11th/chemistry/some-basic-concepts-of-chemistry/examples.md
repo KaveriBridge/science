@@ -22,7 +22,7 @@
 * (ii) 1 mole of carbon is burnt in 16 g of dioxygen.
 * (iii) 2 moles of carbon are burnt in 16 g of dioxygen.
 #### 1.5 Calculate the mass of sodium acetate (CH3COONa) required to make 500 mL of 0.375 molar aqueous solution. Molar mass of sodium acetate is 82.0245 g mol–1.
-#### 1.6 Calculate the concentration of nitric acid in moles per litre in a sample which has a density, 1.41 g mL–1 and the mass per cent of nitric acid in it being 69%.
+#### 1.6 Calculate the concentration of nitric acid in moles per litre in a sample which has a density, 1.41 g mL⁻¹ and the mass per cent of nitric acid in it being 69%.
 #### 1.7 How much copper can be obtained from 100 g of copper sulphate (CuSO₄)?
 #### 1.8 Determine the molecular formula of an oxide of iron, in which the mass per cent of iron and oxygen are 69.9 and 30.1, respectively.
 #### 1.9 Calculate the atomic mass (average) of chlorine using the following data:
@@ -33,8 +33,8 @@
 * (i) Number of moles of carbon atoms.
 * (ii) Number of moles of hydrogen atoms.
 * (iii) Number of molecules of ethane.
-#### 1.11 What is the concentration of sugar (C12H22O11) in mol L–1 if its 20 g are dissolved in enough water to make a final volume up to 2L?
-#### 1.12 If the density of methanol is 0.793 kg L–1, what is its volume needed for making 2.5 L of its 0.25 M solution?
+#### 1.11 What is the concentration of sugar (C12H22O11) in mol L⁻¹ if its 20 g are dissolved in enough water to make a final volume up to 2L?
+#### 1.12 If the density of methanol is 0.793 kg L⁻¹, what is its volume needed for making 2.5 L of its 0.25 M solution?
 #### 1.13 Pressure is determined as force per unit area of the surface. The SI unit of pressure, pascal is as shown below:
 * 1Pa = 1N m–2
 * If mass of air at sea level is 1034 g cm–2, calculate the pressure in pascal.
@@ -112,9 +112,9 @@
 * (iii) 0.0125 + 0.7864 + 0.0215
 #### 1.32 Use the data given in the following table to calculate the molar mass of naturally occuring argon isotopes:
 * Isotope Isotopic molar mass Abundance
-* 36Ar 35.96755 g mol–1 0.337%
-* 38Ar 37.96272 g mol–1 0.063%
-* 40Ar 39.9624 g mol–1 99.600%
+* 36Ar 35.96755 g mol⁻¹ 0.337%
+* 38Ar 37.96272 g mol⁻¹ 0.063%
+* 40Ar 39.9624 g mol⁻¹ 99.600%
 #### 1.33 Calculate the number of atoms in each of the following (i) 52 moles of Ar (ii) 52 u of He (iii) 52 g of He.
 #### 1.34 A welding fuel gas contains carbon and hydrogen only. Burning a small sample of it in oxygen gives 3.38 g carbon dioxide, 0.690 g of water and no other products. A volume of 10.0 L (measured at STP) of this welding gas is found to weigh 11.6 g. Calculate (i) empirical formula, (ii) molar mass of the gas, and (iii) molecular formula.
 #### 1.35 Calcium carbonate reacts with aqueous HCl to give CaCl₂ and CO₂ according to the reaction, CaCO₃ (s) + 2 HCl (aq) → CaCl₂ (aq) + CO₂(g) + H₂O(l). What mass of CaCO₃ is required to react completely with 25 mL of 0.75 M HCl?
