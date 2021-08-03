@@ -11,6 +11,6 @@
 ## 2-mark
 #### 26. Explain substitution reaction in hydrocarbons with an example. (2019-Sup)
 #### 26. Explain the mechanism of cleaning action of soaps. (2019-Sup)
-#### 20. The general formula of two specific groups of saturated and unsaturated hydrocarbons is CₙH₂ₙ. Write the structures of the member of each group when n = 3.
+#### 20. The general formula of two specific groups of saturated and unsaturated hydrocarbons is CₙH₂ₙ. Write the structures of the member of each group when n = 3. (2019-Sup)
 
 #### 
