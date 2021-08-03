@@ -1,10 +1,10 @@
 ## atomic mass unit
+atomic mass unit
     Approximately mass of a proton and neutron
     1/12 mass of C-12 atom
     Unit: u
         unified mass
     mass spectrometry
-
 ## Average Atomic Mass
     Relative abundance of an isotope
     Atomic mass unit of the isotope
