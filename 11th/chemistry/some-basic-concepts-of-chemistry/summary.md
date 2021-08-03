@@ -1,4 +1,4 @@
-## atomic mass unit
+## Atomic mass unit
     atomic mass unit
         Approximately mass of a proton and neutron
         1/12 mass of C-12 atom
