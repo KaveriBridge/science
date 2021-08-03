@@ -51,11 +51,12 @@
     Substitution reaction
         A reaction in which one type of atom or a group of atoms takes the place of another
         
+![image](https://user-images.githubusercontent.com/20998959/128070788-5d6de9d7-e431-4b45-ac02-73828db1b923.png)
+
     Substitution reaction - Chlorine substituting Hydrogen
         Saturated hydrocarbons 
         In presence of sunlight
         Chlorine replaces hydrogen atoms
         In a very fast reaction
 
-![image](https://user-images.githubusercontent.com/20998959/128070788-5d6de9d7-e431-4b45-ac02-73828db1b923.png)
 
