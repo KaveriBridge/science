@@ -1,4 +1,4 @@
-## Coal and Petroleum
+## Formation of coal and petroleum
     Coal
         Coal is the remains of trees, ferns, and other plants that lived millions of years ago. 
         These were crushed into the earth, perhaps by earthquakes or volcanic eruptions. 
