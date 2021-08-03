@@ -1,21 +1,23 @@
 ## atomic mass unit
-atomic mass unit
-    Approximately mass of a proton and neutron
-    1/12 mass of C-12 atom
-    Unit: u
-        unified mass
-    mass spectrometry
+    atomic mass unit
+        Approximately mass of a proton and neutron
+        1/12 mass of C-12 atom
+        Unit: u
+            unified mass
+        mass spectrometry
 ## Average Atomic Mass
-    Relative abundance of an isotope
-    Atomic mass unit of the isotope
+    Average Atomic Mass
+        Relative abundance of an isotope
+        Atomic mass unit of the isotope
 
 ## Mole
-    As many particles as there are atoms in 12 g of C-12
-    = Avagadro constant
-        = 6.02 x 10^23
-        dimensionless
-    Examples
-        1 mole of hydrogen
-            6x10^23 atoms
-        1 mole of CH4
-            6x10^23 molecules
+    Mole
+        As many particles as there are atoms in 12 g of C-12
+        = Avagadro constant
+            = 6.02 x 10^23
+            dimensionless
+        Examples
+            1 mole of hydrogen
+                6x10^23 atoms
+            1 mole of CH4
+                6x10^23 molecules
