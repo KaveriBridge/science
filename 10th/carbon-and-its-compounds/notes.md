@@ -22,7 +22,6 @@
         The colour of potassium permanganate not disappear when excess is added.
 
 ![image](https://user-images.githubusercontent.com/20998959/128067799-331776bf-0dc7-430f-9acf-918eb9845888.png)
-[![](https://img.youtube.com/vi/12p90HJ-m3U/0.jpg)](https://www.youtube.com/watch?v=12p90HJ-m3U)
 
 ## Addition Reaction
     Addition
