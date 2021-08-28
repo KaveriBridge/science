@@ -1,4 +1,4 @@
-##### 1.1 Calculate the molar mass of the following:
+#### 1.1 Calculate the molar mass of the following:
 (i) H2O (ii) CO2 (iii) CH4
 #### 1.2 Calculate the mass per cent of different elements present in sodium sulphate (Na2SO4).
 #### 1.3 Determine the empirical formula of an oxide of iron, which has 69.9% iron and 30.1% dioxygen by mass.
