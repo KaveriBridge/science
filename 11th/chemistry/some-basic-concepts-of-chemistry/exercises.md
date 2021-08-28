@@ -99,7 +99,7 @@ N2 (g) + H2 (g)  2NH3 (g)
 * (iii) 0.0125 + 0.7864 + 0.0215
 #### 1.32 Use the data given in the following table to calculate the molar mass of naturally occuring argon isotopes:
 |Isotope| Isotopic molar mass |Abundance|
-|-|-|
+|-|-|-|
 |36Ar| 35.96755 g mol–1 |0.337%|
 |38Ar| 37.96272 g mol–1 |0.063%|
 |40Ar| 39.9624 g mol–1 |99.600%|
