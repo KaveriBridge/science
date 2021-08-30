@@ -4,24 +4,27 @@
 |ರಾಸಾಯನಿಕ ಗುಣಲಕ್ಷಣ || Chemical propery |
 |ನಿಯಮ | |Law|
 |ಚಲನೆ| |Motion |
-|ಪರಮಾಣು| | Atom |
-|ಬಂಧ| |Bond|
-|ಪರಮಾಣು ಸಂಖ್ಯೆ || Atomic number|
-|ಪರಮಾಣು ರಾಶಿ || Atomic mass |
-|ಅಣು ಸೂತ್ರ|| Molecular formula|
-| || Charge|
-| || Positive Charge|
-| || Negative Charge|
-|ಸಮಸ್ಥಾನಿ| Sama sthani |Isotopes|
 |ಸಂಯುಕ್ತ|Sumyutha | Compound|
 |ಧಾತು|Dhātu| Element|
 |ಸಹವೇಲೆನ್ಸಿ|Saha valency| Covalent|
 |ಕುದಿಬಿಂದು|Kudibindu|Boiling point|
 |ದ್ರವಣ ಬಿಂದು|Dravaṇa bindu|Melting point|
-| ಕವಚ | Kavacha | Shell|
 |ರಾಜ ಅನಿಲ | Raja Anila | Noble gas |
 |ವಿನ್ಯಾಸ|Vin'yāsa|Configuration|
+|ಬಂಧ| |Bond|
+|-|-|-|
+|ಪರಮಾಣು| | Atom |
+|ಪರಮಾಣು ಸಂಖ್ಯೆ || Atomic number|
+|ಪರಮಾಣು ರಾಶಿ || Atomic mass |
+|ಅಣು |Aṇu| Molecule|
+|ಅಣು ಸೂತ್ರ|| Molecular formula|
 |ಬೀಜ ಕೇಂದ್ರ|Bīja kēndra| Nucleus|
+| || Charge|
+| || Positive Charge|
+| || Negative Charge|
+| ಕವಚ | Kavacha | Shell|
+|ಸಮಸ್ಥಾನಿ| Sama sthani |Isotopes|
+
 
 |Words with no change|
 |-|
