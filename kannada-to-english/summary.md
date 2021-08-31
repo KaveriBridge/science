@@ -24,7 +24,8 @@
 | || Negative Charge|
 | ಕವಚ | Kavacha | Shell|
 |ಸಮಸ್ಥಾನಿ| Sama sthani |Isotopes|
-
+|ಪರ್ಯಾಪ್ತ|Paryāpta| Saturated|
+|ಅಪರ್ಯಾಪ್ತ|Aparyāpta| Unsaturated|
 
 |Words with no change|
 |-|
