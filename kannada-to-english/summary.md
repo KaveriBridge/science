@@ -26,6 +26,7 @@
 |ಸಮಸ್ಥಾನಿ| Sama sthani |Isotopes|
 |ಪರ್ಯಾಪ್ತ|Paryāpta| Saturated|
 |ಅಪರ್ಯಾಪ್ತ|Aparyāpta| Unsaturated|
+|ಅನುರೂಪ ಸರಣಿ | Anurūpa Saraṇi |homologous series|
 
 |Words with no change|
 |-|
