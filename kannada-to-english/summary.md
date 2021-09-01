@@ -2,8 +2,8 @@
 |-|-|-|
 |ಭೌತಿಕ ಗುಣಲಕ್ಷಣ || Physical property|
 |ರಾಸಾಯನಿಕ ಗುಣಲಕ್ಷಣ || Chemical propery |
-|ನಿಯಮ | |Law|
-|ಚಲನೆ| |Motion |
+|ನಿಯಮ | Niyama |Law|
+|ಚಲನೆ|Calane|Motion |
 |ಸಂಯುಕ್ತ|Sumyutha | Compound|
 |ಧಾತು|Dhātu| Element|
 |ಸಹವೇಲೆನ್ಸಿ|Saha valency| Covalent|
@@ -14,8 +14,8 @@
 |ಬಂಧ| |Bond|
 |-|-|-|
 |ಪರಮಾಣು| | Atom |
-|ಪರಮಾಣು ಸಂಖ್ಯೆ || Atomic number|
-|ಪರಮಾಣು ರಾಶಿ || Atomic mass |
+|ಪರಮಾಣು ಸಂಖ್ಯೆ |Paramāṇu saṅkhye| Atomic number|
+|ಪರಮಾಣು ರಾಶಿ |Paramāṇu rāśi| Atomic mass |
 |ಅಣು |Aṇu| Molecule|
 |ಅಣು ಸೂತ್ರ|| Molecular formula|
 |ಬೀಜ ಕೇಂದ್ರ|Bīja kēndra| Nucleus|
