@@ -39,10 +39,11 @@
 
 
 ## Washing soda
-* Na2CO3.10H2O (washing soda)
-* Recrystallisation of sodium carbonate gives washing soda
+* Na2CO3.10H2O 
 * Basic salt.
-
+### Production
+* Recrystallisation of sodium carbonate gives washing soda 
+* Na2CO3 + 10H2O → Na2C02.10H20
 ### Uses
 (i) In glass, soap and paper industries.
 (ii) In the manufacture of sodium compounds such as borax.
