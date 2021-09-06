@@ -51,7 +51,7 @@
 * (iv) Removing permanent hardness of water
 
 ## Are the Crystals of Salts really Dry?
-### Copper Suplhate
+### Copper sulphate
 * Copper sulphate crystals which seem to be dry contain water of crystallisation. 
 * When we heat the crystals, this water is removed and the salt turns white. 
 * If you moisten the crystals again with water, you will find that blue colour of the crystals reappears. 
