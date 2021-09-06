@@ -1,5 +1,6 @@
 | Kannada | Pronounciation| English |
 |-|-|-|
+|ರಾಸಾಯನಿಕ|Rāsāyanika|Chemical|
 |ಆಮ್ಲ|Āmla|Acid|
 |ಪ್ರತ್ಯಾಮ್ಲ|Pratyāmla|Base|
 |ಲವಣ|Lavaṇa|Salt|
