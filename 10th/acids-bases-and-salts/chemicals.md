@@ -28,11 +28,23 @@
  
 ### Uses of Baking soda
 * (i) For making baking powder
-* (ii) Sodium hydrogencarbonate is also an ingredient in antacids. Being alkaline, it neutralises excess acid in the stomach and provides relief.
-* (iii) It is also used in soda-acid fire extinguishers
+* (ii) An ingredient in antacids. Being alkaline, it neutralises excess acid in the stomach and provides relief.
+* (iii) In soda-acid fire extinguishers
 
 ### Baking powder
 * A mixture of baking soda (sodium hydrogencarbonate) and a mild edible acid such as tartaric acid. 
 * When baking powder is heated or mixed in water, the following reaction takes place –
 * NaHCO3 + H+  (From any acid) → CO2 + H2O + Sodium salt of acid 
 * Carbon dioxide produced during the reaction can cause bread or cake to rise making them soft and spongy.
+
+
+## Washing soda
+* Na2CO3.10H2O (washing soda)
+* Recrystallisation of sodium carbonate gives washing soda
+* Basic salt.
+
+### Uses
+(i) In glass, soap and paper industries.
+(ii) In the manufacture of sodium compounds such as borax.
+(iii) As a cleaning agent for domestic purposes.
+(iv) Removing permanent hardness of water
