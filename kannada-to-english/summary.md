@@ -1,7 +1,7 @@
 | Kannada | Pronounciation| English |
 |-|-|-|
 |ಆಮ್ಲ|Āmla|Acid|
-|ಪ್ರತ್ಯಾಮ್ಲ|Pratyāmla||Base|
+|ಪ್ರತ್ಯಾಮ್ಲ|Pratyāmla|Base|
 |ಲವಣ|Lavaṇa|Salt|
 |ಕ್ಷಾರ|Kṣāra|Alkali|
 |-|-|-|
