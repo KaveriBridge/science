@@ -45,7 +45,7 @@
 * Recrystallisation of sodium carbonate gives washing soda 
 * Na2CO3 + 10H2O → Na2C02.10H20
 ### Uses
-(i) In glass, soap and paper industries.
-(ii) In the manufacture of sodium compounds such as borax.
-(iii) As a cleaning agent for domestic purposes.
-(iv) Removing permanent hardness of water
+* (i) In glass, soap and paper industries.
+* (ii) In the manufacture of sodium compounds such as borax.
+* (iii) As a cleaning agent for domestic purposes.
+* (iv) Removing permanent hardness of water
