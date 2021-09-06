@@ -27,9 +27,12 @@
 * 2NaHCO3 (Sodium hydrogencarbonate) → (Heating)→ Na2CO3 (Sodium carbonate) + H2O +CO2
  
 ### Uses of Baking soda
-* (i) For making baking powder, which is a mixture of baking soda (sodium hydrogencarbonate) and a mild edible acid such as tartaric acid. 
+* (i) For making baking powder
+* (ii) Sodium hydrogencarbonate is also an ingredient in antacids. Being alkaline, it neutralises excess acid in the stomach and provides relief.
+* (iii) It is also used in soda-acid fire extinguishers
+
+### Baking powder
+* A mixture of baking soda (sodium hydrogencarbonate) and a mild edible acid such as tartaric acid. 
 * When baking powder is heated or mixed in water, the following reaction takes place –
 * NaHCO3 + H+  (From any acid) → CO2 + H2O + Sodium salt of acid 
 * Carbon dioxide produced during the reaction can cause bread or cake to rise making them soft and spongy.
-* (ii) Sodium hydrogencarbonate is also an ingredient in antacids. Being alkaline, it neutralises excess acid in the stomach and provides relief.
-* (iii) It is also used in soda-acid fire extinguishers
