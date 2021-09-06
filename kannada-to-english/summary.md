@@ -1,5 +1,11 @@
 | Kannada | Pronounciation| English |
 |-|-|-|
+|ಆಮ್ಲ|Āmla|Acid|
+|ಪ್ರತ್ಯಾಮ್ಲ|Pratyāmla||Base|
+|ಲವಣ|Lavaṇa|Salt|
+|ಕ್ಷಾರ|Kṣāra|Alkali|
+|-|-|-|
+|-|-|-|
 |ಭೌತಿಕ ಗುಣಲಕ್ಷಣ || Physical property|
 |ರಾಸಾಯನಿಕ ಗುಣಲಕ್ಷಣ || Chemical propery |
 |ನಿಯಮ | Niyama |Law|
@@ -27,6 +33,9 @@
 |ಪರ್ಯಾಪ್ತ|Paryāpta| Saturated|
 |ಅಪರ್ಯಾಪ್ತ|Aparyāpta| Unsaturated|
 |ಅನುರೂಪ ಸರಣಿ | Anurūpa Saraṇi |Homologous series|
+
+
+
 
 |Words with no change|
 |-|
