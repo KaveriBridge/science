@@ -49,3 +49,10 @@
 * (ii) In the manufacture of sodium compounds such as borax.
 * (iii) As a cleaning agent for domestic purposes.
 * (iv) Removing permanent hardness of water
+
+## Questions
+* 1. What is the common name of the compound CaOCl2?
+* 2. Name the substance which on treatment with chlorine yields bleaching powder.
+* 3. Name the sodium compound which is used for softening hard water.
+* 4. What will happen if a solution of sodium hydrocarbonate is heated? Give the equation of the reaction involved.
+* 5. Write an equation to show the reaction between Plaster of Paris and water.
