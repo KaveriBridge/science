@@ -21,7 +21,7 @@
 * (c) 1:4 
 * (d) 4:1
 #### 5. How is a voltmeter connected in the circuit to measure the potential difference between two points?
-#### 6. A copper wire has diameter 0.5 mm and resistivity of 1.6 × 10–8 Ω m. What will be the length of this wire to make its resistance 10 Ω? How much does the resistance change if the diameter is doubled?
+#### 6. A copper wire has diameter 0.5 mm and resistivity of 1.6 × 10<sup>–8</sup> Ω m. What will be the length of this wire to make its resistance 10 Ω? How much does the resistance change if the diameter is doubled?
 #### 7. The values of current I flowing in a given resistor for the corresponding values of potential difference V across the resistor are given below –
 |I (amperes)| 0.5 |1.0 |2.0| 3.0| 4.0|
 |-|-|-|-|-|-|
@@ -31,7 +31,9 @@ Plot a graph between V and I and calculate the resistance of that resistor.
 #### 8. When a 12 V battery is connected across an unknown resistor, there is a current of 2.5 mA in the circuit. Find the value of the resistance of the resistor.
 #### 9. A battery of 9 V is connected in series with resistors of 0.2 Ω, 0.3 Ω, 0.4 Ω , 0.5 Ω and 12 Ω, respectively. How much current would flow through the 12 Ω resistor?
 #### 10. How many 176 Ω resistors (in parallel) are required to carry 5 A on a 220 V line?
-#### 11. Show how you would connect three resistors, each of resistance 6 Ω, so that the combination has a resistance of (i) 9 Ω, (ii) 4 Ω.
+#### 11. Show how you would connect three resistors, each of resistance 6 Ω, so that the combination has a resistance of 
+* (i) 9 Ω
+* (ii) 4 Ω.
 #### 12. Several electric bulbs designed to be used on a 220 V electric supply line, are rated 10 W. How many lamps can be connected in parallel with each other across the two wires of 220 V line if the maximum allowable current is 5 A?
 #### 13. A hot plate of an electric oven connected to a 220 V line has two resistance coils A and B, each of 24 Ω resistance, which may be used separately, in series, or in parallel. What are the currents in the three cases?
 #### 14. Compare the power used in the 2 Ω resistor in each of the following circuits: 
