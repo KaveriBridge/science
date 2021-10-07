@@ -3,7 +3,7 @@
 In this reaction name the reactant
 * i) that is oxidised
 * ii) that is reduced
-#### 8 (2019-Supplementary)
+#### 8. (2019-Supplementary)
 ![image](https://user-images.githubusercontent.com/20998959/136385809-0652e9c0-d176-489d-a3f8-2799c17b6a6c.png)
 
 ### 2-marks questions
