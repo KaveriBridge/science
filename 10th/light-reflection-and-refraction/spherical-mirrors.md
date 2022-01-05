@@ -88,6 +88,43 @@ A ray passing through the centre of curvature of a concave mirror or directed in
 A ray incident obliquely to the principal axis, towards a point P (pole of the mirror), on the concave mirror or a convex mirror, is reflected obliquely. The incident and reflected rays follow the laws of reflection at the point of incidence (point P), making equal angles with the principal axis.
 
 ### Concave Mirror
+![image](https://user-images.githubusercontent.com/20998959/148209515-1b9e840c-a4bc-4a84-ba41-6dbd9a6ca19d.png)
+
+|Position of the object| Position of the image|Size of the image| Nature of the image|
+|-|-|-|-|
+|At infinity| At the focus F |Highly diminished, point-sized | Real and inverted
+
+![image](https://user-images.githubusercontent.com/20998959/148209619-8d18ef39-6901-4ca6-ad54-a3d6e1f2546c.png)
+
+|Position of the object| Position of the image|Size of the image| Nature of the image|
+|-|-|-|-|
+|Beyond C |Between F and C |Diminished |Real and inverted
+
+![image](https://user-images.githubusercontent.com/20998959/148209619-8d18ef39-6901-4ca6-ad54-a3d6e1f2546c.png)
+
+|Position of the object| Position of the image|Size of the image| Nature of the image|
+|-|-|-|-|
+|At C |At C |Same size |Real and inverted
+
+![image](https://user-images.githubusercontent.com/20998959/148209619-8d18ef39-6901-4ca6-ad54-a3d6e1f2546c.png)
+
+|Position of the object| Position of the image|Size of the image| Nature of the image|
+|-|-|-|-|
+|Between C and F |Beyond C |Enlarged |Real and inverted
+
+![image](https://user-images.githubusercontent.com/20998959/148209619-8d18ef39-6901-4ca6-ad54-a3d6e1f2546c.png)
+
+|Position of the object| Position of the image|Size of the image| Nature of the image|
+|-|-|-|-|
+|At F |At infinity | Highly enlarged |Real and inverted
+
+![image](https://user-images.githubusercontent.com/20998959/148209619-8d18ef39-6901-4ca6-ad54-a3d6e1f2546c.png)
+
+|Position of the object| Position of the image|Size of the image| Nature of the image|
+|-|-|-|-|
+|Between P and F |Behind the mirror |Enlarged |Virtual and erect
+
+#### Table
 |Position of the object| Position of the image|Size of the image| Nature of the image|
 |-|-|-|-|
 |At infinity| At the focus F |Highly diminished, point-sized | Real and inverted
