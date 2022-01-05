@@ -116,7 +116,8 @@ A ray incident obliquely to the principal axis, towards a point P (pole of the m
 |Between C and F |Beyond C |Enlarged |Real and inverted
 
 #### At F
-<img width="320" src="https://user-images.githubusercontent.com/20998959/148210232-f3c991e9-6f78-4c40-b748-0b16fa8c300e.png">
+<img width="320" src="https://user-images.githubusercontent.com/20998959/148221989-646e6eff-4fc4-44e6-8678-ce863baff3cf.png">
+
 
 |Position of the object| Position of the image|Size of the image| Nature of the image|
 |-|-|-|-|
