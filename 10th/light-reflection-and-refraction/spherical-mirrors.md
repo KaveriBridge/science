@@ -172,3 +172,8 @@ A ray incident obliquely to the principal axis, towards a point P (pole of the m
 |Distance | All distances parallel to the principal axis are measured from the pole of the mirror
 |Distance sign |  Distances measured to the right of the origin (along +x-axis) are taken as positive <br> Distances measured to the left of the origin (along +x-axis) are taken as negative <br> Distances measured perpendicular to and above the principal axis (along + y-axis) are taken as positive. <br> Distances measured perpendicular to and below the principal axis (along –y-axis) are taken as negative.
 
+## Usage
+### Convex Mirrors
+* Convex mirrors are commonly used as rear-view (wing) mirrors in vehicles. These mirrors are fitted on the sides of the vehicle, enabling the driver to see traffic behind him/her to facilitate safe driving. 
+** Convex mirrors are preferred because they always give an erect, though diminished, image. 
+** They have a wider field of view as they are curved outwards. Thus, convex mirrors enable the driver to view much larger area than would be possible with a plane mirror
