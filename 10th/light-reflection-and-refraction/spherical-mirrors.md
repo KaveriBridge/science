@@ -24,6 +24,9 @@
 * The reflecting surface of a spherical mirror forms a part of a sphere. 
 * The centre of this sphere is a point called the centre of curvature of the spherical mirror. 
 * Represented by the letter C. 
+
+![image](https://user-images.githubusercontent.com/20998959/148199517-54f62240-0c8b-46b3-8c3b-820518ded524.png)
+
 #### Where does it lie?
 * It is not a part of the mirror. It lies outside its reflecting surface. 
 * Concave Mirror: Lies in front of the concave mirror.
@@ -33,6 +36,7 @@
 * The radius of the sphere of which the reflecting surface of a spherical mirror forms a part, is called the radius of curvature of the mirror. 
 * Represented by the letter R. 
 * The distance PC is equal to the radius of curvature. 
+
 ### Principal axis
 * An imaginary line passing through the pole and the centre of curvature of a spherical mirror. 
 * The pincipal axis is normal to the mirror at its pole. 
