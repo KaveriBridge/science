@@ -70,6 +70,20 @@
 * The principal focus (F) of a spherical mirror lies midway between the pole (P) and centre of curvature (C)
 
 ## Image Formation by Spherical Mirrors
+### Ray Diagrams
+#### Ray parallel to the principal axis
+<img width="640" src="https://user-images.githubusercontent.com/20998959/148208477-9f8128d7-638e-43c6-b472-a453b6417b3f.png">
+A ray parallel to the principal axis, after reflection, will pass through the principal focus in case of a concave mirror or appear to diverge from the principal focus in case of a convex mirror.
+#### Ray passing through to the principal focus
+<img width="640" src="https://user-images.githubusercontent.com/20998959/148209050-6374a341-9da3-4297-9980-325348825b20.png">
+A ray passing through the principal focus of a concave mirror or a ray which is directed towards the principal focus of a convex mirror, after reflection, will emerge parallel to the principal axis. 
+#### Ray passing through to the centre of curvature
+<img width="640" src="https://user-images.githubusercontent.com/20998959/148209094-7e2224c3-e5a3-406d-87f6-f6d0f6d84082.png">
+A ray passing through the centre of curvature of a concave mirror or directed in the direction of the centre of curvature of a convex mirror, after reflection, is reflected back along the same path. The light rays come back along the same path because the incident rays fall on the mirror along the normal to the reflecting surface  
+#### Ray incident obliquely to the principal axis towards at the pole of the mirror
+<img width="640" src="https://user-images.githubusercontent.com/20998959/148209128-ed2c65bf-4d91-43f3-82d2-9e868425db69.png">
+A ray incident obliquely to the principal axis, towards a point P (pole of the mirror), on the concave mirror or a convex mirror, is reflected obliquely. The incident and reflected rays follow the laws of reflection at the point of incidence (point P), making equal angles with the principal axis.
+
 ### Concave Mirror
 |Position of the object| Position of the image|Size of the image| Nature of the image|
 |-|-|-|-|
