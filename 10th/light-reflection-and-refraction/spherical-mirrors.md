@@ -64,3 +64,7 @@
 * The diameter of the reflecting surface of spherical mirror is called its aperture. 
 ![image](https://user-images.githubusercontent.com/20998959/148197716-5562956b-3e33-40d8-ad9b-80cadba365a0.png)
 * The distance MN represents the aperture
+
+### radius of curvature R, and focal length f
+* R = 2f
+* The principal focus (F) of a spherical mirror lies midway between the pole (P) and centre of curvature (C)
