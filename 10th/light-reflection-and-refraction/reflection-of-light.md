@@ -8,6 +8,9 @@
 * Image formed is as far behind the mirror as the object is in front of it. 
 * Image is laterally inverted.
 
+![image](https://user-images.githubusercontent.com/20998959/148186206-5cb348d8-de0b-4e8b-a002-2f030e663077.png)
+
+
 ## Angle of incidence and angle of reflection
 ![image](https://user-images.githubusercontent.com/20998959/148184624-e177e965-3c78-44da-ba64-d0126f78d1a6.png)
 * After striking the mirror, the ray of light is reflected in another direction.
