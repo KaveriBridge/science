@@ -160,17 +160,6 @@ A ray incident obliquely to the principal axis, towards a point P (pole of the m
 |At infinity| At the focus F, behind the mirror |Highly diminished, point-sized | Virtual and erect
 |Between infinity and the pole P |Between P and F, behind the mirror |Diminished| Virtual and erect
 
-## Sign Convention for Reflection by Spherical Mirrors
-### New Cartesian Sign Convention
-<img width="640" src="https://user-images.githubusercontent.com/20998959/148201657-284e968a-c505-4076-aa0b-a69a28a5eec6.png">
-
-|Topic|Convention|
-|-|-|
-|Origin|The pole (P) of the mirror
-|x-axis|The principal axis of the mirror
-|Object| Always placed to the left of the mirror. 
-|Distance | All distances parallel to the principal axis are measured from the pole of the mirror
-|Distance sign |  Distances measured to the right of the origin (along +x-axis) are taken as positive <br> Distances measured to the left of the origin (along +x-axis) are taken as negative <br> Distances measured perpendicular to and above the principal axis (along + y-axis) are taken as positive. <br> Distances measured perpendicular to and below the principal axis (along –y-axis) are taken as negative.
 
 ## Usage
 ### Convex Mirrors
@@ -187,3 +176,40 @@ Why?
 * As shaving mirrors to see a larger image of the face. 
 * By dentists to see large images of the teeth of patients. 
 * In solar furnaces, to concentrate sunlight to produce heat.
+
+## Sign Convention for Reflection by Spherical Mirrors
+### New Cartesian Sign Convention
+<img width="640" src="https://user-images.githubusercontent.com/20998959/148201657-284e968a-c505-4076-aa0b-a69a28a5eec6.png">
+
+|Topic|Convention|
+|-|-|
+|Origin|The pole (P) of the mirror
+|x-axis|The principal axis of the mirror
+|Object| Always placed to the left of the mirror. 
+|Distance | All distances parallel to the principal axis are measured from the pole of the mirror
+|Distance sign |  Distances measured to the right of the origin (along +x-axis) are taken as positive <br> Distances measured to the left of the origin (along +x-axis) are taken as negative <br> Distances measured perpendicular to and above the principal axis (along + y-axis) are taken as positive. <br> Distances measured perpendicular to and below the principal axis (along –y-axis) are taken as negative.
+
+## Mirror Formula
+* 1/u + 1/v = 1/f
+* u = object distance = The distance of the object from the pole of the mirror
+* v = image distance = The distance of the image from the pole of the mirror 
+* f = focal length = The distance of the principal focus from the pole
+
+## Magnification
+* Magnification produced by a spherical mirror gives the relative extent to which the image of an object is magnified with respect to the object size.
+* Ratio of the height of the image to the height of the object. 
+* Represented by the letter m
+
+If h is the height of the object and h′ is the height of the image, then the magnification m produced by a spherical mirror is given by
+m = Height of the image/ Height of the object = h′/h
+m = h'/h = -v/u
+
+### Sign of the height
+* The height of the object is taken to be positive as the object is usually placed above the principal axis. 
+* The height of the image should be taken as positive for virtual images. 
+* The height of the image should be taken as negative for real images
+
+### Sign of the magnification
+* Negative for real images
+* Positive for virtual images
+
