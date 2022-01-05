@@ -200,9 +200,10 @@ Why?
 * Ratio of the height of the image to the height of the object. 
 * Represented by the letter m
 
-If h is the height of the object and h′ is the height of the image, then the magnification m produced by a spherical mirror is given by
-m = Height of the image/ Height of the object = h′/h
-m = h'/h = -v/u
+* m = Height of the image/ Height of the object = h′/h
+* m = h'/h = -v/u
+
+<img width="320" src="https://user-images.githubusercontent.com/20998959/148212662-f79c3912-af01-4b92-a87f-5b83108705d5.png">
 
 ### Sign of the height
 * The height of the object is taken to be positive as the object is usually placed above the principal axis. 
