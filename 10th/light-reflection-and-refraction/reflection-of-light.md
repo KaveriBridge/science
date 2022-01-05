@@ -1,11 +1,12 @@
-## Summary
+## Introduction
 * Light is reflected from all surfaces. 
 * A regular reflection takes place when light is incident on smooth, polished and regular surfaces
-* Image formed in a plane mirror undergoes lateral inversion.
 
-## Laws of reflection
-* (i) The angle of incidence is equal to the angle of reflection.
-* (ii) The incident ray, the normal to the mirror at the point of incidence and the reflected ray, all lie in the same plane.
+## Properties of the image formed by a plane mirror
+* Image formed by a plane mirror is always virtual and erect. 
+* The size of the image is equal to that of the object. 
+* Image formed is as far behind the mirror as the object is in front of it. 
+* Image is laterally inverted.
 
 ## Angle of incidence and angle of reflection
 ![image](https://user-images.githubusercontent.com/20998959/148184624-e177e965-3c78-44da-ba64-d0126f78d1a6.png)
@@ -17,9 +18,7 @@ as the **normal to the reflecting surface** at that point.
 * **Angle of incidence**: The angle between the normal and incident ray is called the **angle of incidence (∠i)**. 
 * **Angle of reflection**: The angle between the normal and the reflected ray is known as the **angle of reflection (∠r)** 
 
-## Properties of the image formed by a plane mirror
-* Image formed by a plane mirror is always virtual and erect. 
-* The size of the image is equal to that of the object. 
-* Image formed is as far behind the mirror as the object is in front of it. 
-* Image is laterally inverted.
+## Laws of reflection
+* (i) The angle of incidence is equal to the angle of reflection.
+* (ii) The incident ray, the normal to the mirror at the point of incidence and the reflected ray, all lie in the same plane.
 
