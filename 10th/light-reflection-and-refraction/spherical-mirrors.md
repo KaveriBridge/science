@@ -35,14 +35,14 @@
 * The pincipal axis is normal to the mirror at its pole. 
 
 # Principal Focus
-* A number of rays parallel to the principal axis are falling on a concave mirror. 
+* A number of rays parallel to the principal axis are falling on a spherical mirror. 
 * Observe the reflected rays. 
 
 ![image](https://user-images.githubusercontent.com/20998959/148197716-5562956b-3e33-40d8-ad9b-80cadba365a0.png)
-In case of a concave mirror, the reflected rays are all meeting/intersecting at a point on the principal axis of the mirror. 
+* In case of a concave mirror, the reflected rays are all meeting/intersecting at a point on the principal axis of the mirror. 
 
 ![image](https://user-images.githubusercontent.com/20998959/148197767-16473fd9-38ae-4508-a460-b58b3aa0b6ac.png)
-In case of a convex mirror, the reflected rays appear to come from a point on the principal axis. 
+* In case of a convex mirror, the reflected rays appear to come from a point on the principal axis. 
 
 * This point is called the principal focus of the mirror. 
 * The principal focus is represented by the letter F. 
