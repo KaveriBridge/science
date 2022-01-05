@@ -42,13 +42,14 @@
 ### Principal Focus
 * A number of rays parallel to the principal axis are falling on a spherical mirror. 
 * Observe the reflected rays. 
+
 <img width="320" src="https://user-images.githubusercontent.com/20998959/148197716-5562956b-3e33-40d8-ad9b-80cadba365a0.png" >
 
 * In case of a concave mirror, the reflected rays are all meeting/intersecting at a point on the principal axis of the mirror. 
 
 <img width="320" src="https://user-images.githubusercontent.com/20998959/148197767-16473fd9-38ae-4508-a460-b58b3aa0b6ac.png">
-* In case of a convex mirror, the reflected rays appear to come from a point on the principal axis. 
 
+* In case of a convex mirror, the reflected rays appear to come from a point on the principal axis. 
 * This point is called the principal focus of the mirror. 
 * The principal focus is represented by the letter F. 
 
@@ -90,7 +91,6 @@ A ray incident obliquely to the principal axis, towards a point P (pole of the m
 ### Concave Mirror
 #### At infinity
 <img width="320" src="https://user-images.githubusercontent.com/20998959/148209515-1b9e840c-a4bc-4a84-ba41-6dbd9a6ca19d.png">
-<img width="320" src="X">
 
 |Position of the object| Position of the image|Size of the image| Nature of the image|
 |-|-|-|-|
@@ -110,6 +110,7 @@ A ray incident obliquely to the principal axis, towards a point P (pole of the m
 
 #### Between C and F
 <img width="320" src="(https://user-images.githubusercontent.com/20998959/148210232-f3c991e9-6f78-4c40-b748-0b16fa8c300e.png">
+
 |Position of the object| Position of the image|Size of the image| Nature of the image|
 |-|-|-|-|
 |Between C and F |Beyond C |Enlarged |Real and inverted
@@ -140,14 +141,14 @@ A ray incident obliquely to the principal axis, towards a point P (pole of the m
 
 ### Convex Mirror
 #### At infinity
-<img width="320" src="https://user-images.githubusercontent.com/20998959/148210543-773d9882-682d-4176-8d5b-5da52912ba9c.png">
-![image]()
+<img width="480" src="https://user-images.githubusercontent.com/20998959/148210543-773d9882-682d-4176-8d5b-5da52912ba9c.png">
+
 
 |Position of the object| Position of the image|Size of the image| Nature of the image|
 |-|-|-|-|
 |At infinity| At the focus F, behind the mirror |Highly diminished, point-sized | Virtual and erect
 #### Between infinity and the pole P
-<img width="320" src="https://user-images.githubusercontent.com/20998959/148210577-69ae5569-69f0-4ef7-b675-1b205c19c4f9.png">
+<img width="480" src="https://user-images.githubusercontent.com/20998959/148210577-69ae5569-69f0-4ef7-b675-1b205c19c4f9.png">
 
 |Position of the object| Position of the image|Size of the image| Nature of the image|
 |-|-|-|-|
