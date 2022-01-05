@@ -77,5 +77,12 @@
 |Beyond C |Between F and C |Diminished |Real and inverted
 |At C |At C |Same size |Real and inverted
 |Between C and F |Beyond C |Enlarged |Real and inverted
-|At F |At infinity Highly enlarged |Real and inverted
+|At F |At infinity | Highly enlarged |Real and inverted
 |Between P and F |Behind the mirror |Enlarged |Virtual and erect
+
+### Convex Mirror
+|Position of the object| Position of the image|Size of the image| Nature of the image|
+|-|-|-|-|
+|At infinity| At the focus F, behind the mirror |Highly diminished, point-sized | Virtual and erect
+|Between infinity and the pole P |Between P and F, behind the mirror |Diminished| Virtual and erect
+
