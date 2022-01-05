@@ -177,3 +177,9 @@ A ray incident obliquely to the principal axis, towards a point P (pole of the m
 * Convex mirrors are commonly used as rear-view (wing) mirrors in vehicles. These mirrors are fitted on the sides of the vehicle, enabling the driver to see traffic behind him/her to facilitate safe driving. 
   * Convex mirrors are preferred because they always give an erect, though diminished, image. 
   * They have a wider field of view as they are curved outwards. Thus, convex mirrors enable the driver to view much larger area than would be possible with a plane mirror
+
+### Concave Mirrors
+* In torches, search-lights and vehicles headlights to get powerful parallel beams of light. 
+* As shaving mirrors to see a larger image of the face. 
+* By dentists to see large images of the teeth of patients. 
+* In solar furnaces, to concentrate sunlight to produce heat.
