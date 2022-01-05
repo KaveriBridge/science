@@ -162,7 +162,7 @@ A ray incident obliquely to the principal axis, towards a point P (pole of the m
 
 ## Sign Convention for Reflection by Spherical Mirrors
 ### New Cartesian Sign Convention
-<img width="320" src="https://user-images.githubusercontent.com/20998959/148201657-284e968a-c505-4076-aa0b-a69a28a5eec6.png">
+<img width="640" src="https://user-images.githubusercontent.com/20998959/148201657-284e968a-c505-4076-aa0b-a69a28a5eec6.png">
 
 |Topic|Convention|
 |-|-|
