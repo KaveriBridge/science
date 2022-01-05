@@ -86,3 +86,18 @@
 |At infinity| At the focus F, behind the mirror |Highly diminished, point-sized | Virtual and erect
 |Between infinity and the pole P |Between P and F, behind the mirror |Diminished| Virtual and erect
 
+## Sign Convention for Reflection by Spherical Mirrors
+### New Cartesian Sign Convention
+![image](https://user-images.githubusercontent.com/20998959/148201657-284e968a-c505-4076-aa0b-a69a28a5eec6.png)
+
+|||
+|-|-|
+|Origin|The pole (P) of the mirror
+|x-axis|The principal axis of the mirror
+|Object| Always placed to the left of the mirror. 
+|Distance | All distances parallel to the principal axis are measured from the pole of the mirror
+|Distance sign |  Distances measured to the right of the origin (along +x-axis) are taken as positive <br>
+                  Distances measured to the left of the origin (along +x-axis) are taken as negative <br> 
+                  Distances measured perpendicular to and above the principal axis (along + y-axis) are taken as positive. <br>
+                  Distances measured perpendicular to and below the principal axis (along –y-axis) are taken as negative.
+
