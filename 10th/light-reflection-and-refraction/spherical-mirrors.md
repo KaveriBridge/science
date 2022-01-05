@@ -7,6 +7,7 @@
 * **Concave Mirror**: A spherical mirror, whose reflecting surface is curved inwards, that is, faces towards the centre of the sphere, is called a concave mirror.
 * **Convex Mirror**: A spherical mirror whose reflecting surface is curved outwards, is called a convex mirror.
 
+![image](https://user-images.githubusercontent.com/20998959/148205734-41dbdc0a-b263-41a6-8ded-b72bea9fbe50.png)
 ![image](https://user-images.githubusercontent.com/20998959/148192465-35155d97-8771-40da-a176-c7618e880859.png)
 
 * The shaded side is non-reflecting
