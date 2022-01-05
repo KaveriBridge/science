@@ -21,8 +21,7 @@
 * The reflecting surface of a spherical mirror forms a part of a sphere.
 * This sphere has a centre. 
 * This point is called the centre of curvature of the spherical mirror. 
-* It is represented by the letter C. 
-* The centre of curvature is not a part of the mirror. 
-* It lies outside its reflecting surface. 
-* The centre of curvature of a concave mirror lies in front of it.
-* It lies behind the mirror in case of a convex mirror.
+* Represented by the letter C. 
+* It is not a part of the mirror. It lies outside its reflecting surface. 
+* Concave Mirror: The centre of curvature of a concave mirror lies in front of the concave mirror.
+* Convex Mirror:  The centre of curvature of a convex mirror lies behind of the convex mirror.
