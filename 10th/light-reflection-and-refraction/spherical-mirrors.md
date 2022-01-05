@@ -1,10 +1,10 @@
 ## Introduction
 * The most commonly used type of curved mirror is the spherical mirror. 
-**Spherical Mirror*** A curved mirror where the reflecting surface is a part of the surface of a sphere. Such mirrors with spherical reflecting surfaces are called spherical mirrors.
+* **Spherical Mirror**: A curved mirror where the reflecting surface is a part of the surface of a sphere. Such mirrors with spherical reflecting surfaces are called spherical mirrors.
 
 ## Concave vs Convex Mirror
 * The reflecting surface of a spherical mirror may be curved inwards or outwards. 
-* **Concave Mirror**A spherical mirror, whose reflecting surface is curved inwards, that is, faces towards the centre of the sphere, is called a concave mirror.
+* **Concave Mirror**: A spherical mirror, whose reflecting surface is curved inwards, that is, faces towards the centre of the sphere, is called a concave mirror.
 * **Convex Mirror**: A spherical mirror whose reflecting surface is curved outwards, is called a convex mirror.
 
 ![image](https://user-images.githubusercontent.com/20998959/148192465-35155d97-8771-40da-a176-c7618e880859.png)
@@ -12,6 +12,9 @@
 * The shaded side is non-reflecting
 
 ## Terms
+
+![image](https://user-images.githubusercontent.com/20998959/148198671-0e308f81-c218-48c5-8892-a8ff26b7b1f9.png)
+
 ### Pole
 * The centre of the reflecting surface of a spherical mirror
 * Lies on the surface of the mirror
@@ -50,3 +53,10 @@
 ## Focal length
 * The distance between the pole and the principal focus of a spherical mirror is called the focal length. 
 * Represented by the letter f
+
+## Aperture
+* The reflecting surface of a spherical mirror is by and large spherical.
+* The surface, then, has a circular outline. 
+* The diameter of the reflecting surface of spherical mirror is called its aperture. 
+![image](https://user-images.githubusercontent.com/20998959/148197716-5562956b-3e33-40d8-ad9b-80cadba365a0.png)
+* The distance MN represents the aperture
