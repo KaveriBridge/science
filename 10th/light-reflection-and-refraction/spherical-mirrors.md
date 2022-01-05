@@ -6,13 +6,11 @@
 * The reflecting surface of a spherical mirror may be curved inwards or outwards. 
 * **Concave Mirror**: A spherical mirror, whose reflecting surface is curved inwards, that is, faces towards the centre of the sphere, is called a concave mirror.
 * **Convex Mirror**: A spherical mirror whose reflecting surface is curved outwards, is called a convex mirror.
-![image](https://user-images.githubusercontent.com/20998959/148192465-35155d97-8771-40da-a176-c7618e880859.png)
-
+<img src="https://user-images.githubusercontent.com/20998959/148192465-35155d97-8771-40da-a176-c7618e880859.png" width="320">
 * The shaded side is non-reflecting
 
 ## Terms
-
-![image](https://user-images.githubusercontent.com/20998959/148198671-0e308f81-c218-48c5-8892-a8ff26b7b1f9.png)
+<img src="https://user-images.githubusercontent.com/20998959/148198671-0e308f81-c218-48c5-8892-a8ff26b7b1f9.png" width="640">
 
 ### Pole
 * The centre of the reflecting surface of a spherical mirror
@@ -24,7 +22,8 @@
 * The centre of this sphere is a point called the centre of curvature of the spherical mirror. 
 * Represented by the letter C. 
 
-![image](https://user-images.githubusercontent.com/20998959/148199517-54f62240-0c8b-46b3-8c3b-820518ded524.png)
+<img src="https://user-images.githubusercontent.com/20998959/148199517-54f62240-0c8b-46b3-8c3b-820518ded524.png" width="320">
+
 
 #### Where does it lie?
 * It is not a part of the mirror. It lies outside its reflecting surface. 
@@ -43,11 +42,11 @@
 ### Principal Focus
 * A number of rays parallel to the principal axis are falling on a spherical mirror. 
 * Observe the reflected rays. 
+<img width="320" src="https://user-images.githubusercontent.com/20998959/148197716-5562956b-3e33-40d8-ad9b-80cadba365a0.png" >
 
-![image](https://user-images.githubusercontent.com/20998959/148197716-5562956b-3e33-40d8-ad9b-80cadba365a0.png)
 * In case of a concave mirror, the reflected rays are all meeting/intersecting at a point on the principal axis of the mirror. 
 
-![image](https://user-images.githubusercontent.com/20998959/148197767-16473fd9-38ae-4508-a460-b58b3aa0b6ac.png)
+<img width="320" src="https://user-images.githubusercontent.com/20998959/148197767-16473fd9-38ae-4508-a460-b58b3aa0b6ac.png">
 * In case of a convex mirror, the reflected rays appear to come from a point on the principal axis. 
 
 * This point is called the principal focus of the mirror. 
@@ -61,7 +60,9 @@
 * The reflecting surface of a spherical mirror is by and large spherical.
 * The surface, then, has a circular outline. 
 * The diameter of the reflecting surface of spherical mirror is called its aperture. 
-![image](https://user-images.githubusercontent.com/20998959/148197716-5562956b-3e33-40d8-ad9b-80cadba365a0.png)
+
+<img width="320" src="https://user-images.githubusercontent.com/20998959/148197716-5562956b-3e33-40d8-ad9b-80cadba365a0.png">
+
 * The distance MN represents the aperture
 
 ### radius of curvature R, and focal length f
@@ -87,7 +88,7 @@
 
 ## Sign Convention for Reflection by Spherical Mirrors
 ### New Cartesian Sign Convention
-![image](https://user-images.githubusercontent.com/20998959/148201657-284e968a-c505-4076-aa0b-a69a28a5eec6.png)
+<img width="320" src="https://user-images.githubusercontent.com/20998959/148201657-284e968a-c505-4076-aa0b-a69a28a5eec6.png">
 
 |Topic|Convention|
 |-|-|
