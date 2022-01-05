@@ -102,28 +102,28 @@ A ray incident obliquely to the principal axis, towards a point P (pole of the m
 |-|-|-|-|
 |Beyond C |Between F and C |Diminished |Real and inverted
 #### At C
-<img width="320" src="(https://user-images.githubusercontent.com/20998959/148210077-4a724495-1aa3-4eb1-a57c-ac0c1cd5a0e0.png">
+<img width="320" src="https://user-images.githubusercontent.com/20998959/148210077-4a724495-1aa3-4eb1-a57c-ac0c1cd5a0e0.png">
 
 |Position of the object| Position of the image|Size of the image| Nature of the image|
 |-|-|-|-|
 |At C |At C |Same size |Real and inverted
 
 #### Between C and F
-<img width="320" src="(https://user-images.githubusercontent.com/20998959/148210232-f3c991e9-6f78-4c40-b748-0b16fa8c300e.png">
+<img width="320" src="https://user-images.githubusercontent.com/20998959/148210232-f3c991e9-6f78-4c40-b748-0b16fa8c300e.png">
 
 |Position of the object| Position of the image|Size of the image| Nature of the image|
 |-|-|-|-|
 |Between C and F |Beyond C |Enlarged |Real and inverted
 
 #### At F
-![image](https://user-images.githubusercontent.com/20998959/148210232-f3c991e9-6f78-4c40-b748-0b16fa8c300e.png)
+<img width="320" src="https://user-images.githubusercontent.com/20998959/148210232-f3c991e9-6f78-4c40-b748-0b16fa8c300e.png">
 
 |Position of the object| Position of the image|Size of the image| Nature of the image|
 |-|-|-|-|
 |At F |At infinity | Highly enlarged |Real and inverted
 
 #### Between P and F 
-<img width="320" src="(https://user-images.githubusercontent.com/20998959/148210350-94502aab-7032-4a48-a25f-1ba780e5192a.png">
+<img width="320" src="https://user-images.githubusercontent.com/20998959/148210350-94502aab-7032-4a48-a25f-1ba780e5192a.png">
 
 |Position of the object| Position of the image|Size of the image| Nature of the image|
 |-|-|-|-|
