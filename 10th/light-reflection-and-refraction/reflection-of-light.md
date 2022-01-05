@@ -1,3 +1,8 @@
+## Summary
+* Light is reflected from all surfaces. 
+* A regular reflection takes place when light is incident on smooth, polished and regular surfaces
+* Image formed in a plane mirror undergoes lateral inversion.
+
 ## Laws of reflection
 (i) The angle of incidence is equal to the angle of reflection.
 (ii) The incident ray, the normal to the mirror at the point of incidence and the reflected ray, all lie in the same plane.
