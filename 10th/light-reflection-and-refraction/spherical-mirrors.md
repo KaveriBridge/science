@@ -96,8 +96,5 @@
 |x-axis|The principal axis of the mirror
 |Object| Always placed to the left of the mirror. 
 |Distance | All distances parallel to the principal axis are measured from the pole of the mirror
-|Distance sign |  Distances measured to the right of the origin (along +x-axis) are taken as positive <br>
-                  Distances measured to the left of the origin (along +x-axis) are taken as negative <br> 
-                  Distances measured perpendicular to and above the principal axis (along + y-axis) are taken as positive. <br>
-                  Distances measured perpendicular to and below the principal axis (along –y-axis) are taken as negative.
+|Distance sign |  Distances measured to the right of the origin (along +x-axis) are taken as positive <br> Distances measured to the left of the origin (along +x-axis) are taken as negative <br> Distances measured perpendicular to and above the principal axis (along + y-axis) are taken as positive. <br> Distances measured perpendicular to and below the principal axis (along –y-axis) are taken as negative.
 
