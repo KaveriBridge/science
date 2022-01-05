@@ -20,24 +20,24 @@
 * Lies on the surface of the mirror
 * Usually represented by the letter P.
 
-## Centre of Curvature
+### Centre of Curvature
 * The reflecting surface of a spherical mirror forms a part of a sphere. 
 * The centre of this sphere is a point called the centre of curvature of the spherical mirror. 
 * Represented by the letter C. 
-### Where does it lie?
+#### Where does it lie?
 * It is not a part of the mirror. It lies outside its reflecting surface. 
 * Concave Mirror: Lies in front of the concave mirror.
 * Convex Mirror:  Lies behind of the convex mirror.
 
-## Radius of Curvature
+### Radius of Curvature
 * The radius of the sphere of which the reflecting surface of a spherical mirror forms a part, is called the radius of curvature of the mirror. 
 * Represented by the letter R. 
 * The distance PC is equal to the radius of curvature. 
-## Principal axis
+### Principal axis
 * An imaginary line passing through the pole and the centre of curvature of a spherical mirror. 
 * The pincipal axis is normal to the mirror at its pole. 
 
-# Principal Focus
+### Principal Focus
 * A number of rays parallel to the principal axis are falling on a spherical mirror. 
 * Observe the reflected rays. 
 
@@ -50,11 +50,11 @@
 * This point is called the principal focus of the mirror. 
 * The principal focus is represented by the letter F. 
 
-## Focal length
+### Focal length
 * The distance between the pole and the principal focus of a spherical mirror is called the focal length. 
 * Represented by the letter f
 
-## Aperture
+### Aperture
 * The reflecting surface of a spherical mirror is by and large spherical.
 * The surface, then, has a circular outline. 
 * The diameter of the reflecting surface of spherical mirror is called its aperture. 
