@@ -68,3 +68,14 @@
 ### radius of curvature R, and focal length f
 * R = 2f
 * The principal focus (F) of a spherical mirror lies midway between the pole (P) and centre of curvature (C)
+
+## Image Formation by Spherical Mirrors
+### Concave Mirror
+|Position of the object| Position of the image|Size of the image| Nature of the image|
+|-|-|-|-|
+|At infinity| At the focus F |Highly diminished, point-sized | Real and inverted
+|Beyond C |Between F and C |Diminished |Real and inverted
+|At C |At C |Same size |Real and inverted
+|Between C and F |Beyond C |Enlarged |Real and inverted
+|At F |At infinity Highly enlarged |Real and inverted
+|Between P and F |Behind the mirror |Enlarged |Virtual and erect
