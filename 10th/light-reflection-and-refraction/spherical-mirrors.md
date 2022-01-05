@@ -90,7 +90,7 @@
 ### New Cartesian Sign Convention
 ![image](https://user-images.githubusercontent.com/20998959/148201657-284e968a-c505-4076-aa0b-a69a28a5eec6.png)
 
-|||
+|Topic|Convention|
 |-|-|
 |Origin|The pole (P) of the mirror
 |x-axis|The principal axis of the mirror
