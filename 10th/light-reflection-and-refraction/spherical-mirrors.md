@@ -190,7 +190,7 @@ Why?
 |Distance sign |  Distances measured to the right of the origin (along +x-axis) are taken as positive <br> Distances measured to the left of the origin (along +x-axis) are taken as negative <br> Distances measured perpendicular to and above the principal axis (along + y-axis) are taken as positive. <br> Distances measured perpendicular to and below the principal axis (along –y-axis) are taken as negative.
 
 ## Mirror Formula
-<img width="320" src="https://user-images.githubusercontent.com/20998959/148212827-a2c17158-da4a-4e5d-8d88-bae0e8f56a83.png">
+<img width="160" src="https://user-images.githubusercontent.com/20998959/148212827-a2c17158-da4a-4e5d-8d88-bae0e8f56a83.png">
 
 * u = object distance = The distance of the object from the pole of the mirror
 * v = image distance = The distance of the image from the pole of the mirror 
