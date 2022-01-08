@@ -88,7 +88,7 @@
         Addition of hydrogen to vegetable oils 
             Using a nicket catalyst
             produces saturated fats
-<img width="640" src="https://user-images.githubusercontent.com/20998959/128068951-d8998ba5-34ac-427c-bf48-928c2c07c14f.png">
+<img width="320" src="https://user-images.githubusercontent.com/20998959/128068951-d8998ba5-34ac-427c-bf48-928c2c07c14f.png">
 
     Saturated/Unsaturated fats and health        
         Vegetable oils generally have long unsaturated carbon chains
@@ -100,7 +100,7 @@
     Substitution reaction
         A reaction in which one type of atom or a group of atoms takes the place of another
         
-<img width="320" src="https://user-images.githubusercontent.com/20998959/128070788-5d6de9d7-e431-4b45-ac02-73828db1b923.png">
+<img width="480" src="https://user-images.githubusercontent.com/20998959/128070788-5d6de9d7-e431-4b45-ac02-73828db1b923.png">
 
     Substitution reaction - Chlorine substituting Hydrogen
         Saturated hydrocarbons 
