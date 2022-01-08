@@ -155,8 +155,7 @@ A ray of light passing through the optical centre of a lens will emerge without 
 |-|-|-|-|
 |At infinity| At the focus F, behind the mirror |Highly diminished, point-sized | Virtual and erect
 #### Between infinity and the pole P
-<img width="480" src="https://user-images.githubusercontent.com/20998959/148210577-69ae5569-69f0-4ef7-b675-1b205c19c4f9.png">
-
+<img width="480" src="https://user-images.githubusercontent.com/20998959/148642626-7fc46364-0141-4392-bbc8-41efaa107030.png">
 
 |Position of the object| Position of the image|Size of the image| Nature of the image|
 |-|-|-|-|
