@@ -231,3 +231,15 @@ A ray of light passing through the optical centre of a lens will emerge without 
 * For example, a combination of two lenses of power + 2.0 D and + 0.25 D is equivalent to a single lens of power + 2.25 D.
 * The simple additive property of the powers of lenses can be used to design lens systems to minimise certain defects in images produced by a single lens. 
 * Such a lens system, consisting of several lenses, in contact, is commonly used in the design of lenses of camera, microscopes and telescopes
+
+## Questions
+#### 1. Define 1 dioptre of power of a lens.
+* 1 dioptre is the power of a lens whose focal length is 1 metre.
+#### 2. A convex lens forms a real and inverted image of a needle at a distance of 50 cm from it. Where is the needle placed in front of the convex lens if the image is equal to the size of the object? Also, find the power of the lens.
+* The needle is placed on the center of curvature (2F1) as the image size is equal to the size of the object.
+* Hence the focal length is 50/2 = 25cm
+* Power of the lense = 1/f = 1/0.25m = 4m⁻¹
+#### 3. Find the power of a concave lens of focal length 2 m.
+* Focal length of the concave lens is negative.
+* f = -2m
+* Power = 1/f = 1/-2 = -0.5m⁻¹
