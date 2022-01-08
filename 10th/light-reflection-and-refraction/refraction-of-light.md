@@ -87,7 +87,7 @@ If i is the angle of incidence and r is the angle of refraction, then,
 ### 4. You are given kerosene, turpentine and water. In which of these does the light travel fastest? 
 * The speed of light is higher in a rarer medium than a denser medium.
 * Light travels the fastest in water (with n=1.33) as it is optically rarer than kerosene (n=1.44) and turpentine (n=1.47)
-* 
+
 ### 5. The refractive index of diamond is 2.42. What is the meaning of this statement?
 * Light travels 2.42 times slower in Diamond as compared to vaccuum/air.
 
