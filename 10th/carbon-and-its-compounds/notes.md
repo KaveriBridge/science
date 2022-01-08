@@ -70,7 +70,7 @@
   * The colour of potassium permanganate disappears initially.
   * The colour of potassium permanganate not disappear when excess is added.
 
-<img width="640" src="https://user-images.githubusercontent.com/20998959/128067799-331776bf-0dc7-430f-9acf-918eb9845888.png">
+<img width="480" src="https://user-images.githubusercontent.com/20998959/128067799-331776bf-0dc7-430f-9acf-918eb9845888.png">
 
 
 ## Addition Reaction
