@@ -62,13 +62,13 @@
 * The oil and gas seeped into the porous parts of the rock, and got trapped like water in a sponge. 
 
 ## Oxidation
-    Alkaline potassium permanganate or acidified potassium dichromate oxidise alcohols to acids. 
-    Oxidation of Ethanol
-        Take about 3 mL of ethanol in a test tube.
-        Warm it gently in a water bath.
-        Add a 5% solution of alkaline potassium permanganate drop by drop to this solution.
-        The colour of potassium permanganate disappears initially.
-        The colour of potassium permanganate not disappear when excess is added.
+* Alkaline potassium permanganate or acidified potassium dichromate oxidise alcohols to acids. 
+* Oxidation of Ethanol
+  * Take about 3 mL of ethanol in a test tube.
+  * Warm it gently in a water bath.
+  * Add a 5% solution of alkaline potassium permanganate drop by drop to this solution.
+  * The colour of potassium permanganate disappears initially.
+  * The colour of potassium permanganate not disappear when excess is added.
 
 <img width="640" src="https://user-images.githubusercontent.com/20998959/128067799-331776bf-0dc7-430f-9acf-918eb9845888.png">
 
