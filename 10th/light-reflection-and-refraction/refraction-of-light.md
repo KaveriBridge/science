@@ -15,6 +15,10 @@
 ## Snell's law of refraction
 If i is the angle of incidence and r is the angle of refraction, then, 
 * sin i / sin r = constant 
+
+<img width ="240" src="https://user-images.githubusercontent.com/20998959/148641176-f940fe58-0e5b-4db9-ab4d-902800b2e3d0.png">
+
+
 * This constant value is called the refractive index of the second medium with respect to the first.
 
 ## Speed of light in various media
@@ -26,13 +30,12 @@ If i is the angle of incidence and r is the angle of refraction, then,
 ## The Refractive Index
 ## Relative refractive index
 * The refractive index of medium 2 with respect to medium 1 is given by the ratio of the speed of light in medium 1 and the speed of light in medium 2.
-![image](https://user-images.githubusercontent.com/20998959/148640736-8ad33bca-14a0-4e28-a449-399d1bb093e5.png)
-
+<img width ="320" src="https://user-images.githubusercontent.com/20998959/148640736-8ad33bca-14a0-4e28-a449-399d1bb093e5.png">
 
 ### Absolute refractive index
 * The refractive index of a transparent medium is the ratio of the speed of light in vacuum to that in the medium.
 
-![image](https://user-images.githubusercontent.com/20998959/148640489-0e55f38c-1846-4383-bbb1-81f63b3aa107.png)
+<img width ="320" src="https://user-images.githubusercontent.com/20998959/148640489-0e55f38c-1846-4383-bbb1-81f63b3aa107.png">
 
 ### Refractive index of various materials
 |Material | Refractive index|
