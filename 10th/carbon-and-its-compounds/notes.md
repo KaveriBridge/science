@@ -48,21 +48,43 @@
 <img width="320" src="https://user-images.githubusercontent.com/20998959/148657042-c17c99a1-8e96-4207-8b39-56de43b5e240.png">
 
 ### Methane
-* Methane is widely used as a fuel and is a major component of bio-gas and Compressed Natural Gas (CNG). 
 * Methane has a formula CH4. 
-* Hydrogen, as you know, has a valency of 1. 
-* Carbon is tetravalent because it has four valence electrons. 
+* Hydrogen has a valency of 1. 
+* Carbon has a valency of 4.
 * In order to achieve noble gas configuration, carbon shares these electrons with four atoms of hydrogen 
 
 <img width="320" src="https://user-images.githubusercontent.com/20998959/148657518-c75d5910-839f-4e90-a686-e13cf808e092.png">
 
 
-## Covalent bonds and their properties
-* Such bonds which are formed by the sharing of an electron pair between two atoms are known as covalent bonds. 
+### Covalent bonds and their properties
+* Bonds formed by the sharing of an electron pair between two atoms are known as covalent bonds. 
 * Covalently bonded molecules are seen to have strong bonds within the molecule, but inter-molecular forces are weak. 
 * This gives rise to the low melting and boiling points of these compounds. 
 * Since the electrons are shared between atoms and no charged particles are formed, such covalent compounds are generally poor conductors of electricity
 
+### VERSATILE NATURE OF CARBON
+* The numbers of carbon compounds whose formulae are known to chemists was recently estimated to be in millions! 
+* Why is it that this property is seen in carbon and no other element?
+* The nature of the covalent bond enables carbon to form a large number of compounds. 
+* Two factors noticed in the case of carbon are –
+#### (i) CATENATION
+* Carbon has the unique ability to form bonds with other atoms of carbon, giving rise to large molecules. 
+* This property is called catenation. 
+* These compounds may have long chains of carbon, branched chains of carbon or even carbon atoms arranged in rings.
+* In addition, carbon atoms may be linked by single, double or triple bonds. 
+* Compounds of carbon, which are linked by only single bonds between the carbon atoms are called saturated compounds.
+* Compounds of carbon having double or triple bonds between their carbon atoms are called unsaturated compounds.
+* No other element exhibits the property of catenation to the extent seen in carbon compounds. 
+* Silicon forms compounds with hydrogen which have chains of upto seven or eight atoms, but these compounds are very reactive. 
+* The carbon-carbon bond is very strong and hence stable. 
+* This gives us the large number of compounds with many carbon atoms linked to each other
+#### (ii) TETRAVALENCY
+* Since carbon has a valency of four, it is capable of bonding with four other atoms of carbon or atoms of some other mono-valent element. 
+* Compounds of carbon are formed with oxygen, hydrogen, nitrogen, sulphur, chlorine and many other elements giving rise to compounds with specific properties which depend on the elements other than carbon present in the molecule.
+* Again the bonds that carbon forms with most other elements are very strong making these compounds exceptionally stable. 
+* One reason for the formation of strong bonds by carbon is its small size. 
+* This enables the nucleus to hold on to the shared pairs of electrons strongly. 
+* The bonds formed by elements having bigger atoms are much weaker
 ## Formation of coal and petroleum
 ### Coal
 * Coal is the remains of trees, ferns, and other plants that lived millions of years ago. 
