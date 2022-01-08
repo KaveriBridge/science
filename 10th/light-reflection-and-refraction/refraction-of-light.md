@@ -1,38 +1,57 @@
-Light seems to travel along straight-line paths in a transparent medium.
-What happens when light enters from one transparent medium to another? 
-Does it still move along a straight-line path or change its direction? 
-We shall recall some of our day-to-day experiences.
-You might have observed that the bottom of a tank or a pond containing water appears to be raised. 
-Similarly, when a thick glass slab is placed over some printed matter, the letters appear raised when viewed through the glass slab. 
-Why does it happen? 
-Have you seen a pencil partly immersed in water in a glass tumbler? 
-It appears to be displaced at the interface of air and water. 
-You might have observed that a lemon kept in water in a glass tumbler appears to be bigger than its actual size, when viewed from the sides. 
-How can you account for such experiences?
+## What is refraction?
+* A ray of light that travels obliquely from one transparent medium into another will change its direction in the second medium.
 
-Let us consider the case of the apparent displacement of a pencil, partly immersed in water. 
-The light reaching you from the portion of the pencil inside water seems to come from a different direction, compared to the part above water. 
-This makes the pencil appear to be displaced at the interface. 
-For similar reasons, the letters appear to be raised, when seen through a glass slab placed over it
+## Effects of refraction
+* The bottom of a tank or a pond containing water appears to be raised
+* Letters appear to be raised, when seen through a glass slab placed over it
+* When a thick glass slab is placed over some printed matter, the letters appear raised when viewed through the glass slab. 
+* A pencil partly immersed in water in a glass tumbler appears to be displaced at the interface of air and water.  
+* A lemon kept in water in a glass tumbler appears to be bigger than its actual size, when viewed from the sides.
 
 ## Laws of refraction of light
-(i) The incident ray, the refracted ray and the normal to the interface of two transparent media at the point of incidence, all lie in the same plane.
-(ii) The ratio of sine of angle of incidence to the sine of angle of refraction is a constant, for the light of a given colour and for the given pair of media. This law is also known as Snell’s law of
-refraction. (This is true for angle 0 < i < 90)
+* The incident ray, the refracted ray and the normal to the interface of two transparent media at the point of incidence, all lie in the same plane.
+* The ratio of sine of angle of incidence to the sine of angle of refraction is a constant, for the light of a given colour and for the given pair of media.  (This is true for angle 0 < i < 90)
 
-## Snell's law
+## Snell's law of refraction
 If i is the angle of incidence and r is the angle of refraction, then, 
-sin i / sin r = constant
-This constant value is called the refractive index of the second medium with respect to the first.
+* sin i / sin r = constant 
+* This constant value is called the refractive index of the second medium with respect to the first.
 
-## 10.3.2 The Refractive Index
-* You have already studied that a ray of light that travels obliquely from one transparent medium into another will change its direction in the second medium. 
-* The extent of the change in direction that takes place in a given pair of media may be expressed in terms of the refractive index, the “constant” appearing on the right-hand side of Eq.(10.4).
-* The refractive index can be linked to an important physical quantity, the relative speed of propagation of light in different media. 
-* It turns out that light propagates with different speeds in different media. 
-* Light travels fastest in vacuum with speed of 3×108 m s–1. 
+## Speed of light in various media
+* Light propagates with different speeds in different media. 
+* Light travels fastest in vacuum with speed of 3×10⁸ ms⁻¹.
 * In air, the speed of light is only marginally less, compared to that in vacuum. 
 * It reduces considerably in glass or water. 
+
+## The Refractive Index
+* The refractive index of a transparent medium is the ratio of the speed of light in vacuum to that in the medium.
+
+![image](https://user-images.githubusercontent.com/20998959/148640489-0e55f38c-1846-4383-bbb1-81f63b3aa107.png)
+
+
+|Material | Refractive index|
+|-|-|
+|Air |1.0003 
+|Ice |1.31
+|Water |1.33 
+|Alcohol |1.36
+|Kerosene |1.44 
+|Fused quartz |1.46
+|Turpentine oil |1.47
+|Benzene |1.50
+|Crown glass |1.52
+|Canada Balsam |1.53
+|Rock salt |1.54
+|Carbon disulphide |1.63
+|Dense flint glass |1.65
+|Ruby |1.71
+|Sapphire |1.77
+|Diamond |2.42
+
+
+* 
+* The extent of the change in direction that takes place in a given pair of media may be expressed in terms of the refractive index, the “constant” appearing on the right-hand side of Eq.(10.4).
+* The refractive index can be linked to an important physical quantity, the relative speed of propagation of light in different media. 
 * The value of the refractive index for a given pair of media depends upon the speed of light in the two media, as given below
 * Consider a ray of light travelling from medium 1 into medium 2, as shown in Fig.10.11. Let v1 be the speed of light in medium 1 and v2 be the speed of light in medium 2. 
 * The refractive index of medium 2 with respect to medium 1 is given by the ratio of the speed of light in medium 1 and the speed of light in medium 2. 
