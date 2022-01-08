@@ -64,4 +64,28 @@ If i is the angle of incidence and r is the angle of refraction, then,
 * When it travels from a denser medium to a rarer medium, it speeds up and bends away from the normal.
 
 
+## QUESTIONS
+### 1. A ray of light travelling in air enters obliquely into water. Does the light ray bend towards the normal or away from the normal? Why?
+* Air is optically rarer as compared to water as it has lower refractive index.
+* When a ray of light travels from a rarer medium to a denser medium, it slows down and bends towards the normal. 
+
+### 2. Light enters from air to glass having refractive index 1.50. What is the speed of light in the glass? The speed of light in vacuum is 3 × 10⁸ ms⁻¹.
+* We know that n = c/v
+* Therefore v = c/n
+* In this case, c = 3 × 10⁸ ms⁻¹ and n = 1.50
+* v = 3 × 10⁸/1.5 = 2 × 10⁸ ms⁻¹.
+
+### 3. Find out, from Table 10.3, the medium having highest optical density. Also find the medium with lowest optical density.
+* In comparing two media, the one with the larger refractive index is optically denser medium than the other. 
+* Diamond with n=2.42 is most optically dense.
+* Air with n=1.003 is the least optically dense.
+
+
+### 4. You are given kerosene, turpentine and water. In which of these does the light travel fastest? 
+* The speed of light is higher in a rarer medium than a denser medium.
+* Light travels the fastest in water (with n=1.33) as it is optically rarer than kerosene (n=1.44) and turpentine (n=1.47)
+* 
+### 5. The refractive index of diamond is 2.42. What is the meaning of this statement?
+* Light travels 2.42 times slower in Diamond as compared to vaccuum/air.
+
 
