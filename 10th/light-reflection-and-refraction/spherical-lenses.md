@@ -236,7 +236,7 @@ A ray of light passing through the optical centre of a lens will emerge without 
 #### 1. Define 1 dioptre of power of a lens.
 * 1 dioptre is the power of a lens whose focal length is 1 metre.
 #### 2. A convex lens forms a real and inverted image of a needle at a distance of 50 cm from it. Where is the needle placed in front of the convex lens if the image is equal to the size of the object? Also, find the power of the lens.
-* The needle is placed on the center of curvature (2F1) as the image size is equal to the size of the object.
+* The needle is placed on the center of curvature (2F₁) as the image size is equal to the size of the object.
 * Hence the focal length is 50/2 = 25cm
 * Power of the lense = 1/f = 1/0.25m = 4m⁻¹
 #### 3. Find the power of a concave lens of focal length 2 m.
