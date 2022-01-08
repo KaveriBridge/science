@@ -95,41 +95,42 @@ A ray of light passing through the optical centre of a lens will emerge without 
 
 ### Convex lens
 #### At infinity
-<img width="320" src="https://user-images.githubusercontent.com/20998959/148209515-1b9e840c-a4bc-4a84-ba41-6dbd9a6ca19d.png">
+<img width="320" src="https://user-images.githubusercontent.com/20998959/148642457-2a0dc66f-aae8-4e50-9b0e-46d8de727d19.png">
 
 |Position of the object| Position of the image|Size of the image| Nature of the image|
 |-|-|-|-|
 |At infinity| At the focus F |Highly diminished, point-sized | Real and inverted
 #### Beyond C
-<img width="320" src="https://user-images.githubusercontent.com/20998959/148209619-8d18ef39-6901-4ca6-ad54-a3d6e1f2546c.png">
+<img width="320" src="https://user-images.githubusercontent.com/20998959/148642473-56db917e-fd2e-40d1-a67a-436d854dc570.png">
 
 |Position of the object| Position of the image|Size of the image| Nature of the image|
 |-|-|-|-|
 |Beyond C |Between F and C |Diminished |Real and inverted
 #### At C
-<img width="320" src="https://user-images.githubusercontent.com/20998959/148210077-4a724495-1aa3-4eb1-a57c-ac0c1cd5a0e0.png">
+<img width="320" src="https://user-images.githubusercontent.com/20998959/148642485-69af3df7-6242-46f8-919e-162830700f54.png">
 
 |Position of the object| Position of the image|Size of the image| Nature of the image|
 |-|-|-|-|
 |At C |At C |Same size |Real and inverted
 
 #### Between C and F
-<img width="320" src="https://user-images.githubusercontent.com/20998959/148210232-f3c991e9-6f78-4c40-b748-0b16fa8c300e.png">
+<img width="320" src="https://user-images.githubusercontent.com/20998959/148642491-f48e871e-b27d-4640-8d5b-69531ebe1692.png">
+
 
 |Position of the object| Position of the image|Size of the image| Nature of the image|
 |-|-|-|-|
 |Between C and F |Beyond C |Enlarged |Real and inverted
 
 #### At F
-<img width="320" src="https://user-images.githubusercontent.com/20998959/148221989-646e6eff-4fc4-44e6-8678-ce863baff3cf.png">
-
+<img width="320" src="https://user-images.githubusercontent.com/20998959/148642559-c605e2a2-2b59-4bac-942c-5c85189e584b.png">
 
 |Position of the object| Position of the image|Size of the image| Nature of the image|
 |-|-|-|-|
 |At F |At infinity | Highly enlarged |Real and inverted
 
 #### Between P and F 
-<img width="320" src="https://user-images.githubusercontent.com/20998959/148210350-94502aab-7032-4a48-a25f-1ba780e5192a.png">
+<img width="320" src="https://user-images.githubusercontent.com/20998959/148642570-77cad5e0-6a59-449a-b99e-d36d6bf5b2ff.png">
+
 
 |Position of the object| Position of the image|Size of the image| Nature of the image|
 |-|-|-|-|
@@ -147,7 +148,7 @@ A ray of light passing through the optical centre of a lens will emerge without 
 
 ### Concave Lens
 #### At infinity
-<img width="480" src="https://user-images.githubusercontent.com/20998959/148210543-773d9882-682d-4176-8d5b-5da52912ba9c.png">
+<img width="480" src="https://user-images.githubusercontent.com/20998959/148642590-01b39f00-d2c5-408f-a70d-30a47e6891a9.png">
 
 
 |Position of the object| Position of the image|Size of the image| Nature of the image|
@@ -155,6 +156,7 @@ A ray of light passing through the optical centre of a lens will emerge without 
 |At infinity| At the focus F, behind the mirror |Highly diminished, point-sized | Virtual and erect
 #### Between infinity and the pole P
 <img width="480" src="https://user-images.githubusercontent.com/20998959/148210577-69ae5569-69f0-4ef7-b675-1b205c19c4f9.png">
+
 
 |Position of the object| Position of the image|Size of the image| Nature of the image|
 |-|-|-|-|
