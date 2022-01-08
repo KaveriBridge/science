@@ -19,7 +19,7 @@
 <img width="640" src="https://user-images.githubusercontent.com/20998959/148641712-615c14a0-8db8-4827-8ad4-e93e337cdda1.png">
 
 ## Terms
-<img src="https://user-images.githubusercontent.com/20998959/148198671-0e308f81-c218-48c5-8892-a8ff26b7b1f9.png" width="640">
+<img src="https://user-images.githubusercontent.com/20998959/148642127-7b0ac8c7-9dad-47d5-80fe-30c8a3706b8e.png" width="640">
 
 ### Optical centre
 * The central point of a lens is its optical centre
@@ -52,15 +52,17 @@
 * A number of rays parallel to the principal axis are falling on a spherical lens. 
 * Observe the refracted rays. 
 
-<img width="320" src="https://user-images.githubusercontent.com/20998959/148197716-5562956b-3e33-40d8-ad9b-80cadba365a0.png" >
+<img width="320" src="https://user-images.githubusercontent.com/20998959/148642149-f1647e44-e21a-4165-98ac-7d225357dc0d.png" >
 
 * In case of a convex lens, the refracted rays are all meeting/intersecting at a point on the principal axis of the lens. 
 
-<img width="320" src="https://user-images.githubusercontent.com/20998959/148197767-16473fd9-38ae-4508-a460-b58b3aa0b6ac.png">
+<img width="320" src="https://user-images.githubusercontent.com/20998959/148642157-66db1268-27f9-44b7-be53-af8507fe56ed.png">
 
-* In case of a convex mirror, the refracted rays appear to diverge from a point on the principal axis. 
+* In case of a convex lens, the refracted rays appear to diverge from a point on the principal axis. 
+
 * This point is called the principal focus of the lens. 
 * The principal focus is represented by the letter F. 
+
 * If you pass parallel rays from the opposite surface of the lens, you get another principal focus on the opposite side.  Hence, a lens has two principal foci. They
 are represented by F1  and F2
 
@@ -72,23 +74,23 @@ are represented by F1  and F2
 * R = 2f
 * The principal focus (F) of a spherical lens lies midway between the optical center (O) and the centre of curvature (C).
 
-## Image Formation by Spherical Mirrors
+## Image Formation by Spherical Lenses
 ### Ray Diagrams
 #### Ray parallel to the principal axis
-<img width="640" src="https://user-images.githubusercontent.com/20998959/148208477-9f8128d7-638e-43c6-b472-a453b6417b3f.png">
-A ray parallel to the principal axis, after reflection, will pass through the principal focus in case of a concave mirror or appear to diverge from the principal focus in case of a convex mirror.
+<img width="640" src="https://user-images.githubusercontent.com/20998959/148642294-f38ebf98-b87e-4644-87aa-803e2580dc52.png">
+
+A ray of light from the object, parallel to the principal axis, after refraction from a convex lens, passes through the principal focus on the other side of the lens. In case of a concave lens, the ray appears to diverge from the principal focus located on the same side of the lens.
 
 #### Ray passing through to the principal focus
-<img width="640" src="https://user-images.githubusercontent.com/20998959/148209050-6374a341-9da3-4297-9980-325348825b20.png">
-A ray passing through the principal focus of a concave mirror or a ray which is directed towards the principal focus of a convex mirror, after reflection, will emerge parallel to the principal axis. 
+<img width="640" src="https://user-images.githubusercontent.com/20998959/148642317-98eb3dea-a575-4d43-b5ac-2ed1076d2a4e.png">
 
-#### Ray passing through to the centre of curvature
-<img width="640" src="https://user-images.githubusercontent.com/20998959/148209094-7e2224c3-e5a3-406d-87f6-f6d0f6d84082.png">
-A ray passing through the centre of curvature of a concave mirror or directed in the direction of the centre of curvature of a convex mirror, after reflection, is reflected back along the same path. The light rays come back along the same path because the incident rays fall on the mirror along the normal to the reflecting surface  
+* A ray of light passing through a principal focus, after refraction from a convex lens, will emerge parallel to the principal axis.  
+* A ray of light appearing to meet at the principal focus of a concave lens, after refraction, will emerge parallel to the principal axis.
 
-#### Ray incident obliquely to the principal axis towards at the pole of the mirror
-<img width="640" src="https://user-images.githubusercontent.com/20998959/148209128-ed2c65bf-4d91-43f3-82d2-9e868425db69.png">
-A ray incident obliquely to the principal axis, towards a point P (pole of the mirror), on the concave mirror or a convex mirror, is reflected obliquely. The incident and reflected rays follow the laws of reflection at the point of incidence (point P), making equal angles with the principal axis.
+#### Ray passing through the optical centre
+<img width="640" src="https://user-images.githubusercontent.com/20998959/148642330-0d61c1a4-8be7-46cb-8a22-29efb2f7bdd0.png">
+
+A ray of light passing through the optical centre of a lens will emerge without any deviation. 
 
 ### Concave Mirror
 #### At infinity
