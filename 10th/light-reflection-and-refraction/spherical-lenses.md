@@ -213,7 +213,7 @@ A ray of light passing through the optical centre of a lens will emerge without 
 * It is represented by the letter P. 
 * The power of a convex lens is positive and that of a concave lens is negative.
 
-<img width="320" src="https://user-images.githubusercontent.com/20998959/148642952-3baf24f7-0d59-4053-b35f-b13bd927ce5b.png">
+<img width="120" src="https://user-images.githubusercontent.com/20998959/148642952-3baf24f7-0d59-4053-b35f-b13bd927ce5b.png">
 
 ### SI Unit of a Lens
 * SI unit of power of a lens is ‘dioptre’
