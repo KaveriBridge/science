@@ -15,9 +15,6 @@ The light reaching you from the portion of the pencil inside water seems to come
 This makes the pencil appear to be displaced at the interface. 
 For similar reasons, the letters appear to be raised, when seen through a glass slab placed over it
 
-<p style="page-break-after: always;">&nbsp;</p>
-<p style="page-break-before: always;">&nbsp;</p>
-
 ## Laws of refraction of light
 (i) The incident ray, the refracted ray and the normal to the interface of two transparent media at the point of incidence, all lie in the same plane.
 (ii) The ratio of sine of angle of incidence to the sine of angle of refraction is a constant, for the light of a given colour and for the given pair of media. This law is also known as Snell’s law of
