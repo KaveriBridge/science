@@ -79,7 +79,8 @@ are represented by F1  and F2
 #### Ray parallel to the principal axis
 <img width="640" src="https://user-images.githubusercontent.com/20998959/148642294-f38ebf98-b87e-4644-87aa-803e2580dc52.png">
 
-A ray of light from the object, parallel to the principal axis, after refraction from a convex lens, passes through the principal focus on the other side of the lens. In case of a concave lens, the ray appears to diverge from the principal focus located on the same side of the lens.
+* A ray of light from the object, parallel to the principal axis, after refraction from a convex lens, passes through the principal focus on the other side of the lens. 
+* In case of a concave lens, the ray appears to diverge from the principal focus located on the same side of the lens.
 
 #### Ray passing through to the principal focus
 <img width="640" src="https://user-images.githubusercontent.com/20998959/148642317-98eb3dea-a575-4d43-b5ac-2ed1076d2a4e.png">
