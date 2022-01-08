@@ -31,7 +31,7 @@
 * Each of these surfaces forms a part of a sphere. 
 * The centres of these spheres are called centres of curvature of the lens. 
 * The centre of curvature of a lens is usually represented by the letter C. 
-* Since there are two centres of curvature, we may represent them as C1  and C2
+* Since there are two centres of curvature, we may represent them as C₁  and C₂
 
 ### Radius of Curvature
 * The radius of the sphere of which the spherical surface of a spherical lens forms a part, is called the radius of curvature of the lens. 
@@ -64,7 +64,7 @@
 * The principal focus is represented by the letter F. 
 
 * If you pass parallel rays from the opposite surface of the lens, you get another principal focus on the opposite side.  Hence, a lens has two principal foci. They
-are represented by F1  and F2
+are represented by F₁  and F₂
 
 ### Focal length
 * The distance of the principal focus from the optical centre of a lens is called its focal length. 
@@ -99,90 +99,73 @@ A ray of light passing through the optical centre of a lens will emerge without 
 
 |Position of the object| Position of the image|Size of the image| Nature of the image|
 |-|-|-|-|
-|At infinity| At the focus F |Highly diminished, point-sized | Real and inverted
-#### Beyond C
+|At infinity| At focus F₂ |Highly diminished, point-sized | Real and inverted
+#### Beyond 2F₁
 <img width="320" src="https://user-images.githubusercontent.com/20998959/148642473-56db917e-fd2e-40d1-a67a-436d854dc570.png">
 
 |Position of the object| Position of the image|Size of the image| Nature of the image|
 |-|-|-|-|
-|Beyond C |Between F and C |Diminished |Real and inverted
-#### At C
+|Beyond 2F₁ |Between F₂ and C₂ |Diminished |Real and inverted
+#### At 2F1
 <img width="320" src="https://user-images.githubusercontent.com/20998959/148642485-69af3df7-6242-46f8-919e-162830700f54.png">
 
 |Position of the object| Position of the image|Size of the image| Nature of the image|
 |-|-|-|-|
-|At C |At C |Same size |Real and inverted
+|At 2F₁ |At 2F₂ |Same size |Real and inverted
 
-#### Between C and F
+#### Between F₁ and 2F₁ 
 <img width="320" src="https://user-images.githubusercontent.com/20998959/148642491-f48e871e-b27d-4640-8d5b-69531ebe1692.png">
 
 
 |Position of the object| Position of the image|Size of the image| Nature of the image|
 |-|-|-|-|
-|Between C and F |Beyond C |Enlarged |Real and inverted
+|Between F₁ and 2F₁ |Beyond 2F₂ |Enlarged |Real and inverted
 
-#### At F
+#### At F₁
 <img width="320" src="https://user-images.githubusercontent.com/20998959/148642559-c605e2a2-2b59-4bac-942c-5c85189e584b.png">
 
 |Position of the object| Position of the image|Size of the image| Nature of the image|
 |-|-|-|-|
-|At F |At infinity | Highly enlarged |Real and inverted
+|At F₁ |At infinity | Highly enlarged |Real and inverted
 
-#### Between P and F 
+#### Between O and F₁
 <img width="320" src="https://user-images.githubusercontent.com/20998959/148642570-77cad5e0-6a59-449a-b99e-d36d6bf5b2ff.png">
 
 
 |Position of the object| Position of the image|Size of the image| Nature of the image|
 |-|-|-|-|
-|Between P and F |Behind the mirror |Enlarged |Virtual and erect
+|Between F₁ and O |On the same side of the lens as the object |Enlarged |Virtual and erect
 
 #### All positions
 |Position of the object| Position of the image|Size of the image| Nature of the image|
 |-|-|-|-|
-|At infinity| At the focus F |Highly diminished, point-sized | Real and inverted
-|Beyond C |Between F and C |Diminished |Real and inverted
-|At C |At C |Same size |Real and inverted
-|Between C and F |Beyond C |Enlarged |Real and inverted
-|At F |At infinity | Highly enlarged |Real and inverted
-|Between P and F |Behind the mirror |Enlarged |Virtual and erect
+|At infinity| At focus F₂ |Highly diminished, point-sized | Real and inverted
+|Beyond 2F₁ |Between F₂ and C₂ |Diminished |Real and inverted
+|At 2F₁ |At 2F₂ |Same size |Real and inverted
+|Between F₁ and 2F₁ |Beyond 2F₂ |Enlarged |Real and inverted
+|At F₁ |At infinity | Highly enlarged |Real and inverted
+|Between F₁ and O |On the same side of the lens as the object |Enlarged |Virtual and erect
 
 ### Concave Lens
 #### At infinity
 <img width="480" src="https://user-images.githubusercontent.com/20998959/148642590-01b39f00-d2c5-408f-a70d-30a47e6891a9.png">
 
-
 |Position of the object| Position of the image|Size of the image| Nature of the image|
 |-|-|-|-|
-|At infinity| At the focus F, behind the mirror |Highly diminished, point-sized | Virtual and erect
+|At infinity| At the focus F₁ |Highly diminished, point-sized | Virtual and erect
 #### Between infinity and the pole P
 <img width="480" src="https://user-images.githubusercontent.com/20998959/148642626-7fc46364-0141-4392-bbc8-41efaa107030.png">
 
 |Position of the object| Position of the image|Size of the image| Nature of the image|
 |-|-|-|-|
-|Between infinity and the pole P |Between P and F, behind the mirror |Diminished| Virtual and erect
+|Between infinity and the optical center O |Between O and F₁ |Diminished| Virtual and erect
 
 #### All positions
 |Position of the object| Position of the image|Size of the image| Nature of the image|
 |-|-|-|-|
-|At infinity| At the focus F, behind the mirror |Highly diminished, point-sized | Virtual and erect
-|Between infinity and the pole P |Between P and F, behind the mirror |Diminished| Virtual and erect
+|At infinity| At the focus F₁ |Highly diminished, point-sized | Virtual and erect
+|Between infinity and the optical center O |Between O and F₁ |Diminished| Virtual and erect
 
-
-## Usage
-### Convex Lens
-* As rear-view (wing) mirrors in vehicles. 
-* These mirrors are fitted on the sides of the vehicle, enabling the driver to see traffic behind him/her to facilitate safe driving. 
-
-Why?
-  * They always give an erect, though diminished, image. 
-  * They have a wider field of view as they are curved outwards. 
-  * Enables the driver to view much larger area than would be possible with a plane mirror.
-
-### Concave Lens
-* In torches, search-lights and vehicles headlights to get powerful parallel beams of light. 
-* As shaving mirrors to see a larger image of the face. 
-* By dentists to see large images of the teeth of patients. 
-* In solar furnaces, to concentrate sunlight to produce heat.
 
 ## Sign Convention for Reflection by Spherical Lens
 ### New Cartesian Sign Convention
@@ -190,14 +173,15 @@ Why?
 
 |Topic|Convention|
 |-|-|
-|Origin|The pole (P) of the mirror
-|x-axis|The principal axis of the mirror
-|Object| Always placed to the left of the mirror. 
-|Distance | All distances parallel to the principal axis are measured from the pole of the mirror
-|Distance sign |  Distances measured to the right of the origin (along +x-axis) are taken as positive <br> Distances measured to the left of the origin (along +x-axis) are taken as negative <br> Distances measured perpendicular to and above the principal axis (along + y-axis) are taken as positive. <br> Distances measured perpendicular to and below the principal axis (along –y-axis) are taken as negative.
+| Origin |The optical centre of the lens
+| x-axis |The principal axis of the lens
+| Object | Always placed to the left of the lens. 
+| Focal length | +ve for a convex lens and -ve for a concave lens
+| Distance | All distances parallel to the principal axis are measured from optical centre of the lens
+| Distance sign |  Distances measured to the right of the origin (along +x-axis) are taken as positive <br> Distances measured to the left of the origin (along +x-axis) are taken as negative <br> Distances measured perpendicular to and above the principal axis (along + y-axis) are taken as positive. <br> Distances measured perpendicular to and below the principal axis (along –y-axis) are taken as negative.
 
-## Mirror Formula
-<img width="160" src="https://user-images.githubusercontent.com/20998959/148212827-a2c17158-da4a-4e5d-8d88-bae0e8f56a83.png">
+## Lens Formula
+<img width="160" src="https://user-images.githubusercontent.com/20998959/148642903-bc795426-ada2-408e-a4a1-6a728478b57e.png">
 
 * u = object distance = The distance of the object from the optical center
 * v = image distance = The distance of the image from the optical center
@@ -212,7 +196,7 @@ Why?
 * m = Height of the image/ Height of the object = h′/h
 * m = h'/h = -v/u
 
-<img width="320" src="https://user-images.githubusercontent.com/20998959/148212662-f79c3912-af01-4b92-a87f-5b83108705d5.png">
+<img width="320" src="https://user-images.githubusercontent.com/20998959/148642925-f2e33f5c-b8e4-42ed-9652-855b6851cce2.png">
 
 ### Sign of the height
 * The height of the object is taken to be positive as the object is usually placed above the principal axis. 
@@ -223,3 +207,27 @@ Why?
 * Negative for real images
 * Positive for virtual images
 
+## Power of a Lens
+* The degree of convergence or divergence of light rays achieved by a lens is expressed in terms of its power. 
+* The power of a lens is defined as the reciprocal of its focal length. 
+* It is represented by the letter P. 
+* The power of a convex lens is positive and that of a concave lens is negative.
+
+<img width="320" src="https://user-images.githubusercontent.com/20998959/148642952-3baf24f7-0d59-4053-b35f-b13bd927ce5b.png">
+
+### SI Unit of a Lens
+* SI unit of power of a lens is ‘dioptre’
+* denoted by the letter D.
+* 1 dioptre is the power of a lens whose focal length is 1 metre. 
+* 1D = 1m⁻¹
+
+### Power of a combination of lenses
+* The net power (P) of the lenses placed in contact is given by the algebraic sum of the individual powers 
+* P = P1  + P2  + P3 + …
+
+* The use of powers, instead of focal lengths, for lenses is quite convenient for opticians.
+* During eye-testing, an optician puts several different combinations of corrective lenses of known power, in contact, inside the testing spectacles’ frame. 
+* The optician calculates the power of the lens required by simple algebraic addition. 
+* For example, a combination of two lenses of power + 2.0 D and + 0.25 D is equivalent to a single lens of power + 2.25 D.
+* The simple additive property of the powers of lenses can be used to design lens systems to minimise certain defects in images produced by a single lens. 
+* Such a lens system, consisting of several lenses, in contact, is commonly used in the design of lenses of camera, microscopes and telescopes
