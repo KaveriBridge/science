@@ -24,11 +24,17 @@ If i is the angle of incidence and r is the angle of refraction, then,
 * It reduces considerably in glass or water. 
 
 ## The Refractive Index
+## Relative refractive index
+* The refractive index of medium 2 with respect to medium 1 is given by the ratio of the speed of light in medium 1 and the speed of light in medium 2.
+![image](https://user-images.githubusercontent.com/20998959/148640736-8ad33bca-14a0-4e28-a449-399d1bb093e5.png)
+
+
+### Absolute refractive index
 * The refractive index of a transparent medium is the ratio of the speed of light in vacuum to that in the medium.
 
 ![image](https://user-images.githubusercontent.com/20998959/148640489-0e55f38c-1846-4383-bbb1-81f63b3aa107.png)
 
-
+### Refractive index of various materials
 |Material | Refractive index|
 |-|-|
 |Air |1.0003 
@@ -48,21 +54,14 @@ If i is the angle of incidence and r is the angle of refraction, then,
 |Sapphire |1.77
 |Diamond |2.42
 
+## Optical density and speed of light
+* The ability of a medium to refract light is also expressed in terms of its optical density.
+* When can we say that a medium is optically denser than the other? 
+* In comparing two media, the one with the larger refractive index is optically denser medium than the other. 
+* The other medium of lower refractive index is optically rarer.
+* The speed of light is higher in a rarer medium than a denser medium. 
+* Thus, a ray of light travelling from a rarer medium to a denser medium slows down and bends towards the normal. 
+* When it travels from a denser medium to a rarer medium, it speeds up and bends away from the normal.
 
-* 
-* The extent of the change in direction that takes place in a given pair of media may be expressed in terms of the refractive index, the “constant” appearing on the right-hand side of Eq.(10.4).
-* The refractive index can be linked to an important physical quantity, the relative speed of propagation of light in different media. 
-* The value of the refractive index for a given pair of media depends upon the speed of light in the two media, as given below
-* Consider a ray of light travelling from medium 1 into medium 2, as shown in Fig.10.11. Let v1 be the speed of light in medium 1 and v2 be the speed of light in medium 2. 
-* The refractive index of medium 2 with respect to medium 1 is given by the ratio of the speed of light in medium 1 and the speed of light in medium 2. 
-* This is usually represented by the symbol n21
-* n21 = Speed of light in medium 1 / Speed of light in medium 2 = v1/v2
-* By the same argument, the refractive index of medium 1 with respect to medium 2 is represented as n12.
-* n12 = Speed of light in medium 2 / Speed of light in medium 1 = v2/v1
-* If medium 1 is vacuum or air, then the refractive index of medium 2 is considered with respect to vacuum.
-* This is called the absolute refractive index of the medium. It is simply represented as n2.
-* If c is the speed of light in air and v is the speed of light in the medium, then, the refractive index of the medium nm is given by
-* nm = Speed of light in air/Speed of light in the medium = c/v
-* The absolute refractive index of a medium is simply called its refractive index. The refractive index of several media is given in Table 10.3. From
-the Table you can know that the refractive index of water, nw = 1.33. This means that the ratio of the speed of light in air and the speed of light in water is equal to 1.33. Similarly, the refractive index of crown
-glass, ng =1.52. Such data are helpful in many places. However, you need not memorise the data.
+
+
