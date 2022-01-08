@@ -93,7 +93,7 @@ are represented by F1  and F2
 
 A ray of light passing through the optical centre of a lens will emerge without any deviation. 
 
-### Concave Mirror
+### Convex lens
 #### At infinity
 <img width="320" src="https://user-images.githubusercontent.com/20998959/148209515-1b9e840c-a4bc-4a84-ba41-6dbd9a6ca19d.png">
 
@@ -145,7 +145,7 @@ A ray of light passing through the optical centre of a lens will emerge without 
 |At F |At infinity | Highly enlarged |Real and inverted
 |Between P and F |Behind the mirror |Enlarged |Virtual and erect
 
-### Convex Mirror
+### Concave Lens
 #### At infinity
 <img width="480" src="https://user-images.githubusercontent.com/20998959/148210543-773d9882-682d-4176-8d5b-5da52912ba9c.png">
 
@@ -168,7 +168,7 @@ A ray of light passing through the optical centre of a lens will emerge without 
 
 
 ## Usage
-### Convex Mirrors
+### Convex Lens
 * As rear-view (wing) mirrors in vehicles. 
 * These mirrors are fitted on the sides of the vehicle, enabling the driver to see traffic behind him/her to facilitate safe driving. 
 
@@ -177,13 +177,13 @@ Why?
   * They have a wider field of view as they are curved outwards. 
   * Enables the driver to view much larger area than would be possible with a plane mirror.
 
-### Concave Mirrors
+### Concave Lens
 * In torches, search-lights and vehicles headlights to get powerful parallel beams of light. 
 * As shaving mirrors to see a larger image of the face. 
 * By dentists to see large images of the teeth of patients. 
 * In solar furnaces, to concentrate sunlight to produce heat.
 
-## Sign Convention for Reflection by Spherical Mirrors
+## Sign Convention for Reflection by Spherical Lens
 ### New Cartesian Sign Convention
 <img width="640" src="https://user-images.githubusercontent.com/20998959/148201657-284e968a-c505-4076-aa0b-a69a28a5eec6.png">
 
@@ -198,12 +198,12 @@ Why?
 ## Mirror Formula
 <img width="160" src="https://user-images.githubusercontent.com/20998959/148212827-a2c17158-da4a-4e5d-8d88-bae0e8f56a83.png">
 
-* u = object distance = The distance of the object from the pole of the mirror
-* v = image distance = The distance of the image from the pole of the mirror 
-* f = focal length = The distance of the principal focus from the pole
+* u = object distance = The distance of the object from the optical center
+* v = image distance = The distance of the image from the optical center
+* f = focal length = The distance of the principal focus from the optical center
 
 ## Magnification
-* Magnification produced by a spherical mirror gives the relative extent to which the image of an object is magnified with respect to the object size.
+* Magnification produced by a spherical lense gives the relative extent to which the image of an object is magnified with respect to the object size.
 * Ratio of the height of the image to the height of the object. 
 * Represented by the letter m
 
