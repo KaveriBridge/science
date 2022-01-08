@@ -14,7 +14,7 @@
 
 |Line/Angle|Description|
 |-|-|
-|EF | Incident ray
+|EO | Incident ray
 |OO' | Refracted ray
 |O'H | Emergent ray
 |NN' | Normal
