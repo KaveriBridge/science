@@ -169,7 +169,7 @@ A ray of light passing through the optical centre of a lens will emerge without 
 
 ## Sign Convention for Reflection by Spherical Lens
 ### New Cartesian Sign Convention
-<img width="640" src="https://user-images.githubusercontent.com/20998959/148201657-284e968a-c505-4076-aa0b-a69a28a5eec6.png">
+<img width="640" src="https://user-images.githubusercontent.com/20998959/148643429-857ac505-be2b-49f6-8321-bceff9eef427.png">
 
 |Topic|Convention|
 |-|-|
