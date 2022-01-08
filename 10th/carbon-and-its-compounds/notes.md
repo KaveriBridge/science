@@ -47,6 +47,22 @@
 
 <img width="320" src="https://user-images.githubusercontent.com/20998959/148657042-c17c99a1-8e96-4207-8b39-56de43b5e240.png">
 
+### Methane
+* Methane is widely used as a fuel and is a major component of bio-gas and Compressed Natural Gas (CNG). 
+* Methane has a formula CH4. 
+* Hydrogen, as you know, has a valency of 1. 
+* Carbon is tetravalent because it has four valence electrons. 
+* In order to achieve noble gas configuration, carbon shares these electrons with four atoms of hydrogen 
+
+<img width="320" src="https://user-images.githubusercontent.com/20998959/148657518-c75d5910-839f-4e90-a686-e13cf808e092.png">
+
+
+## Covalent bonds and their properties
+* Such bonds which are formed by the sharing of an electron pair between two atoms are known as covalent bonds. 
+* Covalently bonded molecules are seen to have strong bonds within the molecule, but inter-molecular forces are weak. 
+* This gives rise to the low melting and boiling points of these compounds. 
+* Since the electrons are shared between atoms and no charged particles are formed, such covalent compounds are generally poor conductors of electricity
+
 ## Formation of coal and petroleum
 ### Coal
 * Coal is the remains of trees, ferns, and other plants that lived millions of years ago. 
