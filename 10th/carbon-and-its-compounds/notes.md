@@ -30,7 +30,7 @@
 * Two hydrogen atoms share their electrons to form a molecule of hydrogen, H₂
 * Each hydrogen atom attains the electronic configuration of the nearest noble gas, helium, which has two electrons in its K shell. 
 
-![image](https://user-images.githubusercontent.com/20998959/148656930-fa81994e-ff8c-46bf-9c61-f79028b7b960.png)
+<img width="480" src="https://user-images.githubusercontent.com/20998959/148656930-fa81994e-ff8c-46bf-9c61-f79028b7b960.png">
 
 #### Oxygen
 * An atom of oxygen has six electrons in its L shell (the atomic number of oxygen is eight) and it requires two more electrons to complete its octet. 
@@ -38,17 +38,14 @@
 * The two electrons contributed by each oxygen atom give rise to two shared pairs of electrons. 
 * This is said to constitute a double bond between the two atoms.
 
-![image](https://user-images.githubusercontent.com/20998959/148656968-b954e05c-2452-485f-b6f2-f67d8818029e.png)
+<img width="320" src="https://user-images.githubusercontent.com/20998959/148656968-b954e05c-2452-485f-b6f2-f67d8818029e.png">
 
 #### Nitrogen
 * Nitrogen has the atomic number 7. 
 * In order to attain an octet, each nitrogen atom in a molecule of nitrogen contributes three electrons giving rise to three shared pairs of electrons. 
 * This is said to constitute a triple bond between the two atoms. 
 
-![image](https://user-images.githubusercontent.com/20998959/148657042-c17c99a1-8e96-4207-8b39-56de43b5e240.png)
-
-
-
+<img width="320" src="https://user-images.githubusercontent.com/20998959/148657042-c17c99a1-8e96-4207-8b39-56de43b5e240.png">
 
 ## Formation of coal and petroleum
 ### Coal
@@ -73,7 +70,8 @@
         The colour of potassium permanganate disappears initially.
         The colour of potassium permanganate not disappear when excess is added.
 
-![image](https://user-images.githubusercontent.com/20998959/128067799-331776bf-0dc7-430f-9acf-918eb9845888.png)
+<img width="640" src="https://user-images.githubusercontent.com/20998959/128067799-331776bf-0dc7-430f-9acf-918eb9845888.png">
+
 
 ## Addition Reaction
     Addition
@@ -90,7 +88,7 @@
         Addition of hydrogen to vegetable oils 
             Using a nicket catalyst
             produces saturated fats
-![image](https://user-images.githubusercontent.com/20998959/128068951-d8998ba5-34ac-427c-bf48-928c2c07c14f.png)
+<img width="640" src="https://user-images.githubusercontent.com/20998959/128068951-d8998ba5-34ac-427c-bf48-928c2c07c14f.png">
 
     Saturated/Unsaturated fats and health        
         Vegetable oils generally have long unsaturated carbon chains
@@ -102,7 +100,7 @@
     Substitution reaction
         A reaction in which one type of atom or a group of atoms takes the place of another
         
-![image](https://user-images.githubusercontent.com/20998959/128070788-5d6de9d7-e431-4b45-ac02-73828db1b923.png)
+<img width="640" src="https://user-images.githubusercontent.com/20998959/128070788-5d6de9d7-e431-4b45-ac02-73828db1b923.png">
 
     Substitution reaction - Chlorine substituting Hydrogen
         Saturated hydrocarbons 
