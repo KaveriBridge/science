@@ -158,6 +158,39 @@
 
 
 
+## Carbon chains
+### Straight
+<img width="160" src="https://user-images.githubusercontent.com/20998959/149623395-b074cd58-5af9-4f72-8723-291b46e2de49.png">
+
+### Branch
+<img width="160" src="https://user-images.githubusercontent.com/20998959/149623399-7a60ef51-1a19-4f29-9c3a-e5ca1d171983.png">
+
+* Iso-butane
+<img width="160" src="https://user-images.githubusercontent.com/20998959/149623549-2f744124-f883-4f94-a0f4-4f2192ce11b1.png">
+
+
+### Cycle
+<img width="160" src="https://user-images.githubusercontent.com/20998959/149623403-f6617a07-24ce-4c67-82a9-c0bfbbfa13ff.png">
+
+* Cyclohexane (C6H12)
+<img width="320" src="https://user-images.githubusercontent.com/20998959/149623516-b06d00d6-4cab-46e3-86dd-38cb25f5669f.png">
+
+## Structural isomers
+* Compounds with same molecular formula but different structures are called structural isomers
+
+### Butane
+![image](https://user-images.githubusercontent.com/20998959/149623427-437798f9-88ae-4e5f-9082-9c815f2e6a9f.png)
+
+## Hydrocarbons
+* Carbon compounds which contain only carbon and hydrogen are called hydrocarbons.
+### Alkanes
+* Saturated hydrocarbons with only single bonds are called alkanes. 
+<img width="480" src="https://user-images.githubusercontent.com/20998959/149623335-0d32cd90-7372-4fa5-92ff-19a09514122b.png">
+                      
+### Alkenes
+* Unsaturated hydrocarbons which contain one or more double bonds are called alkenes. 
+### Alkynes
+* Unsaturated hydrocarbons containing one or more triple bonds are called alkynes
 
 ## Formation of coal and petroleum
 ### Coal
