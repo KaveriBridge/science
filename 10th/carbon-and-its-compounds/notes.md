@@ -165,15 +165,19 @@
 ### Branch
 <img width="160" src="https://user-images.githubusercontent.com/20998959/149623399-7a60ef51-1a19-4f29-9c3a-e5ca1d171983.png">
 
-* Iso-butane
+#### Iso-butane
 <img width="160" src="https://user-images.githubusercontent.com/20998959/149623549-2f744124-f883-4f94-a0f4-4f2192ce11b1.png">
 
 
 ### Cycle
 <img width="160" src="https://user-images.githubusercontent.com/20998959/149623403-f6617a07-24ce-4c67-82a9-c0bfbbfa13ff.png">
 
-* Cyclohexane (C6H12)
+#### Cyclohexane (C6H12)
 <img width="320" src="https://user-images.githubusercontent.com/20998959/149623516-b06d00d6-4cab-46e3-86dd-38cb25f5669f.png">
+
+#### Benzene (C6H6) - Unsaturated hydrocarbon
+<img width="320" src="https://user-images.githubusercontent.com/20998959/149623642-5d5f3f4e-59da-4791-bcd2-17bb0d61afbc.png">
+
 
 ## Structural isomers
 * Compounds with same molecular formula but different structures are called structural isomers
