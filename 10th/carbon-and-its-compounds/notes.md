@@ -52,13 +52,21 @@
 <img width="320" src="https://user-images.githubusercontent.com/20998959/148657042-c17c99a1-8e96-4207-8b39-56de43b5e240.png">
 
 ### Methane molecule
-* Methane has a formula CH4. 
+* Methane has a formula CH₄. 
 * Hydrogen has a valency of 1 (and needs one electron). 
 * Carbon has a valency of 4 (and needs four electrons).
 * In order to achieve noble gas configuration, carbon shares these electrons with four atoms of hydrogen 
 
 <img width="320" src="https://user-images.githubusercontent.com/20998959/148657518-c75d5910-839f-4e90-a686-e13cf808e092.png">
 
+### Ethane molecule
+* Molecular formula - C₂H₆
+<img width="320" src="https://user-images.githubusercontent.com/20998959/149621888-c31c1ab1-c6ce-4631-8d27-8238e809bb0b.png">
+
+
+### Ethene molecule
+* Molecular formula - C₂H₄
+<img width="320" src="https://user-images.githubusercontent.com/20998959/149621923-11640c7d-36c4-4893-9623-f4aeeccf68f7.png">
 
 ## Covalent bonds in Carbon
 ### Why carbon does not form ionic bonds? Why does it form covalent bonds instead?
@@ -84,10 +92,7 @@
 ### Why can carbon form so many compounds?
 * There are two reasons (i) Catenation (ii) Tetravalency
 
-### CATENATION
-#### What is catenation?
-* Ability to form bonds with other atoms of the same element, giving rise to large molecules.
-#### Carbon can form strong bonds with other carbon atoms
+#### CATENATION - Carbon can form strong bonds with other carbon atoms
 * Carbon can form bonds with other carbon atoms, giving rise to large molecules. 
 * The bonds can be single, double or triple bonds. 
 * The carbon-carbon bond is very strong and hence stable. 
@@ -96,19 +101,63 @@
 * Silicon forms compounds with hydrogen which have chains of upto seven or eight atoms, but these compounds are very reactive. 
 * This gives us the large number of compounds with many carbon atoms linked to each other
 
-### TETRAVALENCY
+#### TETRAVALENCY - Carbon can form strong bonds with atoms of other mono-valent elements
 * Carbon has a valency of four
 * It can bond with four other atoms of carbon or atoms of some other mono-valent element. 
 * It is known to bond with oxygen, hydrogen, nitrogen, sulphur, chlorine and many other elements
 * The properties of these compounds depend on the elements other than carbon present in the molecule.
 * The bonds formed with most other elements are very strong, and hence the compounds are exceptionally stable. 
 
+### What is catenation?
+* Ability to form bonds with other atoms of the same element, giving rise to large molecules.
+
+## Structure of carbon compounds
+### How to arrive at the structure of simple carbon compounds
+* Step 1: Link the carbon atoms together with a single bond
+* Step 2: Use the hydrogen atoms to satisfy the remaining valencies of carbon
+* Step 3: If the valencies are not satisifed, change some of the carbon bonds to double or tripe bonds.
+
+### Ethane
+* Molecular formula - C₂H₆
+
+* Step 1: Carbon atoms linked together with a single bond
+
+<img width="100" src="https://user-images.githubusercontent.com/20998959/149622103-9ef66a46-d681-4973-939a-a58616531dc0.png">
+
+* Step 2: Three valencies of each carbon atom remain unsatisfied, so each is bonded to three hydrogen atoms giving:
+
+<img width="160" src="https://user-images.githubusercontent.com/20998959/149622089-b008a0dc-1a9f-4b98-a737-a9356eb43ac2.png">
+
+
+### Ethene
+* Molecular formula - C₂H₄
+
+* Step 1: Carbon atoms linked together with a single bond
+
+<img width="100" src="https://user-images.githubusercontent.com/20998959/149622103-9ef66a46-d681-4973-939a-a58616531dc0.png">
+
+* Step 2: Three valencies of each carbon atom remain unsatisfied, so each is bonded to two hydrogen atoms giving:
+
+<img width="160" src="https://user-images.githubusercontent.com/20998959/149622172-b7702d6f-b5ef-4fb5-81ba-4daec7ae8af3.png">
+
+* Step 3: one valency per carbon atom remains unsatisfied. This can be satisfied only if there is a double bond between the two carbons.
+
+<img width="160" src="https://user-images.githubusercontent.com/20998959/149622204-826af7ad-7623-445e-a4be-ca06570de9d3.png">
+
 
 ## Saturated and Unsaturated Carbons
 ### Saturated compounds
-* Compounds of carbon, which are linked by only single bonds between the carbon atoms are called saturated compounds.
+* Carbon compounds having single bonds between the carbon atoms are called saturated compounds.
+* These compounds are normally not very reactive
+* Example - Methane, Ethane
+ 
 ### Unsaturated compounds
-* Compounds of carbon having double or triple bonds between their carbon atoms are called unsaturated compounds.
+* Carbon compounds having double or triple bonds between the carbon atoms are known as unsaturated carbon compounds 
+* They are more reactive than the saturated carbon compounds
+* Example - Ethene (double-bond), Ethyne (triple-bond)
+
+
+
 
 ## Formation of coal and petroleum
 ### Coal
