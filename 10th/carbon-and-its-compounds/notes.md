@@ -175,7 +175,7 @@
 #### Cyclohexane (C6H12)
 <img width="320" src="https://user-images.githubusercontent.com/20998959/149623516-b06d00d6-4cab-46e3-86dd-38cb25f5669f.png">
 
-#### Benzene (C6H6) - Unsaturated hydrocarbon
+#### Benzene (C₆H₆) - Unsaturated hydrocarbon
 <img width="320" src="https://user-images.githubusercontent.com/20998959/149623642-5d5f3f4e-59da-4791-bcd2-17bb0d61afbc.png">
 
 
