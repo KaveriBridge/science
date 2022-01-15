@@ -1,10 +1,7 @@
 ## Introduction
-* Food, clothes, medicines, books, or many of the things that you listed are all based on this versatile element carbon. 
-* All living structures are carbon based. The amount of carbon present in the earth’s crust and in the atmosphere is quite meagre. 
-* The earth’s crust has only 0.02% carbon in the form of minerals (like carbonates, hydrogencarbonates, coal and petroleum) and the atmosphere has 0.03% of carbon dioxide. 
-* In spite of this small amount of carbon available in nature, the importance of carbon seems to be immense. 
-
-
+* Carbon is a versatile and an important element. 
+* Food, clothes, medicines, book are all based on carbon. All living structures are carbon based. 
+* Earth has only small amount of carbon - 0.02% in earth's crust in the form of minerals and 0.03% CO2 in the atmosphere. 
 
 ## BONDING IN CARBON – THE COVALENT BOND
 
@@ -15,28 +12,33 @@
 |Boiling point|High|Low|
 |Conducting ability | Conducts in solution or in the molten state | Poor Conductors |
 
-### Why carbon does not form ionic bonds? Why does it form covalent bond instead?
-* Elements forming ionic compounds achieve this by either gaining or losing electrons from the outermost shell. 
+### Why carbon does not form ionic bonds? Why does it form covalent bonds instead?
+* Elements forming ionic compounds either gain or lose electrons from the outermost shell. 
 * The atomic number of carbon is 6.
-* It has four electrons in its outermost shell and needs to gain or lose four electrons to attain noble gas configuration.
-* It could gain four electrons forming C⁴⁻ anion. But it would be difficult for the nucleus with six protons to hold on to ten electrons, that is, four extra electrons.
-* It could lose four electrons forming C⁴⁺ cation. But it would require a large amount of energy to remove four electrons leaving behind a carbon cation with six protons in its nucleus holding on to just two electrons
+* It has four electrons in its outermost shell
+* It needs to gain or lose four electrons to attain noble gas configuration.
+* It could gain four electrons forming C⁴⁻ anion. 
+   * But it would be difficult for the nucleus with six protons to hold on to ten electrons, that is, four extra electrons.
+* It could lose four electrons forming C⁴⁺ cation. 
+   * But it would require a large amount of energy to remove four electrons leaving behind a carbon cation with six protons in its nucleus holding on to just two electrons
 * Carbon overcomes this problem by sharing its valence electrons with other atoms of carbon or with atoms of other elements.
 
 
 ### Covalent Bonds
 #### Hydrogen
-* Hydrogen has one electron in its K shell and it requires one more electron to fill the K shell. 
+* Hydrogen has one electron in its K shell
+* It requires one more electron to fill the K shell. 
 * Two hydrogen atoms share their electrons to form a molecule of hydrogen, H₂
 * Each hydrogen atom attains the electronic configuration of the nearest noble gas, helium, which has two electrons in its K shell. 
 
 <img width="480" src="https://user-images.githubusercontent.com/20998959/148656930-fa81994e-ff8c-46bf-9c61-f79028b7b960.png">
 
 #### Oxygen
-* An atom of oxygen has six electrons in its L shell (the atomic number of oxygen is eight) and it requires two more electrons to complete its octet. 
-* So each atom of oxygen shares two electrons with another atom of oxygen 
-* The two electrons contributed by each oxygen atom give rise to two shared pairs of electrons. 
-* This is said to constitute a double bond between the two atoms.
+* Oxygen has the atomic number 8.
+* An atom of oxygen has six electrons in its L shell.
+* It requires two more electrons to complete its octet. 
+* Each atom of oxygen shares two electrons with another atom of oxygen
+* In other words, the two atoms form a double bond between them
 
 <img width="320" src="https://user-images.githubusercontent.com/20998959/148656968-b954e05c-2452-485f-b6f2-f67d8818029e.png">
 
@@ -49,42 +51,59 @@
 
 ### Methane
 * Methane has a formula CH4. 
-* Hydrogen has a valency of 1. 
-* Carbon has a valency of 4.
+* Hydrogen has a valency of 1 (and needs one electron). 
+* Carbon has a valency of 4 (and needs four electrons).
 * In order to achieve noble gas configuration, carbon shares these electrons with four atoms of hydrogen 
 
 <img width="320" src="https://user-images.githubusercontent.com/20998959/148657518-c75d5910-839f-4e90-a686-e13cf808e092.png">
 
 
 ### Covalent bonds and their properties
-* Bonds formed by the sharing of an electron pair between two atoms are known as covalent bonds. 
-* Covalently bonded molecules are seen to have strong bonds within the molecule, but inter-molecular forces are weak. 
-* This gives rise to the low melting and boiling points of these compounds. 
-* Since the electrons are shared between atoms and no charged particles are formed, such covalent compounds are generally poor conductors of electricity
+* They are the bonds formed by the sharing of an electron pair between two atoms 
 
-### VERSATILE NATURE OF CARBON
-* The numbers of carbon compounds whose formulae are known to chemists was recently estimated to be in millions! 
-* Why is it that this property is seen in carbon and no other element?
-* The nature of the covalent bond enables carbon to form a large number of compounds. 
-* Two factors noticed in the case of carbon are –
+#### Why do covalent compounds have low melting and boiling points?
+* They have strong bonds within the molecule, but inter-molecular (between two molecules) forces are weak. 
+* Therefore, they have low melting and boiling points of these compounds. 
+
+#### Why are covalent compounds poor conductors of electricity?
+* In covalent bonds, the electrons are shared between atoms and no charged particles are formed
+* As a result, they are poor conductors of electricity.
+
+## VERSATILE NATURE OF CARBON
+#### Why is Carbon considered versatile?
+* Unlike any other element, carbon can form millions of compounds. 
+
+### Why can carbon form so many compounds?
+* There are two reasons
 #### (i) CATENATION
-* Carbon has the unique ability to form bonds with other atoms of carbon, giving rise to large molecules. 
-* This property is called catenation. 
-* These compounds may have long chains of carbon, branched chains of carbon or even carbon atoms arranged in rings.
-* In addition, carbon atoms may be linked by single, double or triple bonds. 
-* Compounds of carbon, which are linked by only single bonds between the carbon atoms are called saturated compounds.
-* Compounds of carbon having double or triple bonds between their carbon atoms are called unsaturated compounds.
+##### What is catenation?
+* Ability to form bonds with other atoms of the same element, giving rise to large molecules.
+##### Carbon can form strong bonds with other carbon atoms
+* Carbon can form bonds with other carbon atoms, giving rise to large molecules. 
+* The bonds can be single, double or triple bonds. 
+* The carbon-carbon bond is very strong and hence stable. 
+* This can be long chains of carbon,  branched chains and even  rings.
 * No other element exhibits the property of catenation to the extent seen in carbon compounds. 
 * Silicon forms compounds with hydrogen which have chains of upto seven or eight atoms, but these compounds are very reactive. 
-* The carbon-carbon bond is very strong and hence stable. 
 * This gives us the large number of compounds with many carbon atoms linked to each other
 #### (ii) TETRAVALENCY
-* Since carbon has a valency of four, it is capable of bonding with four other atoms of carbon or atoms of some other mono-valent element. 
-* Compounds of carbon are formed with oxygen, hydrogen, nitrogen, sulphur, chlorine and many other elements giving rise to compounds with specific properties which depend on the elements other than carbon present in the molecule.
-* Again the bonds that carbon forms with most other elements are very strong making these compounds exceptionally stable. 
-* One reason for the formation of strong bonds by carbon is its small size. 
+* Carbon has a valency of four
+* It can bond with four other atoms of carbon or atoms of some other mono-valent element. 
+* It is known to bond with oxygen, hydrogen, nitrogen, sulphur, chlorine and many other elements
+* The properties of these compounds depend on the elements other than carbon present in the molecule.
+* The bonds formed with most other elements are very strong, and hence the compounds are exceptionally stable. 
+
+### Why can carbon form strong covalent bonds?
+* One of the reasons is the small size of carbon.
 * This enables the nucleus to hold on to the shared pairs of electrons strongly. 
 * The bonds formed by elements having bigger atoms are much weaker
+
+### Saturated and Unsaturated Carbons
+#### Saturated compounds
+* Compounds of carbon, which are linked by only single bonds between the carbon atoms are called saturated compounds.
+#### Unsaturated compounds
+* Compounds of carbon having double or triple bonds between their carbon atoms are called unsaturated compounds.
+
 ## Formation of coal and petroleum
 ### Coal
 * Coal is the remains of trees, ferns, and other plants that lived millions of years ago. 
