@@ -63,7 +63,7 @@
 
 #### Why do covalent compounds have low melting and boiling points?
 * They have strong bonds within the molecule, but inter-molecular (between two molecules) forces are weak. 
-* Therefore, they have low melting and boiling points of these compounds. 
+* Therefore, they have low melting and boiling points. 
 
 #### Why are covalent compounds poor conductors of electricity?
 * In covalent bonds, the electrons are shared between atoms and no charged particles are formed
