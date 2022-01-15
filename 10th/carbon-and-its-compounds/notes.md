@@ -246,7 +246,13 @@ functional groups.
 
 ## Questions
 ### 1. How many structural isomers can you draw for pentane?
+* There are 3 strucutural isomers for pentane.
+* N-pentane
+* Neo-pentane
+* Iso-pentane
 ### 2. What are the two properties of carbon which lead to the huge number of carbon compounds we see around us?
+* Catenation 
+* Tetravalency
 ### 3. What will be the formula and electron dot structure of cyclopentane?
 ### 4. Draw the structures for the following compounds.
 (i) Ethanoic acid 
