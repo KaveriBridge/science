@@ -179,13 +179,13 @@
 * Compounds with same molecular formula but different structures are called structural isomers
 
 ### Butane
-![image](https://user-images.githubusercontent.com/20998959/149623427-437798f9-88ae-4e5f-9082-9c815f2e6a9f.png)
+<img width="640" src="https://user-images.githubusercontent.com/20998959/149623427-437798f9-88ae-4e5f-9082-9c815f2e6a9f.png">
 
 ## Hydrocarbons
 * Carbon compounds which contain only carbon and hydrogen are called hydrocarbons.
 ### Alkanes
 * Saturated hydrocarbons with only single bonds are called alkanes. 
-<img width="480" src="https://user-images.githubusercontent.com/20998959/149623335-0d32cd90-7372-4fa5-92ff-19a09514122b.png">
+<img width="640" src="https://user-images.githubusercontent.com/20998959/149623335-0d32cd90-7372-4fa5-92ff-19a09514122b.png">
                       
 ### Alkenes
 * Unsaturated hydrocarbons which contain one or more double bonds are called alkenes. 
