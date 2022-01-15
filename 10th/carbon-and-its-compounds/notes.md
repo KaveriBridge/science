@@ -189,12 +189,15 @@
 * Carbon compounds which contain only carbon and hydrogen are called hydrocarbons.
 ### Alkanes
 * Saturated hydrocarbons with only single bonds are called alkanes. 
+* General formula - CₙH₂ₙ₊₂
 <img width="640" src="https://user-images.githubusercontent.com/20998959/149623335-0d32cd90-7372-4fa5-92ff-19a09514122b.png">
                       
 ### Alkenes
 * Unsaturated hydrocarbons which contain one or more double bonds are called alkenes. 
+* General formula - CₙH₂ₙ
 ### Alkynes
 * Unsaturated hydrocarbons containing one or more triple bonds are called alkynes
+* * General formula - CₙH₂ₙ₋₂
 
 ## Functional groups
 * In addition to hydrogen, carbon also forms bonds with other elements such as halogens, oxygen, nitrogen and sulphur.
@@ -206,6 +209,53 @@ functional groups.
 
 ### Key functional groups
 <img width="640" src="https://user-images.githubusercontent.com/20998959/149623730-0220cb28-79a3-4d00-be2f-c97e2e385681.png">
+
+### Homologous series 
+* A series of compounds in which the same functional group substitutes for hydrogen in a carbon chain is called a homologous series.
+* Differ by CH₂ group.
+* Example - CH₃OH, C₂H₅OH, C₃H₇OH and C₄H₉OH all belong to alchohol family.
+
+
+## Nomenclature of Carbon Compounds
+### Method
+* (i) Identify the number of carbon atoms in the compound. 
+* (ii) In case a functional group is present, it is indicated in the name of the compound with either a prefix or a suffix
+* (iii) If the name of the functional group is to be given as a suffix, and the suffix of the functional group begins with a vowel, then the name of the carbon chain is modified by deleting the final ‘e’ and adding the appropriate suffix. 
+* (iv) If the carbon chain is unsaturated, then the final ‘ane’ in the name of the carbon chain is substituted by ‘ene’ or ‘yne’. 
+
+### Halo-alkane
+![image](https://user-images.githubusercontent.com/20998959/149624040-e6bfbb13-0700-4d3f-ad19-8041fc215881.png)
+
+### Alcohol
+![image](https://user-images.githubusercontent.com/20998959/149624052-0b759a86-bc24-41af-af95-979dd732401b.png)
+
+### Aldehyde
+![image](https://user-images.githubusercontent.com/20998959/149624059-c740d334-78be-451c-a19a-836eade50835.png)
+
+###  Ketone
+![image](https://user-images.githubusercontent.com/20998959/149624070-b3af06cc-7df9-497e-b9d5-455c841b1f79.png)
+
+### Carboxylic acid
+![image](https://user-images.githubusercontent.com/20998959/149624101-b9038d93-9d6b-45be-add6-67f12f391771.png)
+
+### Alkene
+![image](https://user-images.githubusercontent.com/20998959/149624086-820ff61b-1dec-4ba6-bc38-9a5d3475efad.png)
+
+### Alkyne
+![image](https://user-images.githubusercontent.com/20998959/149624082-400b44e1-1d26-47a2-b0ab-e5beacb2ed9e.png)
+
+## Questions
+### 1. How many structural isomers can you draw for pentane?
+### 2. What are the two properties of carbon which lead to the huge number of carbon compounds we see around us?
+### 3. What will be the formula and electron dot structure of cyclopentane?
+### 4. Draw the structures for the following compounds.
+(i) Ethanoic acid 
+(ii) Bromopentane
+(iii) Butanone 
+(iv) Hexanal.
+* Are structural isomers possible for bromopentane?
+### 5. How would you name the following compounds?
+![image](https://user-images.githubusercontent.com/20998959/149624410-6da394fa-6e93-4e23-b72b-71b93ffbd5cc.png)
 
 
 ## Formation of coal and petroleum
