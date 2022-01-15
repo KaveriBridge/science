@@ -3,7 +3,11 @@
 * Food, clothes, medicines, book are all based on carbon. All living structures are carbon based. 
 * Earth has only small amount of carbon - 0.02% in earth's crust in the form of minerals and 0.03% CO2 in the atmosphere. 
 
-## BONDING IN CARBON – THE COVALENT BOND
+
+## Covalent Bonds
+### What are covalent bonds?
+* They are the bonds formed by the sharing of an electron pair between two atoms.
+* Unlike ionic bonds, charges are not formed with covalent bonds.
 
 ### Covalent vs Ionic bonds
 |Properties|Ionic compounds|Covalent compounds|
@@ -11,42 +15,6 @@
 |Melting point|High|Low|
 |Boiling point|High|Low|
 |Conducting ability | Conducts in solution or in the molten state | Poor Conductors |
-
-## Covalent Bonds
-### Hydrogen
-* Hydrogen has one electron in its K shell
-* It requires one more electron to fill the K shell. 
-* Two hydrogen atoms share their electrons to form a molecule of hydrogen, H₂
-* Each hydrogen atom attains the electronic configuration of the nearest noble gas, helium, which has two electrons in its K shell. 
-
-<img width="480" src="https://user-images.githubusercontent.com/20998959/148656930-fa81994e-ff8c-46bf-9c61-f79028b7b960.png">
-
-### Oxygen
-* Oxygen has the atomic number 8.
-* An atom of oxygen has six electrons in its L shell.
-* It requires two more electrons to complete its octet. 
-* Each atom of oxygen shares two electrons with another atom of oxygen
-* In other words, the two atoms form a double bond between them
-
-<img width="320" src="https://user-images.githubusercontent.com/20998959/148656968-b954e05c-2452-485f-b6f2-f67d8818029e.png">
-
-### Nitrogen
-* Nitrogen has the atomic number 7. 
-* In order to attain an octet, each nitrogen atom in a molecule of nitrogen contributes three electrons giving rise to three shared pairs of electrons. 
-* This is said to constitute a triple bond between the two atoms. 
-
-<img width="320" src="https://user-images.githubusercontent.com/20998959/148657042-c17c99a1-8e96-4207-8b39-56de43b5e240.png">
-
-### Methane
-* Methane has a formula CH4. 
-* Hydrogen has a valency of 1 (and needs one electron). 
-* Carbon has a valency of 4 (and needs four electrons).
-* In order to achieve noble gas configuration, carbon shares these electrons with four atoms of hydrogen 
-
-<img width="320" src="https://user-images.githubusercontent.com/20998959/148657518-c75d5910-839f-4e90-a686-e13cf808e092.png">
-
-## Covalent bonds and their properties
-* They are the bonds formed by the sharing of an electron pair between two atoms 
 
 ### Why do covalent compounds have low melting and boiling points?
 * They have strong bonds within the molecule, but inter-molecular (between two molecules) forces are weak. 
@@ -56,10 +24,43 @@
 * In covalent bonds, the electrons are shared between atoms and no charged particles are formed
 * As a result, they are poor conductors of electricity.
 
-## VERSATILE NATURE OF CARBON
-### Why is Carbon considered versatile?
-* Unlike any other element, carbon can form millions of compounds. 
 
+## Covalent Bonds - Examples
+
+### Hydrogen molecule
+* Hydrogen has one electron in its K shell
+* It requires one more electron to fill the K shell. 
+* Two hydrogen atoms share their electrons to form a molecule of hydrogen, H₂
+* Each hydrogen atom attains the electronic configuration of the nearest noble gas, helium, which has two electrons in its K shell. 
+
+<img width="480" src="https://user-images.githubusercontent.com/20998959/148656930-fa81994e-ff8c-46bf-9c61-f79028b7b960.png">
+
+### Oxygen molecule
+* Oxygen has the atomic number 8.
+* An atom of oxygen has six electrons in its L shell.
+* It requires two more electrons to complete its octet. 
+* Each atom of oxygen shares two electrons with another atom of oxygen
+* In other words, the two atoms form a double bond between them
+
+<img width="320" src="https://user-images.githubusercontent.com/20998959/148656968-b954e05c-2452-485f-b6f2-f67d8818029e.png">
+
+### Nitrogen molecule
+* Nitrogen has the atomic number 7. 
+* In order to attain an octet, each nitrogen atom in a molecule of nitrogen contributes three electrons giving rise to three shared pairs of electrons. 
+* This is said to constitute a triple bond between the two atoms. 
+
+<img width="320" src="https://user-images.githubusercontent.com/20998959/148657042-c17c99a1-8e96-4207-8b39-56de43b5e240.png">
+
+### Methane molecule
+* Methane has a formula CH4. 
+* Hydrogen has a valency of 1 (and needs one electron). 
+* Carbon has a valency of 4 (and needs four electrons).
+* In order to achieve noble gas configuration, carbon shares these electrons with four atoms of hydrogen 
+
+<img width="320" src="https://user-images.githubusercontent.com/20998959/148657518-c75d5910-839f-4e90-a686-e13cf808e092.png">
+
+
+## Covalent bonds in Carbon
 ### Why carbon does not form ionic bonds? Why does it form covalent bonds instead?
 * Elements forming ionic compounds either gain or lose electrons from the outermost shell. 
 * The atomic number of carbon is 6.
@@ -75,6 +76,10 @@
 * One of the reasons is the small size of carbon.
 * This enables the nucleus to hold on to the shared pairs of electrons strongly. 
 * The bonds formed by elements having bigger atoms are much weaker
+
+## VERSATILE NATURE OF CARBON
+### Why is Carbon considered versatile?
+* Unlike any other element, carbon can form millions of compounds. 
 
 ### Why can carbon form so many compounds?
 * There are two reasons (i) Catenation (ii) Tetravalency
