@@ -12,20 +12,8 @@
 |Boiling point|High|Low|
 |Conducting ability | Conducts in solution or in the molten state | Poor Conductors |
 
-### Why carbon does not form ionic bonds? Why does it form covalent bonds instead?
-* Elements forming ionic compounds either gain or lose electrons from the outermost shell. 
-* The atomic number of carbon is 6.
-* It has four electrons in its outermost shell
-* It needs to gain or lose four electrons to attain noble gas configuration.
-* It could gain four electrons forming C⁴⁻ anion. 
-   * But it would be difficult for the nucleus with six protons to hold on to ten electrons, that is, four extra electrons.
-* It could lose four electrons forming C⁴⁺ cation. 
-   * But it would require a large amount of energy to remove four electrons leaving behind a carbon cation with six protons in its nucleus holding on to just two electrons
-* Carbon overcomes this problem by sharing its valence electrons with other atoms of carbon or with atoms of other elements.
-
-
-### Covalent Bonds
-#### Hydrogen
+## Covalent Bonds
+### Hydrogen
 * Hydrogen has one electron in its K shell
 * It requires one more electron to fill the K shell. 
 * Two hydrogen atoms share their electrons to form a molecule of hydrogen, H₂
@@ -33,7 +21,7 @@
 
 <img width="480" src="https://user-images.githubusercontent.com/20998959/148656930-fa81994e-ff8c-46bf-9c61-f79028b7b960.png">
 
-#### Oxygen
+### Oxygen
 * Oxygen has the atomic number 8.
 * An atom of oxygen has six electrons in its L shell.
 * It requires two more electrons to complete its octet. 
@@ -42,7 +30,7 @@
 
 <img width="320" src="https://user-images.githubusercontent.com/20998959/148656968-b954e05c-2452-485f-b6f2-f67d8818029e.png">
 
-#### Nitrogen
+### Nitrogen
 * Nitrogen has the atomic number 7. 
 * In order to attain an octet, each nitrogen atom in a molecule of nitrogen contributes three electrons giving rise to three shared pairs of electrons. 
 * This is said to constitute a triple bond between the two atoms. 
@@ -57,28 +45,44 @@
 
 <img width="320" src="https://user-images.githubusercontent.com/20998959/148657518-c75d5910-839f-4e90-a686-e13cf808e092.png">
 
-
-### Covalent bonds and their properties
+## Covalent bonds and their properties
 * They are the bonds formed by the sharing of an electron pair between two atoms 
 
-#### Why do covalent compounds have low melting and boiling points?
+### Why do covalent compounds have low melting and boiling points?
 * They have strong bonds within the molecule, but inter-molecular (between two molecules) forces are weak. 
 * Therefore, they have low melting and boiling points. 
 
-#### Why are covalent compounds poor conductors of electricity?
+### Why are covalent compounds poor conductors of electricity?
 * In covalent bonds, the electrons are shared between atoms and no charged particles are formed
 * As a result, they are poor conductors of electricity.
 
 ## VERSATILE NATURE OF CARBON
-#### Why is Carbon considered versatile?
+### Why is Carbon considered versatile?
 * Unlike any other element, carbon can form millions of compounds. 
 
+### Why carbon does not form ionic bonds? Why does it form covalent bonds instead?
+* Elements forming ionic compounds either gain or lose electrons from the outermost shell. 
+* The atomic number of carbon is 6.
+* It has four electrons in its outermost shell
+* It needs to gain or lose four electrons to attain noble gas configuration.
+* It could gain four electrons forming C⁴⁻ anion. 
+   * But it would be difficult for the nucleus with six protons to hold on to ten electrons, that is, four extra electrons.
+* It could lose four electrons forming C⁴⁺ cation. 
+   * But it would require a large amount of energy to remove four electrons leaving behind a carbon cation with six protons in its nucleus holding on to just two electrons
+* Carbon overcomes this problem by sharing its valence electrons with other atoms of carbon or with atoms of other elements.
+
+### Why can carbon form strong covalent bonds?
+* One of the reasons is the small size of carbon.
+* This enables the nucleus to hold on to the shared pairs of electrons strongly. 
+* The bonds formed by elements having bigger atoms are much weaker
+
 ### Why can carbon form so many compounds?
-* There are two reasons
-#### (i) CATENATION
-##### What is catenation?
+* There are two reasons (i) Catenation (ii) Tetravalency
+
+### CATENATION
+#### What is catenation?
 * Ability to form bonds with other atoms of the same element, giving rise to large molecules.
-##### Carbon can form strong bonds with other carbon atoms
+#### Carbon can form strong bonds with other carbon atoms
 * Carbon can form bonds with other carbon atoms, giving rise to large molecules. 
 * The bonds can be single, double or triple bonds. 
 * The carbon-carbon bond is very strong and hence stable. 
@@ -86,22 +90,19 @@
 * No other element exhibits the property of catenation to the extent seen in carbon compounds. 
 * Silicon forms compounds with hydrogen which have chains of upto seven or eight atoms, but these compounds are very reactive. 
 * This gives us the large number of compounds with many carbon atoms linked to each other
-#### (ii) TETRAVALENCY
+
+### TETRAVALENCY
 * Carbon has a valency of four
 * It can bond with four other atoms of carbon or atoms of some other mono-valent element. 
 * It is known to bond with oxygen, hydrogen, nitrogen, sulphur, chlorine and many other elements
 * The properties of these compounds depend on the elements other than carbon present in the molecule.
 * The bonds formed with most other elements are very strong, and hence the compounds are exceptionally stable. 
 
-### Why can carbon form strong covalent bonds?
-* One of the reasons is the small size of carbon.
-* This enables the nucleus to hold on to the shared pairs of electrons strongly. 
-* The bonds formed by elements having bigger atoms are much weaker
 
-### Saturated and Unsaturated Carbons
-#### Saturated compounds
+## Saturated and Unsaturated Carbons
+### Saturated compounds
 * Compounds of carbon, which are linked by only single bonds between the carbon atoms are called saturated compounds.
-#### Unsaturated compounds
+### Unsaturated compounds
 * Compounds of carbon having double or triple bonds between their carbon atoms are called unsaturated compounds.
 
 ## Formation of coal and petroleum
