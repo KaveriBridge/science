@@ -196,6 +196,18 @@
 ### Alkynes
 * Unsaturated hydrocarbons containing one or more triple bonds are called alkynes
 
+## Functional groups
+* In addition to hydrogen, carbon also forms bonds with other elements such as halogens, oxygen, nitrogen and sulphur.
+* In a hydrocarbon chain, one or more hydrogens can be replaced by these elements. 
+* In such compounds, the element replacing hydrogen is referred to as a heteroatom. 
+* These heteroatoms are also present in some groups.
+* These heteroatoms and the group containing these confer specific properties to the compound, regardless of the length and nature of the carbon chain and hence are called
+functional groups. 
+
+### Key functional groups
+<img width="640" src="https://user-images.githubusercontent.com/20998959/149623730-0220cb28-79a3-4d00-be2f-c97e2e385681.png">
+
+
 ## Formation of coal and petroleum
 ### Coal
 * Coal is the remains of trees, ferns, and other plants that lived millions of years ago. 
