@@ -28,3 +28,25 @@
 |Serine  | Hydroxy methyl (-CH₂-OH)|
 |Lysine  | Lysl group (-CH₂-CH₂-CH₂-CH₂-NH₂) | Basic |
 
+## Lipids
+* Lipids are generally water insoluble. 
+* They could be simple fatty acids. 
+* A fatty acid has a carboxyl group attached to an R group. 
+* The R group could be a methyl (–CH3), or ethyl (–C2H5) or higher number of –CH2 groups (1 carbon to 19 carbons). 
+* For example, palmitic acid has 16 carbons including carboxyl carbon. Arachidonic acid has 20 carbon atoms including the carboxyl carbon. 
+* Fatty acids could be saturated (without double bond) or unsaturated (with one or more C=C double bonds). 
+* Another simple lipid is glycerol which is trihydroxy propane. Many lipids have both glycerol and fatty acids. Here the fatty acids are found esterified with glycerol. They can be then monoglycerides, diglycerides and triglycerides. 
+* These are also called fats and oils based on melting point. 
+* Oils have lower melting point (e.g., gingelly oil) and hence remain as oil in winters. 
+* Can you identify a fat from the market? Some lipids have phosphorous and a phosphorylated organic compound in them.
+* These are phospholipids. 
+* They are found in cell membrane. Lecithin is one example. 
+* Some tissues especially the neural tissues have lipids with more complex structures
+* Living organisms have a number of carbon compounds in which heterocyclic rings can be found. 
+* Some of these are nitrogen bases – adenine, guanine, cytosine, uracil, and thymine. 
+* When found attached to a sugar, they are called nucleosides. 
+* If a phosphate group is also found esterified to the sugar they are called nucleotides. 
+* Adenosine, guanosine, thymidine, uridine and cytidine are nucleosides. 
+* Adenylic acid, thymidylic acid, guanylic acid, uridylic acid and cytidylic acid are nucleotides. 
+* Nucleic acids like DNA and RNA consist of nucleotides only. 
+* DNA and RNA function as genetic material.
