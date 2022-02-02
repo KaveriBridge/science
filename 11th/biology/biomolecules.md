@@ -61,6 +61,9 @@
 * Example: Lecithin
 
 ## DNA and RNA
+
+<img width="480" src="https://user-images.githubusercontent.com/20998959/152136614-17c3b121-b613-48cc-b994-7294722df153.png">
+
 * Living organisms have a number of carbon compounds in which heterocyclic rings can be found. 
 ### Nitrogen bases
 * Some of these are nitrogen bases – adenine, guanine, cytosine, uracil, and thymine. 
