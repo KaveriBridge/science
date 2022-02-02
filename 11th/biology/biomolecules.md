@@ -1,6 +1,9 @@
-## What is refraction?
+## What is in Living organisms?
 * Living organisms have a higher percentage of carbon and hydrogen than non-living matter.
 <img width="320" src="https://user-images.githubusercontent.com/20998959/152127897-fd040d67-e1e7-4460-b366-d04543a18a72.png">
+
+<img width="320" src="https://user-images.githubusercontent.com/20998959/152131043-00d3ce1d-2aec-44c6-aefa-4f52d3298314.png">
+
 
 ## Amino acids
 * Amino acids are organic compounds that contain amino (-NH₂) and carboxylate (−COOH) functional groups, along with a side chain (R group) specific to each amino acid. 
