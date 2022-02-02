@@ -42,9 +42,13 @@
 * For example, palmitic acid has 16 carbons including carboxyl carbon. 
 * Arachidonic acid has 20 carbon atoms including the carboxyl carbon. 
 * Fatty acids could be saturated (without double bond) or unsaturated (with one or more C=C double bonds). 
+
+<img width="240" src="https://user-images.githubusercontent.com/20998959/152135778-62efab48-5695-4f63-ab3c-4eef6f2a8b5a.png">
+
 ### Glycerol
 * Trihydroxy propane. 
-<img width="320" src="https://user-images.githubusercontent.com/20998959/152134474-f88174f0-781a-4405-aeaa-7b3a17921667.png">
+<img width="120" src="https://user-images.githubusercontent.com/20998959/152135907-398aa3dc-cba6-4a58-8ead-0d98c19203cd.png">
+
 
 ### Glycerides 
 * They are esters of glycerol and fatty acids
