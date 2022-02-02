@@ -33,6 +33,9 @@
 
 * Lipids are generally water insoluble. 
 * They could be simple fatty acids. 
+
+<img width="480" src="https://user-images.githubusercontent.com/20998959/152135623-ba417419-fc7b-41c2-a5f8-fc44ca22a634.png">
+
 ### Fatty acids
 * A fatty acid has a carboxyl group (-COOH) attached to an R group. 
 * The R group could be a methyl (–CH₃), or ethyl (–C₂H₅) or higher number of –CH₂ groups (1 carbon to 19 carbons). 
@@ -40,25 +43,30 @@
 * Arachidonic acid has 20 carbon atoms including the carboxyl carbon. 
 * Fatty acids could be saturated (without double bond) or unsaturated (with one or more C=C double bonds). 
 ### Glycerol
-* Another simple lipid is glycerol which is trihydroxy propane. 
+* Trihydroxy propane. 
+<img width="320" src="https://user-images.githubusercontent.com/20998959/152134474-f88174f0-781a-4405-aeaa-7b3a17921667.png">
+
 ### Glycerides 
 * They are esters of glycerol and fatty acids
 * They can be then monoglycerides, diglycerides and triglycerides. 
 * These are also called fats and oils based on melting point. 
 #### Fats and Oils
 * Oils have lower melting point (e.g., gingelly oil) and hence remain as oil in winters. 
-* Some lipids have phosphorous and a phosphorylated organic compound in them.
-* These are phospholipids. 
+
+### Phospholipids
+* Lipids with phosphorous and a phosphorylated organic compound in them.
 * They are found in cell membrane. 
-* Lecithin is one example. 
-* Some tissues especially the neural tissues have lipids with more complex structures
+* Example: Lecithin
 
 ## DNA and RNA
 * Living organisms have a number of carbon compounds in which heterocyclic rings can be found. 
+### Nitrogen bases
 * Some of these are nitrogen bases – adenine, guanine, cytosine, uracil, and thymine. 
+### Nucleosides
 * When found attached to a sugar, they are called nucleosides. 
-* If a phosphate group is also found esterified to the sugar they are called nucleotides. 
 * Adenosine, guanosine, thymidine, uridine and cytidine are nucleosides. 
+### Nucleotides
+* If a phosphate group is also found esterified to the sugar they are called nucleotides. 
 * Adenylic acid, thymidylic acid, guanylic acid, uridylic acid and cytidylic acid are nucleotides. 
 * Nucleic acids like DNA and RNA consist of nucleotides only. 
 * DNA and RNA function as genetic material.
