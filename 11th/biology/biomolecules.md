@@ -34,7 +34,7 @@
 * Lipids are generally water insoluble. 
 * They could be simple fatty acids. 
 
-<img width="480" src="https://user-images.githubusercontent.com/20998959/152135623-ba417419-fc7b-41c2-a5f8-fc44ca22a634.png">
+<img width="640" src="https://user-images.githubusercontent.com/20998959/152135623-ba417419-fc7b-41c2-a5f8-fc44ca22a634.png">
 
 ### Fatty acids
 * A fatty acid has a carboxyl group (-COOH) attached to an R group. 
