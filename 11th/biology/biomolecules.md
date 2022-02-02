@@ -52,7 +52,6 @@
 * They are esters of glycerol and fatty acids
 * They can be then monoglycerides, diglycerides and triglycerides. 
 * These are also called fats and oils based on melting point. 
-#### Fats and Oils
 * Oils have lower melting point (e.g., gingelly oil) and hence remain as oil in winters. 
 
 ### Phospholipids
