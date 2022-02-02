@@ -17,4 +17,4 @@
 * Similarly, there are aromatic amino acids (tyrosine, phenylalanine, tryptophan). 
 * A particular property of amino acids is the ionizable nature of –NH2 and –COOH groups. Hence in solutions of different pH, the structure of amino acids changes.
 
-<img width="320" src="https://user-images.githubusercontent.com/20998959/152129126-29af8265-061f-40c1-83c4-7414b83ce013.png>
+<img width="320" src="https://user-images.githubusercontent.com/20998959/152129126-29af8265-061f-40c1-83c4-7414b83ce013.png">
