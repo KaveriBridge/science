@@ -74,3 +74,26 @@
 * Adenylic acid, thymidylic acid, guanylic acid, uridylic acid and cytidylic acid are nucleotides. 
 * Nucleic acids like DNA and RNA consist of nucleotides only. 
 * DNA and RNA function as genetic material.
+
+## PRIMARY AND SECONDARY METABOLITES
+### Metabolite
+* A metabolite is an intermediate or end product of metabolism. 
+* Usually used for small molecules. 
+* Various functions - fuel, structure, signaling, stimulatory and inhibitory effects on enzymes, catalytic activity of their own (usually as a cofactor to an enzyme), defense, and interactions with other organisms (e.g. pigments, odorants, and pheromones).
+### Primary metabolite 
+* Directly involved in normal "growth", development, and reproduction. 
+* Example - Ethylene 
+### Secondary metabolite 
+* Not directly involved in those processes, but usually has an important ecological function. 
+* Examples include antibiotics and pigments such as resins and terpenes etc.
+* The most exciting aspect of chemistry deals with isolating thousands of compounds, small and big, from living organisms, determining their structure and if possible synthesising them.
+* If one were to make a list of biomolecules, such a list would have thousands of organic compounds including amino acids, sugars, etc. 
+* For reasons that are given in section 9.10, we can call these biomolecules as ‘metabolites’. 
+* In animal tissues, one notices the presence of all such categories of compounds shown in Figure 9.1. 
+* These are called primary metabolites. 
+* However, when one analyses plant, fungal and microbial cells, one would see thousands of compounds other than these called primary metabolites, e.g. alkaloids, flavonoids, rubber, essential oils, antibiotics, coloured pigments, scents, gums, spices. 
+* These are called secondary metabolites (Table 9.3). 
+* While primary metabolites have identifiable functions and play known roles in normal physiologial processes, we do not at the moment, understand the role or functions of all the ‘secondary metabolites’ in host organisms. 
+* However, many of them are useful to ‘human welfare’ (e.g., rubber, drugs, spices, scents and pigments). 
+* Some secondary metabolites have ecological importance. 
+* In the later chapters and years you will learn more about this.
