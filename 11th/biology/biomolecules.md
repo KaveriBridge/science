@@ -29,19 +29,32 @@
 |Lysine  | Lysl group (-CH₂-CH₂-CH₂-CH₂-NH₂) | Basic |
 
 ## Lipids
+<img width="480" src="https://cdn-ccnli.nitrocdn.com/hPbgvskpJmIfLTeYLYGdGpfRfGKbrYYq/assets/static/optimized/rev-1466133/wp-content/uploads/2017/10/Classification-of-Lipids-2.jpg">
+
 * Lipids are generally water insoluble. 
 * They could be simple fatty acids. 
-* A fatty acid has a carboxyl group attached to an R group. 
-* The R group could be a methyl (–CH3), or ethyl (–C2H5) or higher number of –CH2 groups (1 carbon to 19 carbons). 
-* For example, palmitic acid has 16 carbons including carboxyl carbon. Arachidonic acid has 20 carbon atoms including the carboxyl carbon. 
+### Fatty acids
+* A fatty acid has a carboxyl group (-COOH) attached to an R group. 
+* The R group could be a methyl (–CH₃), or ethyl (–C₂H₅) or higher number of –CH₂ groups (1 carbon to 19 carbons). 
+* For example, palmitic acid has 16 carbons including carboxyl carbon. 
+* Arachidonic acid has 20 carbon atoms including the carboxyl carbon. 
 * Fatty acids could be saturated (without double bond) or unsaturated (with one or more C=C double bonds). 
-* Another simple lipid is glycerol which is trihydroxy propane. Many lipids have both glycerol and fatty acids. Here the fatty acids are found esterified with glycerol. They can be then monoglycerides, diglycerides and triglycerides. 
+### Glycerol
+* Another simple lipid is glycerol which is trihydroxy propane. 
+### Glycerol and Fatty acids
+* Many lipids have both glycerol and fatty acids. 
+* Here the fatty acids are found esterified with glycerol. 
+* They can be then monoglycerides, diglycerides and triglycerides. 
 * These are also called fats and oils based on melting point. 
 * Oils have lower melting point (e.g., gingelly oil) and hence remain as oil in winters. 
-* Can you identify a fat from the market? Some lipids have phosphorous and a phosphorylated organic compound in them.
+* Can you identify a fat from the market? 
+* Some lipids have phosphorous and a phosphorylated organic compound in them.
 * These are phospholipids. 
-* They are found in cell membrane. Lecithin is one example. 
+* They are found in cell membrane. 
+* Lecithin is one example. 
 * Some tissues especially the neural tissues have lipids with more complex structures
+
+## DNA and RNA
 * Living organisms have a number of carbon compounds in which heterocyclic rings can be found. 
 * Some of these are nitrogen bases – adenine, guanine, cytosine, uracil, and thymine. 
 * When found attached to a sugar, they are called nucleosides. 
