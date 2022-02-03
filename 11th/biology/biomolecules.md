@@ -96,8 +96,21 @@
 * Some secondary metabolites have ecological importance. 
 * In the later chapters and years you will learn more about this.
 
-
-## 9.10 METABOLIC BASIS FOR LIVING
+## 9.8 NATURE OF BOND LINKING MONOMERS IN A POLYMER
+* In a polypeptide or a protein, amino acids are linked by a peptide bond which is formed when the carboxyl (-COOH) group of one amino acid reacts with the amino (-NH2
+) group of the next amino acid with the elimination of a water moiety (the process is called dehydration).
+* In a polysaccharide the individual monosaccharides are linked by a glycosidic bond. This bond is also formed by dehydration. This bond is formed between two carbon atoms of two adjacent monosaccharides.
+* In a nucleic acid a phosphate moiety links the 3’-carbon of one sugar of one nucleotide to the 5’-carbon of the sugar of the succeeding nucleotide. The bond between the phosphate and hydroxyl group of sugar is an ester bond. As there is one such ester bond on either side, it is called phosphodiester bond (Figure 9.5).
+* Nucleic acids exhibit a wide variety of secondary structures. For example, one of the secondary structures exhibited by DNA is the famous Watson-Crick model. This model says that DNA exists as a double helix. The two strands of polynucleotides are antiparallel i.e., run in the opposite direction. 
+* The backbone is formed by the sugarphosphate-sugar chain. 
+* The nitrogen bases are projected more or less perpendicular to this backbone but face inside. 
+* A and G of one strand compulsorily base pairs with T and C, respectively, on the other strand
+### Metabolism
+* The set of life-sustaining chemical reactions in organisms. 
+* The three main purposes of metabolism are: 
+    * the conversion of the energy in food to energy available to run cellular processes; 
+    * the conversion of food to building blocks for proteins, lipids, nucleic acids, and some carbohydrates
+    * the elimination of metabolic wastes. 
 
 ### Metabolic pathway 
 * A metabolic pathway is a series of chemical reactions in a cell that build and breakdown molecules for cellular processes.
