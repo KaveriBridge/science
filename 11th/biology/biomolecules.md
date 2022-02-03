@@ -78,8 +78,6 @@
 ## PRIMARY AND SECONDARY METABOLITES
 ### Metabolite
 * A metabolite is an intermediate or end product of metabolism. 
-* Usually used for small molecules. 
-* Various functions - fuel, structure, signaling, stimulatory and inhibitory effects on enzymes, catalytic activity of their own (usually as a cofactor to an enzyme), defense, and interactions with other organisms (e.g. pigments, odorants, and pheromones).
 ### Primary metabolite 
 * Directly involved in normal "growth", development, and reproduction. 
 * Example - Ethylene 
@@ -97,3 +95,22 @@
 * However, many of them are useful to ‘human welfare’ (e.g., rubber, drugs, spices, scents and pigments). 
 * Some secondary metabolites have ecological importance. 
 * In the later chapters and years you will learn more about this.
+
+
+## 9.10 METABOLIC BASIS FOR LIVING
+
+### Metabolic pathway 
+* A metabolic pathway is a series of chemical reactions in a cell that build and breakdown molecules for cellular processes.
+
+### Anabolic and Catabolic pathways
+* Anabolic pathways synthesize molecules and require energy. Example - Assembly of a protein.
+* Catabolic pathways break down molecules and produce energy. Example - Breakdown of glucose to lactic acid in cells
+* Enzymes facilitate these chemical reactions.
+
+### Glycosis
+* Glucose to lactic acid
+### ATP
+* Adenosine Triphosphate (ATP).
+* Living organisms store energy in the bonds of ATP 
+* They use this bond energy for work, when needed.
+
