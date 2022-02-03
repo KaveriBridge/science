@@ -83,28 +83,40 @@
 * Example - Ethylene 
 ### Secondary metabolite 
 * Not directly involved in those processes, but usually has an important ecological function. 
-* Examples include antibiotics and pigments such as resins and terpenes etc.
-* The most exciting aspect of chemistry deals with isolating thousands of compounds, small and big, from living organisms, determining their structure and if possible synthesising them.
-* If one were to make a list of biomolecules, such a list would have thousands of organic compounds including amino acids, sugars, etc. 
-* For reasons that are given in section 9.10, we can call these biomolecules as ‘metabolites’. 
-* In animal tissues, one notices the presence of all such categories of compounds shown in Figure 9.1. 
-* These are called primary metabolites. 
-* However, when one analyses plant, fungal and microbial cells, one would see thousands of compounds other than these called primary metabolites, e.g. alkaloids, flavonoids, rubber, essential oils, antibiotics, coloured pigments, scents, gums, spices. 
-* These are called secondary metabolites (Table 9.3). 
-* While primary metabolites have identifiable functions and play known roles in normal physiologial processes, we do not at the moment, understand the role or functions of all the ‘secondary metabolites’ in host organisms. 
-* However, many of them are useful to ‘human welfare’ (e.g., rubber, drugs, spices, scents and pigments). 
-* Some secondary metabolites have ecological importance. 
-* In the later chapters and years you will learn more about this.
+* Examples - alkaloids, flavonoids, rubber, essential oils, antibiotics, coloured pigments, scents, gums, spices. 
 
 ## 9.8 NATURE OF BOND LINKING MONOMERS IN A POLYMER
-* In a polypeptide or a protein, amino acids are linked by a peptide bond which is formed when the carboxyl (-COOH) group of one amino acid reacts with the amino (-NH2
-) group of the next amino acid with the elimination of a water moiety (the process is called dehydration).
-* In a polysaccharide the individual monosaccharides are linked by a glycosidic bond. This bond is also formed by dehydration. This bond is formed between two carbon atoms of two adjacent monosaccharides.
-* In a nucleic acid a phosphate moiety links the 3’-carbon of one sugar of one nucleotide to the 5’-carbon of the sugar of the succeeding nucleotide. The bond between the phosphate and hydroxyl group of sugar is an ester bond. As there is one such ester bond on either side, it is called phosphodiester bond (Figure 9.5).
-* Nucleic acids exhibit a wide variety of secondary structures. For example, one of the secondary structures exhibited by DNA is the famous Watson-Crick model. This model says that DNA exists as a double helix. The two strands of polynucleotides are antiparallel i.e., run in the opposite direction. 
+### Moeity
+* A fragment of a molecule, especially the one that comprises an identifiable unit 
+* E.g. an acetyle group
+### Protein
+* In a polypeptide or a protein, amino acids are linked by a peptide bond
+* Formed when the carboxyl (-COOH) group of one amino acid reacts with the amino (-NH2) group of the next amino acid with the elimination of a water moiety (the process is called dehydration).
+### Sugar
+* In a polysaccharide, the individual monosaccharides are linked by a glycosidic bond. 
+* This bond is formed by dehydration. 
+* This bond is formed between two carbon atoms of two adjacent monosaccharides.
+### Nucleic acid
+* In a nucleic acid a phosphate moiety links the 3’-carbon of one sugar of one nucleotide to the 5’-carbon of the sugar of the succeeding nucleotide. 
+* The bond between the phosphate and hydroxyl group of sugar is an ester bond. 
+* As there is one such ester bond on either side, it is called phosphodiester bond.
+* Nucleic acids exhibit a wide variety of secondary structures. 
+* For example, one of the secondary structures exhibited by DNA is the famous Watson-Crick model. 
+* This model says that DNA exists as a double helix. 
+* The two strands of polynucleotides are antiparallel i.e., run in the opposite direction. 
 * The backbone is formed by the sugarphosphate-sugar chain. 
 * The nitrogen bases are projected more or less perpendicular to this backbone but face inside. 
 * A and G of one strand compulsorily base pairs with T and C, respectively, on the other strand
+* There are two hydrogen bonds between A and T and three hydrogen bonds between G and C. 
+* Each strand appears like a helical staircase.
+* Each step of ascent is represented by a pair of bases. 
+* At each step of ascent, the strand turns 36 . 
+* One full turn of the helical strand would involve ten steps or ten base pairs. 
+* Attempt drawing a line diagram.
+* The pitch would be 34Å. 
+* The rise per base pair would be 3.4Å. 
+* This form of DNA with the above mentioned salient features is called BDNA. 
+
 ### Metabolism
 * The set of life-sustaining chemical reactions in organisms. 
 * The three main purposes of metabolism are: 
