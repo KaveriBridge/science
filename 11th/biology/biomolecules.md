@@ -104,11 +104,9 @@
 
 ### Anabolic and Catabolic pathways
 * Anabolic pathways synthesize molecules and require energy. Example - Assembly of a protein.
-* Catabolic pathways break down molecules and produce energy. Example - Breakdown of glucose to lactic acid in cells
+* Catabolic pathways break down molecules and produce energy. Example - Breakdown of glucose to lactic acid
 * Enzymes facilitate these chemical reactions.
 
-### Glycosis
-* Glucose to lactic acid
 ### ATP
 * Adenosine Triphosphate (ATP).
 * Living organisms store energy in the bonds of ATP 
