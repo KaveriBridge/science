@@ -34,7 +34,7 @@
 * The field is stronger, that is, the force acting on the pole of another magnet placed is greater where the field lines are crowded 
 * No two field-lines are found to cross each other. If they did, it would mean that at the point of intersection, the compass needle would point towards two directions, which is not possible.
 
-<img width="480" src="https://user-images.githubusercontent.com/20998959/152537326-71acd156-907f-4666-a90b-aabdcb769cc1.png">
+<img width="240" src="https://user-images.githubusercontent.com/20998959/152537326-71acd156-907f-4666-a90b-aabdcb769cc1.png">
 
 ### Strength of the magnetic field
 * Magnetic field produced by a current-carrying wire at a given point depends directly on the current passing through it.
@@ -42,7 +42,7 @@
 
 
 ### Right-Hand Thumb Rule
-<img width="480" src="https://user-images.githubusercontent.com/20998959/152538105-8a3fb65d-3567-45e2-9fcb-e790c72193ba.png">
+<img width="240" src="https://user-images.githubusercontent.com/20998959/152538105-8a3fb65d-3567-45e2-9fcb-e790c72193ba.png">
 
 * Imagine that you are holding a current-carrying straight conductor in your right hand such that the thumb points towards the direction of current. 
 * Then your fingers will wrap around the conductor in the direction of the field lines of the magnetic field
@@ -64,7 +64,7 @@ away from the wire
 * This is because the current in each circular turn has the same direction, and the field due to each turn then just adds up.
 
 
-<img width="480" src="https://user-images.githubusercontent.com/20998959/152538817-6818e88d-3e18-4798-ac5f-b039096d557e.png">
+<img width="240" src="https://user-images.githubusercontent.com/20998959/152538817-6818e88d-3e18-4798-ac5f-b039096d557e.png">
 
 
 ## Magnetic Field due to a Current in a Solenoid
@@ -74,13 +74,13 @@ away from the wire
 * The field lines inside the solenoid are in the form of parallel straight lines. 
 * Magnetic field is the same at all points inside the solenoid. It is uniform inside the solenoid.
 
-<img width="480" src="https://user-images.githubusercontent.com/20998959/152539470-c17f846e-71a3-42fd-8792-4f1416d24eba.png">
+<img width="240" src="https://user-images.githubusercontent.com/20998959/152539470-c17f846e-71a3-42fd-8792-4f1416d24eba.png">
 
 
 ## Electromagnet
 * An electromagnet consists of a core of soft iron wrapped around with a coil of insulated copper wire.
 
-<img width="480" src="https://user-images.githubusercontent.com/20998959/152539391-cc4caaef-6dc2-4963-83cc-c8b2c8e7f064.png">
+<img width="240" src="https://user-images.githubusercontent.com/20998959/152539391-cc4caaef-6dc2-4963-83cc-c8b2c8e7f064.png">
 
 ## FORCE ON A CURRENT-CARRYING CONDUCTOR IN A MAGNETIC FIELD
 * A current-carrying conductor when placed in a magnetic field experiences a force.
@@ -88,7 +88,7 @@ away from the wire
 * This is the basis of an electric motor.
 
 ### Fleming left hand rule
-<img width="480" src="https://user-images.githubusercontent.com/20998959/152539943-dcd39b9f-88ee-4319-8352-ec9b2e839215.png">
+<img width="240" src="https://user-images.githubusercontent.com/20998959/152539943-dcd39b9f-88ee-4319-8352-ec9b2e839215.png">
 
 * According to this rule, stretch the thumb, forefinger and middle finger of your left hand such that they are mutually perpendicular. 
 * If the first finger points in the direction of magnetic field and the second finger in the direction of current, then the thumb will point in the direction of motion or
