@@ -89,6 +89,7 @@ away from the wire
 
 ### Fleming left hand rule
 <img width="480" src="https://user-images.githubusercontent.com/20998959/152539943-dcd39b9f-88ee-4319-8352-ec9b2e839215.png">
+
 * According to this rule, stretch the thumb, forefinger and middle finger of your left hand such that they are mutually perpendicular. 
 * If the first finger points in the direction of magnetic field and the second finger in the direction of current, then the thumb will point in the direction of motion or
 the force acting on the conductor
