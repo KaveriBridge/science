@@ -12,14 +12,21 @@
 
 
 ## Compass needle
-* A compass needle is a small bar magnet. 
+* A compass needle is a small magnet. 
 * The ends of the compass needle point approximately towards north and south directions. 
 * The end pointing towards north is called north seeking or north pole. 
 * The other end that points towards south is called south seeking or south pole. 
 * Like poles repel, while unlike poles of magnets attract each other
 
 ## Magnetic field and field lines
-* Magnetic field has both direction and magnitude.
+* A magnetic field exists in the region surrounding a magnet, in which the force of the magnet can be detected.
+* It has both direction and magnitude.
+
+### Field lines
+* Field lines are used to represent a magnetic field. 
+* A field line is the path along which a hypothetical free north pole would tend to move. 
+* The direction of the magnetic field at a point is given by the direction that a north pole placed at that point would take. 
+* Field lines are shown closer together where the magnetic field is greater.
 * Magnetic field lines are closed curves.
 * They emerge from north pole and merge at the south pole 
 * Inside the magnet, the direction of field lines is from its south pole to its north pole. 
@@ -62,6 +69,7 @@ away from the wire
 
 ## Magnetic Field due to a Current in a Solenoid
 * A coil of many circular turns of insulated copper wire wrapped closely in the shape of a cylinder is called a solenoid. 
+* The magnetic field of a solenoid carrying a current is similar to that of a bar magnet.
 * One end of the solenoid behaves as a magnetic north pole, while the other behaves as the south pole. 
 * The field lines inside the solenoid are in the form of parallel straight lines. 
 * Magnetic field is the same at all points inside the solenoid. It is uniform inside the solenoid.
@@ -70,8 +78,45 @@ away from the wire
 
 
 ## Electromagnet
-* A strong magnetic field produced inside a solenoid can be used to magnetise a piece of magnetic material, like soft iron, when placed inside the coil 
-* The magnet so formed is called an electromagnet.
+* An electromagnet consists of a core of soft iron wrapped around with a coil of insulated copper wire.
 
 <img width="480" src="https://user-images.githubusercontent.com/20998959/152539391-cc4caaef-6dc2-4963-83cc-c8b2c8e7f064.png">
 
+## FORCE ON A CURRENT-CARRYING CONDUCTOR IN A MAGNETIC FIELD
+* A current-carrying conductor when placed in a magnetic field experiences a force.
+* If the direction of the field and that of the current are mutually perpendicular to each other, then the force acting on the conductor will be perpendicular to both and will be given by Fleming’s left-hand rule. 
+* This is the basis of an electric motor.
+
+### Fleming left hand rule
+<img width="480" src="https://user-images.githubusercontent.com/20998959/152539943-dcd39b9f-88ee-4319-8352-ec9b2e839215.png">
+* According to this rule, stretch the thumb, forefinger and middle finger of your left hand such that they are mutually perpendicular. 
+* If the first finger points in the direction of magnetic field and the second finger in the direction of current, then the thumb will point in the direction of motion or
+the force acting on the conductor
+
+
+
+n A metallic wire carrying an electric current has associated with it a magnetic field.
+The field lines about the wire consist of a series of concentric circles whose direction
+is given by the right-hand rule.
+n The pattern of the magnetic field around a conductor due to an electric current
+flowing through it depends on the shape of the conductor. 
+n 
+n 
+An electric motor is a device that converts electric energy into mechanical energy.
+n The phenomenon of electromagnetic induction is the production of induced current
+in a coil placed in a region where the magnetic field changes with time. The magnetic
+field may change due to a relative motion between the coil and a magnet placed
+near to the coil. If the coil is placed near to a current-carrying conductor, the
+magnetic field may change either due to a change in the current through the
+conductor or due to the relative motion between the coil and conductor. The
+direction of the induced current is given by the Fleming’s right-hand rule.
+n A generator converts mechanical energy into electrical energy. It works on the basis
+of electromagnetic induction.
+n In our houses we receive AC electric power of 220 V with a frequency of 50 Hz. One
+of the wires in this supply is with red insulation, called live wire. The other one is of
+black insulation, which is a neutral wire. The potential difference between the two
+is 220 V. The third is the earth wire that has green insulation and this is connected
+to a metallic body deep inside earth. It is used as a safety measure to ensure that
+any leakage of current to a metallic body does not give any severe shock to a user.
+n Fuse is the most important safety device, used for protecting the circuits due to
+short-circuiting or overloading of the circuits.
