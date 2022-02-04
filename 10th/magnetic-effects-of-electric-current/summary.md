@@ -30,8 +30,8 @@
 <img width="480" src="https://user-images.githubusercontent.com/20998959/152537326-71acd156-907f-4666-a90b-aabdcb769cc1.png">
 
 ### Strength of the magnetic field
-* Magnetic field produced at a given point increases as the current through the wire increases.
-* Magnetic field produced by a given current in the conductor decreases as the distance from it increases.
+* Magnetic field produced by a current-carrying wire at a given point depends directly on the current passing through it.
+* Magnetic field produced by a current-carrying straight wire depends inversely on the distance from it.
 
 
 ### Right-Hand Thumb Rule
@@ -40,6 +40,38 @@
 * Imagine that you are holding a current-carrying straight conductor in your right hand such that the thumb points towards the direction of current. 
 * Then your fingers will wrap around the conductor in the direction of the field lines of the magnetic field
 * This is known as the right-hand thumb rule
+* Also known as "Maxwell’s corkscrew rule"
+
+## Magnetic Field due to a Current through a Circular Loop
+* We have so far observed the pattern of the magnetic field lines produced around a current-carrying straight wire. 
+* Suppose this straight wire is bent in the form of a circular loop and a current is passed through it. 
+* How would the magnetic field lines look like? 
+* We know that the magnetic field produced by a current-carrying straight wire depends inversely on the distance from it. 
+* Similarly at every point of a current-carrying circular loop, the concentric circles representing the magnetic field around it would become larger and larger as we move
+away from the wire 
+* By the time we reach at the centre of the circular loop, the arcs of these big circles would appear as straight lines. 
+* Every point on the wire carrying current would give rise to the magnetic field appearing as straight lines at the center of the loop. 
+* By applying the right hand rule, it is easy to check that every section of the wire contributes to the magnetic field lines in the same direction within the loop
+* We know that the magnetic field produced by a current-carrying wire at a given point depends directly on the current passing through it.
+* Therefore, if there is a circular coil having n turns, the field produced is n times as large as that produced by a single turn. 
+* This is because the current in each circular turn has the same direction, and the field due to each turn then just adds up.
 
 
+<img width="480" src="https://user-images.githubusercontent.com/20998959/152538817-6818e88d-3e18-4798-ac5f-b039096d557e.png">
+
+
+## Magnetic Field due to a Current in a Solenoid
+* A coil of many circular turns of insulated copper wire wrapped closely in the shape of a cylinder is called a solenoid. 
+* One end of the solenoid behaves as a magnetic north pole, while the other behaves as the south pole. 
+* The field lines inside the solenoid are in the form of parallel straight lines. 
+* Magnetic field is the same at all points inside the solenoid. It is uniform inside the solenoid.
+
+<img width="480" src="https://user-images.githubusercontent.com/20998959/152539470-c17f846e-71a3-42fd-8792-4f1416d24eba.png">
+
+
+## Electromagnet
+* A strong magnetic field produced inside a solenoid can be used to magnetise a piece of magnetic material, like soft iron, when placed inside the coil 
+* The magnet so formed is called an electromagnet.
+
+<img width="480" src="https://user-images.githubusercontent.com/20998959/152539391-cc4caaef-6dc2-4963-83cc-c8b2c8e7f064.png">
 
