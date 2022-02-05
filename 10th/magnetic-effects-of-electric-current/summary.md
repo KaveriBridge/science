@@ -26,19 +26,20 @@
 * Field lines are used to represent a magnetic field. 
 * A field line is the path along which a hypothetical free north pole would tend to move. 
 * The direction of the magnetic field at a point is given by the direction that a north pole placed at that point would take. 
-* Field lines are shown closer together where the magnetic field is greater.
-* Magnetic field lines are closed curves.
-* They emerge from north pole and merge at the south pole 
-* Inside the magnet, the direction of field lines is from its south pole to its north pole. 
-* The relative strength of the magnetic field is shown by the degree of closeness of the field lines. 
-* The field is stronger, that is, the force acting on the pole of another magnet placed is greater where the field lines are crowded 
-* No two field-lines are found to cross each other. If they did, it would mean that at the point of intersection, the compass needle would point towards two directions, which is not possible.
 
 <img width="360" src="https://user-images.githubusercontent.com/20998959/152537326-71acd156-907f-4666-a90b-aabdcb769cc1.png">
 
+### Properties of magnetic field lines
+* Magnetic field lines are closed curves. 
+* They emerge from north pole and merge at the south pole. 
+* Inside the magnet, the direction of field lines is from its south pole to its north pole. 
+* No two field-lines are found to cross each other. If they did, it would mean that at the point of intersection, the compass needle would point towards two directions, which is not possible.
+* The strength of the field is proportional to the closeness of the lines. 
+ 
+
 ### Strength of the magnetic field
-* Magnetic field produced by a current-carrying wire at a given point depends directly on the current passing through it.
-* Magnetic field produced by a current-carrying straight wire depends inversely on the distance from it.
+* Magnetic field produced by a current-carrying wire at a given point **depends directly on the current** passing through it.
+* Magnetic field produced by a current-carrying straight wire **depends inversely on the distance** from it.
 
 
 ### Right-Hand Thumb Rule
@@ -166,28 +167,51 @@ In an electric generator, mechanical energy is used to rotate a conductor in a m
 
 When the axle attached to the two rings is rotated such that the arm AB moves up (and the arm CD moves down) in the magnetic field produced
 by the permanent magnet. Let us say the coil ABCD is rotated clockwise in the arrangement shown in Fig. 13.19. By applying Fleming’s right-hand rule, the induced currents are set up in these arms along the directions AB and CD. Thus an induced current flows in the direction ABCD. If there are larger numbers of turns in the coil, the current generated in each turn adds up to give a large current through the coil. This means that the current in the external circuit flows from B2 to B1. After half a rotation, arm CD starts moving up and AB moving down. As a result, the directions of the induced currents in both the arms change, giving rise to the net induced current in the direction DCBA. The current in the external circuit now flows from B1 to B2. Thus after every half rotation the polarity of the current in the respective arms changes. Such a current, which changes direction after equal intervals of time, is called an alternating current (abbreviated as AC). This device is called an AC generator.
+
+### DC generator
 To get a direct current (DC, which does not change its direction with time), a split-ring type commutator must be used. With this arrangement, one brush is at all times in contact with the arm moving up in the field, while the other is in contact with the arm moving down. We have seen the working of a split ring commutator in the case of an electric motor (see Fig. 13.15). Thus a unidirectional current is produced. The generator is thus called a DC generator.
 
 ### AC vs DC
-The difference between the direct and alternating currents is that the direct current always flows in one direction, whereas the alternating current reverses its direction periodically. Most power stations constructed these days produce AC. In India, the AC changes direction after every 1/100 second, that is, the frequency of AC is 50 Hz. An
-important advantage of AC over DC is that electric power can be transmitted over long distances without much loss of energy.
+* In case of direct current, the current always flows in one direction, whereas the alternating current reverses its direction periodically. 
+* In India, the AC changes direction after every 1/100 second, that is, the frequency of AC is 50 Hz. 
+* An important advantage of AC over DC is that electric power can be transmitted over long distances without much loss of energy.
 
 ## 13.7 DOMESTIC ELECTRIC CIRCUITS
+In our houses we receive AC electric power of 220 V with a frequency of 50 Hz. 
+### Red Live Wire and Black Neutral Wire
+* One of the wires in this supply, usually with red insulation cover, is called live wire (or positive).
+* The other one is of black insulation, which is a neutral wire. 
+* The potential difference between the two is 220 V. 
+### Green Earth Wire
+* Green insulation
+* Connected to a metallic body deep inside earth. 
+#### Safety measure 
+* All appliances with metallic body are connected to the earth wire
+* In case of a leak, this provides a low-resistance path for the current.
+* Prevents user from getting a severe shock
 
-In our houses we receive AC electric power of 220 V with a frequency of 50 Hz. One of the wires in this supply is with red insulation, called live wire. The other one is of
-black insulation, which is a neutral wire. The potential difference between the two is 220 V. The third is the earth wire that has green insulation and this is connected
-to a metallic body deep inside earth. It is used as a safety measure to ensure that any leakage of current to a metallic body does not give any severe shock to a user.
+### Current circuits
+* 15 A current rating for appliances with higher power ratings such as geysers, air coolers, etc. 
+* 5 A current rating for bulbs, fans, etc. 
 
-In our homes, we receive supply of electric power through a main supply (also called mains), either supported through overhead electric poles or by underground cables. One of the wires in this supply, usually with red insulation cover, is called live wire (or positive). Another wire, with black insulation, is called neutral wire (or negative). In our country, the potential difference between the two is 220 V. At the meter-board in the house, these wires pass into an electricity meter through a main fuse. Through the main switch they are connected to the line wires in the house. These wires supply electricity to separate circuits within the house. Often, two separate circuits are used, one of 15 A current rating for appliances with higher power ratings such as geysers, air coolers, etc. The other circuit is of 5 A current rating for bulbs, fans, etc. The earth wire, which has insulation of green colour, is usually connected to a metal plate deep in the earth near the house. This is used as a safety measure, especially for those appliances that have a metallic body, for example, electric press, toaster, table fan, refrigerator, etc. The metallic body is connected to the earth wire, which
-provides a low-resistance conducting path for the current. Thus, it ensures that any leakage of current to the metallic body of the appliance keeps its potential to that of the earth, and the user may not get a severe electric shock.
 
 <img width="640" src="https://user-images.githubusercontent.com/20998959/152639386-7616c5b3-a428-4944-ad85-0c242e88df48.png">
 
-Figure 13.20 gives a schematic diagram of one of the common domestic circuits. 
-In each separate circuit, different appliances can be connected across the live and neutral wires. Each appliance has a separate switch to ‘ON’/‘OFF’ the flow of current through it. In order that each appliance has equal potential difference, they are connected parallel to each other. Electric fuse is an important component of all domestic circuits. We have already studied the principle and working of a fuse in the previous chapter (see Section 12.7). A fuse in a circuit prevents damage to the appliances and the circuit due to overloading. Overloading can occur when the live wire and the neutral wire come into direct contact. (This occurs when the insulation of wires is damaged or there is a fault in the appliance.) In such a situation, the current in the circuit abruptly increases. This is called short-circuiting. The use of an electric fuse prevents the electric circuit and the appliance from a possible damage by stopping the flow of unduly high electric current. The Joule heating that takes place in the fuse melts it to break the electric circuit.
+### How are appliances connected?
+* In each separate circuit, different appliances can be connected across the live and neutral wires. 
+* Each appliance has a separate switch to ‘ON’/‘OFF’ the flow of current through it. 
+* In order that each appliance has equal potential difference, they are connected parallel to each other. 
 
-Overloading can also occur due to an accidental hike in the supply voltage. Sometimes overloading is caused by connecting too many appliances to a single socket.
+### Overloading occurs
+* When the live wire and the neutral wire come into direct contact.
+* Due to an accidental hike in the supply voltage. 
+* When too many appliances are connected to a single socket.
+
+### Short-circuit
+* Occurs when the live wire and the neutral wire come into direct contact. 
+* The current in the circuit abruptly increases
+* Fuse prevents damage by stopping the flow of high current. The wire in the fuse melts due to heating and breaks the circuit.
 
 ### Fuse
-Fuse is the most important safety device, used for protecting the circuits due to short-circuiting or overloading of the circuits.
+* Fuse is the most important safety device, used for protecting the circuits due to short-circuiting or overloading of the circuits.
 
