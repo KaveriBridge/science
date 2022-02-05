@@ -113,7 +113,7 @@ The commercial motors use (i) an electromagnet in place of permanent magnet; (ii
 ### Faraday's experiments
 In 1831, Faraday made an important breakthrough by discovering how a moving magnet can be used to generate electric current. 
 
-![image](https://user-images.githubusercontent.com/20998959/152638752-cf064ccb-b054-4b38-aa69-2d2cb63d7660.png)
+<img width="480" src="https://user-images.githubusercontent.com/20998959/152638752-cf064ccb-b054-4b38-aa69-2d2cb63d7660.png">
 
 ### Moving a bar magnet around a stationary coil
 * Take a coil of wire AB having a large number of turns.
@@ -135,14 +135,14 @@ In 1831, Faraday made an important breakthrough by discovering how a moving magn
 ### Galvanometer
 A galvanometer is an instrument that can detect the presence of a current in a circuit. The pointer remains at zero (the centre of the scale) for zero current flowing through it. It can deflect either to the left or to the right of the zero mark depending on the direction of current.
 
-![image](https://user-images.githubusercontent.com/20998959/152638802-17c8d8b8-b844-487e-9598-6abfd49588c5.png)
+<img width="480" src="https://user-images.githubusercontent.com/20998959/152638802-17c8d8b8-b844-487e-9598-6abfd49588c5.png">
 
 ### Michael Faraday (1791–1867)
 Michael Faraday was an experimental physicist. He had no formal education. He worked in a book-binding shop during his early years. He used to read books that came for binding. This way Faraday developed his interest in science. He got an opportunity to listen to some public lectures by Humphrey Davy of Royal Institute. He made careful notes of Davy’s lectures and sent them to Davy. Soon he was made an assistant in Davy’s laboratory at the Royal Institute. Faraday made several path-breaking discoveries that include electromagnetic induction and the laws of electrolysis. Several universities conferred on him the honorary degrees but he turned down such honours. Faraday loved his
 science work more than any honour
 
 ### Fleming's right hand rule
-![image](https://user-images.githubusercontent.com/20998959/152639183-7001976d-c920-4eb8-a3d1-d645cd0dc4db.png)
+<img width="480" src="https://user-images.githubusercontent.com/20998959/152639183-7001976d-c920-4eb8-a3d1-d645cd0dc4db.png">
 
 * Stretch the thumb, forefinger and middle finger of right hand so that they are perpendicular to each other
 * If the forefinger indicates the direction of the magnetic field and the thumb shows the direction of motion of conductor, then the middle finger will show the direction
@@ -162,7 +162,7 @@ In an electric generator, mechanical energy is used to rotate a conductor in a m
 * The axle may be mechanically rotated from outside to rotate the coil inside the magnetic field.
 * Outer ends of the two brushes are connected to the galvanometer to show the flow of current in the given external circuit.
 
-![image](https://user-images.githubusercontent.com/20998959/152638663-e1bc7235-1d96-4299-b1ed-8f46a5a90db1.png)
+<img width="480" src="https://user-images.githubusercontent.com/20998959/152638663-e1bc7235-1d96-4299-b1ed-8f46a5a90db1.png">
 
 When the axle attached to the two rings is rotated such that the arm AB moves up (and the arm CD moves down) in the magnetic field produced
 by the permanent magnet. Let us say the coil ABCD is rotated clockwise in the arrangement shown in Fig. 13.19. By applying Fleming’s right-hand rule, the induced currents are set up in these arms along the directions AB and CD. Thus an induced current flows in the direction ABCD. If there are larger numbers of turns in the coil, the current generated in each turn adds up to give a large current through the coil. This means that the current in the external circuit flows from B2 to B1. After half a rotation, arm CD starts moving up and AB moving down. As a result, the directions of the induced currents in both the arms change, giving rise to the net induced current in the direction DCBA. The current in the external circuit now flows from B1 to B2. Thus after every half rotation the polarity of the current in the respective arms changes. Such a current, which changes direction after equal intervals of time, is called an alternating current (abbreviated as AC). This device is called an AC generator.
@@ -180,6 +180,8 @@ to a metallic body deep inside earth. It is used as a safety measure to ensure t
 
 In our homes, we receive supply of electric power through a main supply (also called mains), either supported through overhead electric poles or by underground cables. One of the wires in this supply, usually with red insulation cover, is called live wire (or positive). Another wire, with black insulation, is called neutral wire (or negative). In our country, the potential difference between the two is 220 V. At the meter-board in the house, these wires pass into an electricity meter through a main fuse. Through the main switch they are connected to the line wires in the house. These wires supply electricity to separate circuits within the house. Often, two separate circuits are used, one of 15 A current rating for appliances with higher power ratings such as geysers, air coolers, etc. The other circuit is of 5 A current rating for bulbs, fans, etc. The earth wire, which has insulation of green colour, is usually connected to a metal plate deep in the earth near the house. This is used as a safety measure, especially for those appliances that have a metallic body, for example, electric press, toaster, table fan, refrigerator, etc. The metallic body is connected to the earth wire, which
 provides a low-resistance conducting path for the current. Thus, it ensures that any leakage of current to the metallic body of the appliance keeps its potential to that of the earth, and the user may not get a severe electric shock.
+
+<img width="480" src="https://user-images.githubusercontent.com/20998959/152639386-7616c5b3-a428-4944-ad85-0c242e88df48.png">
 
 Figure 13.20 gives a schematic diagram of one of the common domestic circuits. 
 In each separate circuit, different appliances can be connected across the live and neutral wires. Each appliance has a separate switch to ‘ON’/‘OFF’ the flow of current through it. In order that each appliance has equal potential difference, they are connected parallel to each other. Electric fuse is an important component of all domestic circuits. We have already studied the principle and working of a fuse in the previous chapter (see Section 12.7). A fuse in a circuit prevents damage to the appliances and the circuit due to overloading. Overloading can occur when the live wire and the neutral wire come into direct contact. (This occurs when the insulation of wires is damaged or there is a fault in the appliance.) In such a situation, the current in the circuit abruptly increases. This is called short-circuiting. The use of an electric fuse prevents the electric circuit and the appliance from a possible damage by stopping the flow of unduly high electric current. The Joule heating that takes place in the fuse melts it to break the electric circuit.
