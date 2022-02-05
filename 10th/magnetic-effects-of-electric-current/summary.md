@@ -135,7 +135,7 @@ In 1831, Faraday made an important breakthrough by discovering how a moving magn
 ### Galvanometer
 A galvanometer is an instrument that can detect the presence of a current in a circuit. The pointer remains at zero (the centre of the scale) for zero current flowing through it. It can deflect either to the left or to the right of the zero mark depending on the direction of current.
 
-<img width="480" src="https://user-images.githubusercontent.com/20998959/152638802-17c8d8b8-b844-487e-9598-6abfd49588c5.png">
+<img width="240" src="https://user-images.githubusercontent.com/20998959/152638802-17c8d8b8-b844-487e-9598-6abfd49588c5.png">
 
 ### Michael Faraday (1791–1867)
 Michael Faraday was an experimental physicist. He had no formal education. He worked in a book-binding shop during his early years. He used to read books that came for binding. This way Faraday developed his interest in science. He got an opportunity to listen to some public lectures by Humphrey Davy of Royal Institute. He made careful notes of Davy’s lectures and sent them to Davy. Soon he was made an assistant in Davy’s laboratory at the Royal Institute. Faraday made several path-breaking discoveries that include electromagnetic induction and the laws of electrolysis. Several universities conferred on him the honorary degrees but he turned down such honours. Faraday loved his
