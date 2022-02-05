@@ -85,7 +85,22 @@
 * If the first finger points in the direction of magnetic field and the second finger in the direction of current, then the thumb will point in the direction of motion or
 the force acting on the conductor.
 
+## ELECTRIC MOTOR
+* An electric motor is a rotating device that converts electrical energy to mechanical energy. 
+* Electric motor is used as an important component in electric fans, refrigerators, mixers, washing machines, computers, MP3 players etc. 
 
+### How does an electric motor work?
+* An electric motor consists of a rectangular coil ABCD of insulated copper wire. The coil is placed between the two poles of a magnetic field such that the arm AB and CD are perpendicular to the direction of the magnetic field. The ends of the coil are connected to the two halves P and Q of a split ring. The inner sides of these halves are insulated and attached to an axle. The external conducting edges of P and Q touch two conducting stationary brushes X and Y, respectively. 
+
+<img width="480" src="https://user-images.githubusercontent.com/20998959/152633394-9d256e70-fe73-474f-8f24-91ac59b18740.png">
+
+
+* Current in the coil ABCD enters from the source battery through conducting brush X and flows back to the battery through brush Y. Notice that the current in arm AB of the coil flows from A to B. In arm CD it flows from C to D, that is, opposite to the direction of current through arm AB. On applying Fleming’s left hand rule for the direction of force on a current-carrying conductor in a magnetic field. We find that the force acting on arm AB pushes it downwards while the force acting on arm CD pushes it upwards. Thus the coil and the axle O, mounted free to turn about an axis, rotate anti-clockwise. At half rotation, Q makes contact with the brush X and P with brush Y. Therefore the current in the coil gets reversed and flows along the path DCBA. 
+
+* A device that reverses the direction of flow of current through a circuit is called a commutator. In electric motors, the split ring acts as a commutator. The reversal of current also reverses the direction of force acting on the two arms AB and CD. Thus the arm AB of the coil that was earlier pushed down is now pushed up and the arm CD previously pushed up is now pushed down. Therefore the coil and the axle rotate half a turn more in the same direction. The reversing of the current is repeated at each half rotation, giving rise to a continuous rotation of the coil and to the axle.
+
+### Commercial motors
+The commercial motors use (i) an electromagnet in place of permanent magnet; (ii) large number of turns of the conducting wire in the current carrying coil; and (iii) a soft iron core on which the coil is wound. The soft iron core, on which the coil is wound, plus the coils, is called an armature. This enhances the power of the motor
 
 n A metallic wire carrying an electric current has associated with it a magnetic field.
 The field lines about the wire consist of a series of concentric circles whose direction
@@ -112,3 +127,4 @@ to a metallic body deep inside earth. It is used as a safety measure to ensure t
 any leakage of current to a metallic body does not give any severe shock to a user.
 n Fuse is the most important safety device, used for protecting the circuits due to
 short-circuiting or overloading of the circuits.
+
