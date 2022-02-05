@@ -181,14 +181,3 @@ to a metallic body deep inside earth. It is used as a safety measure to ensure t
 ### Fuse
 Fuse is the most important safety device, used for protecting the circuits due to short-circuiting or overloading of the circuits.
 
-n A metallic wire carrying an electric current has associated with it a magnetic field.
-The field lines about the wire consist of a series of concentric circles whose direction
-is given by the right-hand rule.
-n The pattern of the magnetic field around a conductor due to an electric current
-flowing through it depends on the shape of the conductor. 
-n 
-n 
-An electric motor is a device that converts electric energy into mechanical energy.
-n 
-
-
