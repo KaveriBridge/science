@@ -79,6 +79,8 @@
 * Fleming's left-hand rule can be used to determine the direction of the force.
 
 ### Fleming left hand rule
+When a current-carrying conductor is placed in a magnetic field such that the direction of current is perpendicular to the magnetic field, it experiences a force
+
 <img width="360" src="https://user-images.githubusercontent.com/20998959/152539943-dcd39b9f-88ee-4319-8352-ec9b2e839215.png">
 
 * According to this rule, stretch the thumb, forefinger and middle finger of your left hand such that they are mutually perpendicular. 
@@ -102,6 +104,83 @@ the force acting on the conductor.
 ### Commercial motors
 The commercial motors use (i) an electromagnet in place of permanent magnet; (ii) large number of turns of the conducting wire in the current carrying coil; and (iii) a soft iron core on which the coil is wound. The soft iron core, on which the coil is wound, plus the coils, is called an armature. This enhances the power of the motor
 
+## 13.5 ELECTROMAGNETIC INDUCTION
+* The phenomenon of electromagnetic induction is the production of induced current in a coil placed in a region where the magnetic field changes with time. 
+* The magnetic field may change due to a relative motion between the coil and a magnet placed near to the coil. 
+* If the coil is placed near to a current-carrying conductor, the magnetic field may change either due to a change in the current through the conductor or due to the relative motion between the coil and conductor. 
+* The direction of the induced current is given by the Fleming’s right-hand rule.
+
+### Faraday's experiments
+In 1831, Faraday made an important breakthrough by discovering how a moving magnet can be used to generate electric current. 
+
+![image](https://user-images.githubusercontent.com/20998959/152638752-cf064ccb-b054-4b38-aa69-2d2cb63d7660.png)
+
+### Moving a bar magnet around a stationary coil
+* Take a coil of wire AB having a large number of turns.
+* Connect the ends of the coil to a galvanometer 
+* Take a strong bar magnet and move its north pole towards the end B of the coil. 
+* There is a momentary deflection in the needle of the galvanometer, say to the right. This indicates the presence of a current in the coil AB. 
+* The deflection becomes zero the moment the motion of the magnet stops. 
+* Now withdraw the north pole of the magnet away from the coil. 
+* Now the galvanometer is deflected toward the left, showing that the current is now set up in the direction opposite to the first.
+
+### Moving a coil around stationary magnet
+* Place the magnet stationary at a point near to the coil, keeping its north pole towards the end B of the coil. 
+* Galvanometer needle deflects toward the right when the coil is moved towards the north pole of the magnet. 
+* Similarly the needle moves toward left when the coil is moved away.
+* When the coil is kept stationary with respect to the magnet, the deflection of the galvanometer drops to zero.
+* You can also check that if you had moved south pole of the magnet towards the end B of the coil, the deflections in the galvanometer would just be opposite to the previous case. When the coil and the magnet are both stationary, there is no deflection in the galvanometer. 
+* It is, thus, clear from this activity that motion of a magnet with respect to the coil produces an induced potential difference, which sets up an induced electric current in the circuit
+
+### Galvanometer
+A galvanometer is an instrument that can detect the presence of a current in a circuit. The pointer remains at zero (the centre of the scale) for zero current flowing through it. It can deflect either to the left or to the right of the zero mark depending on the direction of current.
+
+![image](https://user-images.githubusercontent.com/20998959/152638802-17c8d8b8-b844-487e-9598-6abfd49588c5.png)
+
+### Michael Faraday (1791–1867)
+Michael Faraday was an experimental physicist. He had no formal education. He worked in a book-binding shop during his early years. He used to read books that came for binding. This way Faraday developed his interest in science. He got an opportunity to listen to some public lectures by Humphrey Davy of Royal Institute. He made careful notes of Davy’s lectures and sent them to Davy. Soon he was made an assistant in Davy’s laboratory at the Royal Institute. Faraday made several path-breaking discoveries that include electromagnetic induction and the laws of electrolysis. Several universities conferred on him the honorary degrees but he turned down such honours. Faraday loved his
+science work more than any honour
+
+### Fleming's right hand rule
+![image](https://user-images.githubusercontent.com/20998959/152639183-7001976d-c920-4eb8-a3d1-d645cd0dc4db.png)
+
+* Stretch the thumb, forefinger and middle finger of right hand so that they are perpendicular to each other
+* If the forefinger indicates the direction of the magnetic field and the thumb shows the direction of motion of conductor, then the middle finger will show the direction
+of induced current.
+
+## 13.6 ELECTRIC GENERATOR
+
+A generator converts mechanical energy into electrical energy. It works on the basis of electromagnetic induction.
+
+### Construction of a generator
+In an electric generator, mechanical energy is used to rotate a conductor in a magnetic field to produce electricity.
+* An electric generator consists of a rotating rectangular coil ABCD placed between the two poles of a permanent magnet. 
+* The two ends of this coil are connected to the two rings R1  and R2. 
+* The inner side of these rings are made insulated. 
+* The two conducting stationary brushes B1 and B2 are kept pressed separately on the rings R1 and R2, respectively. 
+* The two rings R1 and R2 are internally attached to an axle. 
+* The axle may be mechanically rotated from outside to rotate the coil inside the magnetic field.
+* Outer ends of the two brushes are connected to the galvanometer to show the flow of current in the given external circuit.
+
+![image](https://user-images.githubusercontent.com/20998959/152638663-e1bc7235-1d96-4299-b1ed-8f46a5a90db1.png)
+
+When the axle attached to the two rings is rotated such that the arm AB moves up (and the arm CD moves down) in the magnetic field produced
+by the permanent magnet. Let us say the coil ABCD is rotated clockwise in the arrangement shown in Fig. 13.19. By applying Fleming’s right-hand rule, the induced currents are set up in these arms along the directions AB and CD. Thus an induced current flows in the direction ABCD. If there are larger numbers of turns in the coil, the current generated in each turn adds up to give a large current through the coil. This means that the current in the external circuit flows from B2 to B1. After half a rotation, arm CD starts moving up and AB moving down. As a result, the directions of the induced currents in both the arms change, giving rise to the net induced current in the direction DCBA. The current in the external circuit now flows from B1 to B2. Thus after every half rotation the polarity of the current in the respective arms changes. Such a current, which changes direction after equal intervals of time, is called an alternating current (abbreviated as AC). This device is called an AC generator.
+To get a direct current (DC, which does not change its direction with time), a split-ring type commutator must be used. With this arrangement, one brush is at all times in contact with the arm moving up in the field, while the other is in contact with the arm moving down. We have seen the working of a split ring commutator in the case of an electric motor (see Fig. 13.15). Thus a unidirectional current is produced. The generator is thus called a DC generator.
+
+### AC vs DC
+The difference between the direct and alternating currents is that the direct current always flows in one direction, whereas the alternating current reverses its direction periodically. Most power stations constructed these days produce AC. In India, the AC changes direction after every 1/100 second, that is, the frequency of AC is 50 Hz. An
+important advantage of AC over DC is that electric power can be transmitted over long distances without much loss of energy.
+
+## 13.7 DOMESTIC ELECTRIC CIRCUITS
+
+In our houses we receive AC electric power of 220 V with a frequency of 50 Hz. One of the wires in this supply is with red insulation, called live wire. The other one is of
+black insulation, which is a neutral wire. The potential difference between the two is 220 V. The third is the earth wire that has green insulation and this is connected
+to a metallic body deep inside earth. It is used as a safety measure to ensure that any leakage of current to a metallic body does not give any severe shock to a user.
+
+### Fuse
+Fuse is the most important safety device, used for protecting the circuits due to short-circuiting or overloading of the circuits.
+
 n A metallic wire carrying an electric current has associated with it a magnetic field.
 The field lines about the wire consist of a series of concentric circles whose direction
 is given by the right-hand rule.
@@ -110,21 +189,6 @@ flowing through it depends on the shape of the conductor.
 n 
 n 
 An electric motor is a device that converts electric energy into mechanical energy.
-n The phenomenon of electromagnetic induction is the production of induced current
-in a coil placed in a region where the magnetic field changes with time. The magnetic
-field may change due to a relative motion between the coil and a magnet placed
-near to the coil. If the coil is placed near to a current-carrying conductor, the
-magnetic field may change either due to a change in the current through the
-conductor or due to the relative motion between the coil and conductor. The
-direction of the induced current is given by the Fleming’s right-hand rule.
-n A generator converts mechanical energy into electrical energy. It works on the basis
-of electromagnetic induction.
-n In our houses we receive AC electric power of 220 V with a frequency of 50 Hz. One
-of the wires in this supply is with red insulation, called live wire. The other one is of
-black insulation, which is a neutral wire. The potential difference between the two
-is 220 V. The third is the earth wire that has green insulation and this is connected
-to a metallic body deep inside earth. It is used as a safety measure to ensure that
-any leakage of current to a metallic body does not give any severe shock to a user.
-n Fuse is the most important safety device, used for protecting the circuits due to
-short-circuiting or overloading of the circuits.
+n 
+
 
