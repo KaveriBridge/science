@@ -30,12 +30,11 @@
 <img width="360" src="https://user-images.githubusercontent.com/20998959/152537326-71acd156-907f-4666-a90b-aabdcb769cc1.png">
 
 ### Properties of magnetic field lines
-* Magnetic field lines are closed curves. 
+* Field strength is proportional to the line density (how close the lines are).
+* Field lines cannot cross.
+* Field lines are closed curves.
 * They emerge from north pole and merge at the south pole. 
-* Inside the magnet, the direction of field lines is from its south pole to its north pole. 
-* No two field-lines are found to cross each other. If they did, it would mean that at the point of intersection, the compass needle would point towards two directions, which is not possible.
-* The strength of the field is proportional to the closeness of the lines. 
- 
+* Inside the magnet, their direction is from its south pole to its north pole. 
 
 ### Strength of the magnetic field
 * Magnetic field produced by a current-carrying wire at a given point **depends directly on the current** passing through it.
