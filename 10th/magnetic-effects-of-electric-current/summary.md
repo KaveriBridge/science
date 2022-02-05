@@ -50,22 +50,11 @@
 * Also known as "Maxwell’s corkscrew rule"
 
 ## Magnetic Field due to a Current through a Circular Loop
-* We have so far observed the pattern of the magnetic field lines produced around a current-carrying straight wire. 
-* Suppose this straight wire is bent in the form of a circular loop and a current is passed through it. 
-* How would the magnetic field lines look like? 
-* We know that the magnetic field produced by a current-carrying straight wire depends inversely on the distance from it. 
-* Similarly at every point of a current-carrying circular loop, the concentric circles representing the magnetic field around it would become larger and larger as we move
-away from the wire 
-* By the time we reach at the centre of the circular loop, the arcs of these big circles would appear as straight lines. 
-* Every point on the wire carrying current would give rise to the magnetic field appearing as straight lines at the center of the loop. 
-* By applying the right hand rule, it is easy to check that every section of the wire contributes to the magnetic field lines in the same direction within the loop
-* We know that the magnetic field produced by a current-carrying wire at a given point depends directly on the current passing through it.
-* Therefore, if there is a circular coil having n turns, the field produced is n times as large as that produced by a single turn. 
-* This is because the current in each circular turn has the same direction, and the field due to each turn then just adds up.
-
+* At the center of the circular loop, the magnetic field appears as straight lines. 
+* Every section of the wire contributes to the magnetic field lines in the same direction within the loop
+* If there is a circular coil having n turns, the field produced is n times as large as that produced by a single turn. 
 
 <img width="360" src="https://user-images.githubusercontent.com/20998959/152538817-6818e88d-3e18-4798-ac5f-b039096d557e.png">
-
 
 ## Magnetic Field due to a Current in a Solenoid
 * A coil of many circular turns of insulated copper wire wrapped closely in the shape of a cylinder is called a solenoid. 
@@ -78,21 +67,23 @@ away from the wire
 
 
 ## Electromagnet
-* An electromagnet consists of a core of soft iron wrapped around with a coil of insulated copper wire.
+* An electromagnet is a type of magnet in which the magnetic field is produced by an electric current. 
+* Usuallys consists core of soft iron wrapped around with a coil of insulated copper wire.
+* Widely used as components of other electrical devices, such as motors, generators, loudspeakers, MRI machines.
 
 <img width="360" src="https://user-images.githubusercontent.com/20998959/152539391-cc4caaef-6dc2-4963-83cc-c8b2c8e7f064.png">
 
 ## FORCE ON A CURRENT-CARRYING CONDUCTOR IN A MAGNETIC FIELD
 * A current-carrying conductor when placed in a magnetic field experiences a force.
-* If the direction of the field and that of the current are mutually perpendicular to each other, then the force acting on the conductor will be perpendicular to both and will be given by Fleming’s left-hand rule. 
-* This is the basis of an electric motor.
+* This happens because magnetic field is produced when current is passed through a conductor.
+* Fleming's left-hand rule can be used to determine the direction of the force.
 
 ### Fleming left hand rule
 <img width="360" src="https://user-images.githubusercontent.com/20998959/152539943-dcd39b9f-88ee-4319-8352-ec9b2e839215.png">
 
 * According to this rule, stretch the thumb, forefinger and middle finger of your left hand such that they are mutually perpendicular. 
 * If the first finger points in the direction of magnetic field and the second finger in the direction of current, then the thumb will point in the direction of motion or
-the force acting on the conductor
+the force acting on the conductor.
 
 
 
