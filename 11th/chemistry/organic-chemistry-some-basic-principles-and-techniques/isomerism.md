@@ -32,10 +32,16 @@
 
 # Stereoisomerism
 * Same molecular formula and sequence of bonded atoms (constitution)
-* Differ in the three-dimensional orientations of their atoms in space
+* Different spatial arrangement
 
 ## Geometrical isomerism
+* Now called as "Cis–trans isomerism"
+* Same formula but whose functional groups are in different orientations in three-dimensional space
+
 <img width="480" src="https://user-images.githubusercontent.com/20998959/153246392-02bcef99-53a6-46ba-98f0-bf402c8f9975.png">
 
 ## Optical isomerism
+* Mirror images of each other
+
+<img width="360" src="https://user-images.githubusercontent.com/20998959/153247420-60621ae3-b5ce-48a6-bd0b-e7038f871192.png">
 
