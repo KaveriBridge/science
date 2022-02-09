@@ -36,7 +36,7 @@
 
 ## Geometrical isomerism
 * Now called as "Cis–trans isomerism"
-* Same formula but whose functional groups are in different orientations in three-dimensional space
+* Functional groups are in different orientations in three-dimensional space
 
 <img width="480" src="https://user-images.githubusercontent.com/20998959/153246392-02bcef99-53a6-46ba-98f0-bf402c8f9975.png">
 
