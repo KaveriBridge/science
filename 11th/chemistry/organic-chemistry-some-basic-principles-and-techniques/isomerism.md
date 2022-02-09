@@ -15,7 +15,7 @@
 ## Position isomerism
 * Differ in the position of substituent atom or functional group on the carbon skeleton
 
-<img width="480" src="https://user-images.githubusercontent.com/20998959/153244596-2d9aab3c-0607-4290-8f08-e081ffca28d2.png">
+<img width="360" src="https://user-images.githubusercontent.com/20998959/153244596-2d9aab3c-0607-4290-8f08-e081ffca28d2.png">
 
 
 ## Functional group isomerism
