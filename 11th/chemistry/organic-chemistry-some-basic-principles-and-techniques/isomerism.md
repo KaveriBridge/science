@@ -4,10 +4,10 @@
 ![image](https://user-images.githubusercontent.com/20998959/153242243-fe42613c-8c3e-42d9-a917-443c71123e61.png)
 
 ## Structural Isomerism
-* Same molecular formula but different structures (manners in which atoms are linked)
+* Different structures (manners in which atoms are linked)
 
 ## Chain isomerism
-* Similar molecular formula but different carbon skeletons
+* Different carbon skeletons
 
 <img width="480" src="https://user-images.githubusercontent.com/20998959/153244705-9b5f9903-8944-4837-a5e4-15787a35a7e1.png">
 
@@ -19,7 +19,7 @@
 
 
 ## Functional group isomerism
-* Same molecular formula but different functional groups
+* Different functional groups
 
 <img width="360" src="https://user-images.githubusercontent.com/20998959/153244376-8b40aa9f-c8e0-46ed-9a00-319871599c62.png">
 
