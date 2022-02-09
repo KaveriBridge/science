@@ -42,5 +42,5 @@ formed during Lassaigne’s test. These ions would otherwise interfere with silv
 * The compound is heated with an oxidising agent (sodium peroxide). The phosphorus present in the compound is oxidised to phosphate. The solution is boiled with nitric
 acid and then treated with ammonium molybdate. A yellow colouration or precipitate indicates the presence of phosphorus.
 
-<img width="480" src="https://user-images.githubusercontent.com/20998959/153265687-6b7d044e-f615-43ac-9745-f4c613f96c05.png">
+<img width="720" src="https://user-images.githubusercontent.com/20998959/153265687-6b7d044e-f615-43ac-9745-f4c613f96c05.png">
 
