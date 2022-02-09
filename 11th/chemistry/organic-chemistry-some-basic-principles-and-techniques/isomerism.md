@@ -31,10 +31,11 @@
 
 
 # Stereoisomerism
-* Same constitution and sequence of covalent bonds 
-* Different in relative positions of their atoms or groups in space
+* Same molecular formula and sequence of bonded atoms (constitution)
+* Differ in the three-dimensional orientations of their atoms in space
 
 ## Geometrical isomerism
+<img width="240" src="https://user-images.githubusercontent.com/20998959/153246392-02bcef99-53a6-46ba-98f0-bf402c8f9975.png">
 
 ## Optical isomerism
 
