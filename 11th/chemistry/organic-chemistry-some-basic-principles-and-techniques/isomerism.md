@@ -21,7 +21,7 @@
 ## Functional group isomerism
 * Same molecular formula but different functional groups
 
-<img width="480" src="https://user-images.githubusercontent.com/20998959/153244376-8b40aa9f-c8e0-46ed-9a00-319871599c62.png">
+<img width="360" src="https://user-images.githubusercontent.com/20998959/153244376-8b40aa9f-c8e0-46ed-9a00-319871599c62.png">
 
 
 ## Metamerism
