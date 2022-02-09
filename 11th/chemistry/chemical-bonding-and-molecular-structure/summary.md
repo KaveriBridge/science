@@ -1,6 +1,18 @@
-# Kössel’s first insight into the mechanism of formation of electropositive and electronegative ions related the process to the attainment of noble gas configurations by the respective ions. 
-# Electrostatic attraction between ions is the cause for their stability. This gives the concept of electrovalency.
-# The first description of covalent bonding was provided by Lewis in terms of the sharing of electron pairs between atoms and he related the process to the attainment of noble gas
+# Objectives
+After studying this Unit, you will be able to
+* explain the octet rule and its limitations, draw Lewis structures of simple molecules;
+* explain the formation of different types of bonds;
+* describe the VSEPR theory and predict the geometry of simple molecules;
+* explain the valence bond approach for the formation of covalent bonds;
+* predict the directional properties of covalent bonds;
+* explain the different types of hybridisation involving s, p and d orbitals and draw shapes of simple covalent molecules;
+* describe the molecular orbital theory of homonuclear diatomic molecules;
+* explain the concept of hydrogen bond.
+
+# Details
+Kössel’s first insight into the mechanism of formation of electropositive and electronegative ions related the process to the attainment of noble gas configurations by the respective ions. 
+Electrostatic attraction between ions is the cause for their stability. This gives the concept of electrovalency.
+The first description of covalent bonding was provided by Lewis in terms of the sharing of electron pairs between atoms and he related the process to the attainment of noble gas
 configurations by reacting atoms as a result of sharing of electrons. The Lewis dot symbols show the number of valence electrons of the atoms of a given element and Lewis dot
 structures show pictorial representations of bonding in molecules. 
 
