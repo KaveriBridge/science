@@ -9,6 +9,10 @@ After studying this Unit, you will be able to
 * describe the molecular orbital theory of homonuclear diatomic molecules;
 * explain the concept of hydrogen bond.
 
+## Chemical bond.
+* The attractive force which holds various constituents (atoms, ions, etc.) together in different chemical species
+* 
+
 # Details
 Kössel’s first insight into the mechanism of formation of electropositive and electronegative ions related the process to the attainment of noble gas configurations by the respective ions. 
 Electrostatic attraction between ions is the cause for their stability. This gives the concept of electrovalency.
