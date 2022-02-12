@@ -68,21 +68,6 @@
 * They are found in cell membrane. 
 * Example: Lecithin
 
-## DNA and RNA
-
-<img width="480" src="https://user-images.githubusercontent.com/20998959/152136614-17c3b121-b613-48cc-b994-7294722df153.png">
-
-* Living organisms have a number of carbon compounds in which heterocyclic rings can be found. 
-### Nitrogen bases
-* Some of these are nitrogen bases – adenine, guanine, cytosine, uracil, and thymine. 
-### Nucleosides
-* When found attached to a sugar, they are called nucleosides. 
-* Adenosine, guanosine, thymidine, uridine and cytidine are nucleosides. 
-### Nucleotides
-* If a phosphate group is also found esterified to the sugar they are called nucleotides. 
-* Adenylic acid, thymidylic acid, guanylic acid, uridylic acid and cytidylic acid are nucleotides. 
-* Nucleic acids like DNA and RNA consist of nucleotides only. 
-* DNA and RNA function as genetic material.
 
 ## PRIMARY AND SECONDARY METABOLITES
 ### Metabolite
@@ -105,26 +90,6 @@
 * In a polysaccharide, the individual monosaccharides are linked by a glycosidic bond. 
 * This bond is formed by dehydration. 
 * This bond is formed between two carbon atoms of two adjacent monosaccharides.
-### Nucleic acid
-* In a nucleic acid a phosphate moiety links the 3’-carbon of one sugar of one nucleotide to the 5’-carbon of the sugar of the succeeding nucleotide. 
-* The bond between the phosphate and hydroxyl group of sugar is an ester bond. 
-* As there is one such ester bond on either side, it is called phosphodiester bond.
-* Nucleic acids exhibit a wide variety of secondary structures. 
-* For example, one of the secondary structures exhibited by DNA is the famous Watson-Crick model. 
-* This model says that DNA exists as a double helix. 
-* The two strands of polynucleotides are antiparallel i.e., run in the opposite direction. 
-* The backbone is formed by the sugarphosphate-sugar chain. 
-* The nitrogen bases are projected more or less perpendicular to this backbone but face inside. 
-* A and G of one strand compulsorily base pairs with T and C, respectively, on the other strand
-* There are two hydrogen bonds between A and T and three hydrogen bonds between G and C. 
-* Each strand appears like a helical staircase.
-* Each step of ascent is represented by a pair of bases. 
-* At each step of ascent, the strand turns 36 . 
-* One full turn of the helical strand would involve ten steps or ten base pairs. 
-* Attempt drawing a line diagram.
-* The pitch would be 34Å. 
-* The rise per base pair would be 3.4Å. 
-* This form of DNA with the above mentioned salient features is called BDNA. 
 
 ### Metabolism
 * The set of life-sustaining chemical reactions in organisms. 
