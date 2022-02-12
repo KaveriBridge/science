@@ -1,9 +1,19 @@
-## What is in Living organisms?
-* Living organisms have a higher percentage of carbon and hydrogen than non-living matter.
-<img width="320" src="https://user-images.githubusercontent.com/20998959/152127897-fd040d67-e1e7-4460-b366-d04543a18a72.png">
+## Biomolecule
+* Molecules present in organisms that are essential to one or more typically biological processes, such as cell division, morphogenesis, or development.
+* Includes large macromolecules such as proteins, carbohydrates, lipids, and nucleic acids
+* Includes small molecules such as primary metabolites, secondary metabolites and natural products.
 
-<img width="320" src="https://user-images.githubusercontent.com/20998959/152131043-00d3ce1d-2aec-44c6-aefa-4f52d3298314.png">
+### Large vs small molecules
 
+|Property| Micromolecules | Lipids | Other macromolecules|
+|-|-|-|-|
+|Molecular weights| 18-800 daltons | < 1000 dalton | > 1000 dalton | 
+|Examples ||Fatty acids, Glycerides, Glycerol| Proteins, carbohydrates, nucleic acids|
+|Solubility | Acid Soluble | Acid Insoluble | Acid Insoluble |
+||Monomer|Neither|Polymer|
+
+### Dehydration 
+* Dehydration is the process of creating a bond between two molecules to create a new, larger molecule by taking one hydrogen from one molecule, and an OH from the other, creating one molecule of free water.
 
 ## Amino acids
 * Amino acids are organic compounds that contain amino (-NH₂) and carboxylate (−COOH) functional groups, along with a side chain (R group) specific to each amino acid. 
@@ -35,10 +45,9 @@
 * They could be simple fatty acids. 
 
 ### Fatty acids
-* A fatty acid has a carboxyl group (-COOH) attached to an R group. 
-* The R group could be a methyl (–CH₃), or ethyl (–C₂H₅) or higher number of –CH₂ groups (1 carbon to 19 carbons). 
-* For example, palmitic acid has 16 carbons including carboxyl carbon. 
-* Arachidonic acid has 20 carbon atoms including the carboxyl carbon. 
+* R-COOH 
+* COOH → carboxyl group
+* R → methyl (–CH₃), or ethyl (–C₂H₅) or higher number of –CH₂ groups (1 carbon to 19 carbons). 
 * Fatty acids could be saturated (without double bond) or unsaturated (with one or more C=C double bonds). 
 
 <img width="240" src="https://user-images.githubusercontent.com/20998959/152135778-62efab48-5695-4f63-ab3c-4eef6f2a8b5a.png">
