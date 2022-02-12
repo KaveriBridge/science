@@ -55,3 +55,16 @@
 * Essential amino acids cannot be made in human body and hence has to be part of the diet.
 
 
+## Protein structure
+* Biologists describe the protein structure at four levels. 
+### Primary structure
+* Sequence of amino acids
+* First one - N-terminal amino acid.
+* Last one - C-terminal amino acid
+### Secondary structure
+* A protein thread is folded in the form of a helix (similar to a revolving staircase).
+### Tertiary structure
+* The long protein chain is also folded upon itself like a hollow woolen ball
+### Quaternary structure
+* The manner in which these individual folded subunits are arranged with respect to each other 
+* E.g. linear string of spheres, spheres arranged one upon each other in the form of a cube or plate etc.
