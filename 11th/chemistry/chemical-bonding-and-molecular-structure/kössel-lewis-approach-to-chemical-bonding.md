@@ -32,8 +32,32 @@
 * Covalent bond is formed as a result of sharing of electrons between the atoms.
 * Each combining atom contributes at least one electron to the shared pair.
 * The combining atoms attain the outershell noble gas configurations as a result of the sharing of electrons.
-* When two atoms share one electron pair they are said to be joined by a single covalent bond.
-* If two atoms share two pairs of electrons, the covalent bond between them is called a double bond.
-## 4.1.3 Lewis Representation of Simple Molecules (the Lewis Structures)
+## Lewis dot structures
+* Provides a picture of bonding in molecules and ions in terms of the shared pairs of electrons and the octet rule.
+### How to write?
+#### Count the total number of valence electrons
+* The total number of electrons required for writing the structures are obtained by adding the valence electrons of the combining atoms. 
+* For anions, each negative charge would mean addition of one electron. 
+* For cations, each positive charge would mean subtraction of one electron.
+#### Write the skeletal structure
+* In general the least electronegative atom occupies the central position in the molecule/ion. 
+#### Distribute the electrons as bonding shared pairs
+* Distribute the total number of electrons as bonding shared pairs between the atoms in proportion to the total bonds.
+#### Remaining electrons becomes lone pairs.
+
 ## 4.1.4 Formal Charge
-## 4.1.5 Limitations of the Octet Rule
+* The formal charge of an atom in a polyatomic molecule or ion may be defined as the difference between the number of valence electrons of that atom in an isolated or free
+state and the number of electrons assigned to that atom in the Lewis structure.
+
+<img width=480 src="https://user-images.githubusercontent.com/20998959/153712163-84603588-f90b-488c-ab01-5674700fb3b7.png">
+
+## Limitations of the Octet Rule
+#### The incomplete octet of the central atom 
+* In some compounds, the number of electrons surrounding the central atom is less than eight.
+* Example - BF3
+#### Odd-electron molecules 
+* In molecules with an odd number of electrons, the octet rule is not satisfied for all the atoms
+* Example - Nitric oxide, NO and nitrogen dioxide, NO2
+#### The expanded octet 
+* In some compounds, there are more than eight valence electrons.
+* Example - PF5
