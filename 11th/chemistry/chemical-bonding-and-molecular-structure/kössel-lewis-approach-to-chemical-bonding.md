@@ -43,7 +43,7 @@
 #### Some noble gases form compounds
 * It is clear that octet rule is based upon the chemical inertness of noble gases. 
 * However, some noble gases (for example xenon and krypton) also combine with oxygen and fluorine to form a number of compounds like XeF2, KrF2, XeOF2 etc.,
-### Does not account for the shape of molecules.
+#### Does not account for the shape of molecules.
 
 
 ## Lewis dot structures - How to write?
