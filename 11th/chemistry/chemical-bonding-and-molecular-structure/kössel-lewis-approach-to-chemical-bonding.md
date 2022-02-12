@@ -27,6 +27,17 @@
 ## Octet Rule
 * Atoms can combine to have an octet (8 electrons) in their outermost shells. 
 * Can be achieved by (1) By transfer of valence electrons from one atom to another (gaining or losing) (2) By sharing of valence electrons
+## Limitations of the Octet Rule
+#### The incomplete octet of the central atom 
+* In some compounds, the number of electrons surrounding the central atom is less than eight.
+* Example - BF3
+#### Odd-electron molecules 
+* In molecules with an odd number of electrons, the octet rule is not satisfied for all the atoms
+* Example - Nitric oxide, NO and nitrogen dioxide, NO2
+#### The expanded octet 
+* In some compounds, there are more than eight valence electrons.
+* Example - PF5
+
 ## Covalent Bond
 * Langmuir (1919) introduced the term covalent bond.
 * Covalent bond is formed as a result of sharing of electrons between the atoms.
@@ -50,14 +61,3 @@
 state and the number of electrons assigned to that atom in the Lewis structure.
 
 <img width=480 src="https://user-images.githubusercontent.com/20998959/153712163-84603588-f90b-488c-ab01-5674700fb3b7.png">
-
-## Limitations of the Octet Rule
-#### The incomplete octet of the central atom 
-* In some compounds, the number of electrons surrounding the central atom is less than eight.
-* Example - BF3
-#### Odd-electron molecules 
-* In molecules with an odd number of electrons, the octet rule is not satisfied for all the atoms
-* Example - Nitric oxide, NO and nitrogen dioxide, NO2
-#### The expanded octet 
-* In some compounds, there are more than eight valence electrons.
-* Example - PF5
