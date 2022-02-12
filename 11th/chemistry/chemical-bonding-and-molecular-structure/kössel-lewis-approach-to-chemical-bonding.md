@@ -24,10 +24,10 @@
 ## Electronic theory of chemical bonding
 * Atoms can combine to have an octet (8 electrons) in their outermost shells. 
 * Can be achieved by (1) By transfer of valence electrons from one atom to another (gaining or losing) (2) By sharing of valence electrons
-## 4.1.1 Octet Rule
+## Octet Rule
 * Atoms can combine to have an octet (8 electrons) in their outermost shells. 
 * Can be achieved by (1) By transfer of valence electrons from one atom to another (gaining or losing) (2) By sharing of valence electrons
-## 4.1.2 Covalent Bond
+## Covalent Bond
 * Langmuir (1919) introduced the term covalent bond.
 * Covalent bond is formed as a result of sharing of electrons between the atoms.
 * Each combining atom contributes at least one electron to the shared pair.
@@ -45,7 +45,7 @@
 * Distribute the total number of electrons as bonding shared pairs between the atoms in proportion to the total bonds.
 #### Remaining electrons becomes lone pairs.
 
-## 4.1.4 Formal Charge
+## Formal Charge
 * The formal charge of an atom in a polyatomic molecule or ion may be defined as the difference between the number of valence electrons of that atom in an isolated or free
 state and the number of electrons assigned to that atom in the Lewis structure.
 
