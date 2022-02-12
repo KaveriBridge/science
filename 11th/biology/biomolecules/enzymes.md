@@ -64,7 +64,7 @@ E (Enzyme) + S (Substrate) → ES (Enzyme-Substrate Complex) → EP (Enzyme-prod
 * Cannot exceed Vmax, as there will be no free enzyme molecules to bind with the additional substrate molecules.
 
 ## Inhibitors
-* Enzymes ares ensitive to the presence of specific chemicals that bind to them.
+* Enzymes are sensitive to the presence of specific chemicals that bind to them.
 * Inhibitor chemicals shuts off enzyme activity when they bind with them.
 * Inhibitors which resemble substrates are called competitive inhibitor. These are often used in the control of bacterial pathogens.
 
