@@ -17,3 +17,13 @@
 * Adenosine Triphosphate (ATP).
 * Living organisms store energy in the bonds of ATP 
 * They use this bond energy for work, when needed.
+
+### Living and Metabolism
+#### The living state is a non-equilibrium steady-state to be able to perform work.
+* All living organisms exist in a steady-state characterised by concentrations of various biomolecules.
+* The steady state not an equilibrium state.
+* Any chemical or physical process moves spontaneously to equilibrium. 
+* Systems at equilibrium cannot perform work.
+* Living process is a constant effort to prevent falling into equilibrium. 
+* This is achieved by energy input, provided by metabolism
+* Without metabolism there cannot be a living state.
