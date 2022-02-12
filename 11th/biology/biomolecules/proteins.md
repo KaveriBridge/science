@@ -5,6 +5,10 @@
 * Heteropolymer - Can be made of different amino acid (unlike homopolymer)
 * Functions - Transport nutrients across cell membrane, Fight infectious organisms, Hormones, Enzymes
 
+## Abundance
+* Collagen is the most abundant protein in animal world 
+* Ribulose bisphosphate Carboxylase-Oxygenase (RuBisCO) is the most abundant protein in the whole of the biosphere
+
 ## Proteins and their function
 |Protein |Functions|
 |-|-|
