@@ -19,6 +19,7 @@
 * Building block of proteins
 ### Components
 <img width="320" src="http://www.astrochem.org/sci_img/Amino_Acid_Structure.jpg">
+
 * −NH₂ (Amino group)
 * −COOH (Carboxyl group)
 * −R group, which is different for different amino acids
