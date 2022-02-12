@@ -43,9 +43,8 @@
 * Covalent bond is formed as a result of sharing of electrons between the atoms.
 * Each combining atom contributes at least one electron to the shared pair.
 * The combining atoms attain the outershell noble gas configurations as a result of the sharing of electrons.
-## Lewis dot structures
+## Lewis dot structures - How to write?
 * Provides a picture of bonding in molecules and ions in terms of the shared pairs of electrons and the octet rule.
-### How to write?
 #### Count the total number of valence electrons
 * The total number of electrons required for writing the structures are obtained by adding the valence electrons of the combining atoms. 
 * For anions, each negative charge would mean addition of one electron. 
