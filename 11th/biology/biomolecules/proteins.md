@@ -58,7 +58,7 @@
 ## Protein structure
 * Biologists describe the protein structure at four levels. 
 
-![image](https://user-images.githubusercontent.com/20998959/153707440-a1358c67-1c30-4a1b-9463-e6a1f850726f.png)
+<img width="480" src="https://user-images.githubusercontent.com/20998959/153707440-a1358c67-1c30-4a1b-9463-e6a1f850726f.png">
 
 ### Primary structure
 * Sequence of amino acids
