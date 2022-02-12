@@ -1,15 +1,15 @@
-## Proteins
+# Proteins
 * Polypeptides -  linear chains of amino acids linked by peptide bonds
 * Each protein is a polymer of amino acids.
 * Proteins can have 20 types of amino acids
 * Heteropolymer - Can be made of different amino acid (unlike homopolymer)
 * Functions - Transport nutrients across cell membrane, Fight infectious organisms, Hormones, Enzymes
 
-## Abundance
+### Abundance
 * Collagen is the most abundant protein in animal world 
 * Ribulose bisphosphate Carboxylase-Oxygenase (RuBisCO) is the most abundant protein in the whole of the biosphere
 
-## Proteins and their function
+### Proteins and their function
 |Protein |Functions|
 |-|-|
 |Collagen |Intercellular ground substance
@@ -19,7 +19,7 @@
 |Receptor| Sensory reception (smell, taste, hormone, etc.)
 |GLUT-4| Enables glucose transport into cells
 
-## Amino acids
+# Amino acids
 * Building block of proteins
 ### Components
 <img width="320" src="http://www.astrochem.org/sci_img/Amino_Acid_Structure.jpg">
@@ -55,7 +55,7 @@
 * Essential amino acids cannot be made in human body and hence has to be part of the diet.
 
 
-## Protein structure
+# Protein structure
 * Biologists describe the protein structure at four levels. 
 
 <img width="480" src="https://user-images.githubusercontent.com/20998959/153707440-a1358c67-1c30-4a1b-9463-e6a1f850726f.png">
