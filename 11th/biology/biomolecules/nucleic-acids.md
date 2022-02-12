@@ -1,15 +1,25 @@
-## DNA and RNA
 
+## Nucleic acid
+* Polynucleotide
+* Building block is a nucleotide
+
+## Nucleotide, Nucleoside and DNA/RNA
 <img width="480" src="https://user-images.githubusercontent.com/20998959/152136614-17c3b121-b613-48cc-b994-7294722df153.png">
 
-* Living organisms have a number of carbon compounds in which heterocyclic rings can be found. 
 ### Nitrogen bases
-* Some of these are nitrogen bases – adenine, guanine, cytosine, uracil, and thymine. 
+* Substituted purines - Adenine, Guanine
+* Substituted pyrimidines - Uracil, Cytosine, and Thymine
+
 ### Nucleosides
-* When found attached to a sugar, they are called nucleosides. 
+* Nitrogen base + Sugar
 * Adenosine, guanosine, thymidine, uridine and cytidine are nucleosides. 
+
 ### Nucleotides
-* If a phosphate group is also found esterified to the sugar they are called nucleotides. 
+* Nitrogen base + Sugar + Phosphate group
 * Adenylic acid, thymidylic acid, guanylic acid, uridylic acid and cytidylic acid are nucleotides. 
-* Nucleic acids like DNA and RNA consist of nucleotides only. 
-* DNA and RNA function as genetic material.
+* Building block of DNA and RNA, which function as genetic material.
+
+#### Nucleotide Components
+* Heterocyclic compound - Nitrogen bases - A, G, U, C or T
+* Monosaccharide - Ribose (in RNA) or 2’deoxyribose (in DNA)
+* Phosphoric acid or phosphate.
