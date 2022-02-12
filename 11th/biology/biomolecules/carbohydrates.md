@@ -10,7 +10,7 @@
 ### Starch
 * Glucose polymer - store house of energy in plant tissues. 
 * Starch forms helical secondary structures
-. Starch can hold I2  molecules in the helical portion. The starch-I2  is blue in colour. 
+. Starch can hold I₂  molecules in the helical portion. The starch-I₂  is blue in colour. 
 ### Glycogen
 * Glucose polymer in animals
 * In a polysaccharide chain (say glycogen), the right end is called the reducing end and the left end is called the non-reducing end. 
