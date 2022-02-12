@@ -1,4 +1,4 @@
-# 4.1 KÖSSEL-LEWIS APPROACH TO CHEMICAL BONDING
+# KÖSSEL-LEWIS APPROACH TO CHEMICAL BONDING
 * Based on the inertness of noble gases
 
 ### Lewis observations
