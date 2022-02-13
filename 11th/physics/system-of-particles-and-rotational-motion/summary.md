@@ -23,6 +23,12 @@
 * The circle lies in a plane perpendicular to the axis 
 * The circle has its centre on the axis
 
+# Centre of Mass
+## System of particles
+* A system of n particles, not necessarily lying in a plane, but distributed in space
+* The centre of mass of such a system is at (X, Y, Z )
+
+<img width=120 src="https://user-images.githubusercontent.com/20998959/153767157-6b878bcd-d022-4f07-a8bd-356c44e1dc52.png">
 
 
 
