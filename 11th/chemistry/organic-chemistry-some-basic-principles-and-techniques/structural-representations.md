@@ -4,7 +4,7 @@
 * Lonepairs of electrons on heteroatoms (e.g., oxygen, nitrogen, sulphur, halogens etc.) may or may not be shown. 
 
 
-![image](https://user-images.githubusercontent.com/20998959/153756322-e15bd96e-62a7-42e9-bb87-ccfe825acef9.png)
+<img width=480 src="https://user-images.githubusercontent.com/20998959/153756322-e15bd96e-62a7-42e9-bb87-ccfe825acef9.png">
 
 ### Condensed structural formulas
 * Omit some or all of the dashes representing covalent bonds 
@@ -26,8 +26,8 @@
 
 ### 2-bromo butane
 
-![image](https://user-images.githubusercontent.com/20998959/153756512-10712bb6-b703-4f23-8637-4848ad111c9f.png)
+<img width=480 src="https://user-images.githubusercontent.com/20998959/153756512-10712bb6-b703-4f23-8637-4848ad111c9f.png">
 
 ### Cylic compounds
 
-![image](https://user-images.githubusercontent.com/20998959/153756520-5a47e880-b9dc-4d8c-9023-19a5d35874b0.png)
+<img width=480 src="https://user-images.githubusercontent.com/20998959/153756520-5a47e880-b9dc-4d8c-9023-19a5d35874b0.png">
