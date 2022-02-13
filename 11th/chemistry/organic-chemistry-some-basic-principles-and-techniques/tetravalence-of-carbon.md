@@ -35,12 +35,12 @@
 * Intermediate in s character between sp and sp³
 * Length and enthalpy of the bonds it forms, are also intermediate between them.
 
-## Carbon bonds 
+## Carbon bonds characterstics
 
 |Characterstic | Single Bond | Double bond | Triple bond |
 |-|-|-|-|
 |Sigma bonds | 1 | 1 | 1
 |Pi bonds | 0 | 1 | 2
 |Hybridization | sp³ | sp² | sp 
-
+|Reactivity | Stable | Less stable | Least stable |
 
