@@ -53,3 +53,11 @@ The centre of mass of a system of particles moves as if
 
 <img width=640 src="https://user-images.githubusercontent.com/20998959/153769650-57480165-77f9-4de7-b476-8a05accaebf1.png">
 
+## EQUILIBRIUM OF A RIGID BODY
+### A rigid body is said to be in mechanical equilibrium, if both its linear momentum and angular momentum are not changing with time.
+### A rigid body is said to be in mechanical equilibrium, if it has neither linear acceleration nor angular acceleration
+### A rigid body is said to be in mechanical equilibrium, if the total force and total torque is zero.
+
+## Couple
+* A pair of forces of equal magnitude but acting in opposite directions with different lines of action is known as a couple or torque. 
+* A couple produces rotation without translation
