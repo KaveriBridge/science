@@ -51,4 +51,5 @@ The centre of mass of a system of particles moves as if
 * Magnitude of **c** = ab sinθ
 * Direction of **c** = perpendicular to the plane containing a and b. Given by right handed screw rule.
 
-<img width=240 src="https://user-images.githubusercontent.com/20998959/153768053-327054a9-218b-4929-a852-7dbf12e2f001.png">
+<img width=640 src="https://user-images.githubusercontent.com/20998959/153769650-57480165-77f9-4de7-b476-8a05accaebf1.png">
+
