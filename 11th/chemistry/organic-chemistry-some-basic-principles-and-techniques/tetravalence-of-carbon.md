@@ -39,8 +39,8 @@
 
 |Characterstic | Single Bond | Double bond | Triple bond |
 |-|-|-|-|
-|Sigma bonds | 1 | 1 | 1
-|Pi bonds | 0 | 1 | 2
-|Hybridization | sp³ | sp² | sp 
+|σ bond (number) | 1 | 1 | 1
+|σ bond hybrid | sp³ | sp² | sp 
+|π  bond | 0 | 1 | 2
 |Reactivity | Stable | Less stable | Least stable |
 
