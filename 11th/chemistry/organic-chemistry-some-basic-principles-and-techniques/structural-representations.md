@@ -1,6 +1,8 @@
 # 2D representations
 ## Complete structural formulas
-* A single dash represents a single bond, double dash is used for double bond and a triple dash represents triple bond. 
+* A single dash represents a single bond
+* A double dash represents a double bond 
+* A triple dash represents triple bond. 
 * Lonepairs of electrons on heteroatoms (e.g., oxygen, nitrogen, sulphur, halogens etc.) may or may not be shown. 
 
 
