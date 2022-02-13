@@ -45,3 +45,10 @@ M = total mass of all of the particles
 The centre of mass of a system of particles moves as if 
 * all the mass of the system was concentrated at the centre of mass and 
 * all the external forces were applied at that point
+
+## Vector product of two vectors
+* Let the vector product of two vectors **a** and **b** be **c**.
+* Magnitude of **c** = ab sinθ
+* Direction of **c** = perpendicular to the plane containing a and b. Given by right handed screw rule.
+
+<img width=240 src="https://user-images.githubusercontent.com/20998959/153768053-327054a9-218b-4929-a852-7dbf12e2f001.png">
