@@ -24,7 +24,7 @@
 * The circle has its centre on the axis
 
 # Centre of Mass
-## System of particles
+## Centre of Mass of System of particles
 * A system of n particles, not necessarily lying in a plane, but distributed in space
 ### Scalar notation
 The centre of mass of such a system is at (X, Y, Z )
@@ -36,6 +36,8 @@ M = total mass of all of the particles
 ### Vector notation
 <img width=400 src="https://user-images.githubusercontent.com/20998959/153767439-b8eb8aaf-4737-4d71-85ed-3d561ef1695a.png">
 
-
-
+## Centre of Mass of Homogenous bodies
+* A body with uniformly distributed mass.
+* Consider homogeneous bodies of regular shapes like rings, discs, spheres, rods etc.
+* The centres of mass of these homogenous bodies lie at their geometric centres.
 
