@@ -38,7 +38,7 @@
 ## Carbon bonds 
 
 |Characterstic | Single Bond | Double bond | Triple bond |
-|-|-|-|
+|-|-|-|-|
 |Sigma bonds | 1 | 1 | 1
 |Pi bonds | 0 | 1 | 2
 |Hybridization | sp³ | sp² | sp 
