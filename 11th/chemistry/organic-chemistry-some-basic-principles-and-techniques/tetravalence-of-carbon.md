@@ -47,9 +47,14 @@
 ## Problems
 ### Problem 12.1 How many σ and π bonds are present in each of the following molecules?
 #### (a) HC≡CCH=CHCH₃ 
-(a) σC – C: 4; σC–H : 6; πC=C :1; π C≡C:2
+* σC – C: 4
+* σC–H : 6
+* πC=C :1 
+* π C≡C:2
 #### (b) CH₂=C=CHCH₃
-(b) σC – C: 3; σC–H: 6; πC=C: 2.
+* σC – C: 3
+* σC–H: 6
+* πC=C: 2
 
 ### Problem 12.2 What is the type of hybridisation of each carbon in the following compounds?
 #### (a) CH₃Cl
