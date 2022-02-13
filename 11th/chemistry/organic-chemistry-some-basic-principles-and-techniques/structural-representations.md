@@ -30,6 +30,9 @@
 
 <img width=480 src="https://user-images.githubusercontent.com/20998959/153756512-10712bb6-b703-4f23-8637-4848ad111c9f.png">
 
-### Cylic compounds
+### Cyclic compounds
 
 <img width=480 src="https://user-images.githubusercontent.com/20998959/153756520-5a47e880-b9dc-4d8c-9023-19a5d35874b0.png">
+
+# 3-D structure
+<img width=480 src="https://user-images.githubusercontent.com/20998959/153758011-9ef732de-5ec1-42fd-a000-06c24f2fca1b.png">
