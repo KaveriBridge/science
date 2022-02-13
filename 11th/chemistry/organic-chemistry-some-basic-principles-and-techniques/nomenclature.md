@@ -1,4 +1,5 @@
-## IUPAC system of nomenclature
+# Nomenclature 
+### IUPAC system of nomenclature
 * IUPAC stands for International Union of Pure and Applied Chemistry
 * Systematic method of naming organic compounds
 * You can deduce the structure from the name.
