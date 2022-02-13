@@ -41,3 +41,7 @@ M = total mass of all of the particles
 * Consider homogeneous bodies of regular shapes like rings, discs, spheres, rods etc.
 * The centres of mass of these homogenous bodies lie at their geometric centres.
 
+## Motion of centre of mass
+The centre of mass of a system of particles moves as if 
+* all the mass of the system was concentrated at the centre of mass and 
+* all the external forces were applied at that point
