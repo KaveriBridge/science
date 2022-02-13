@@ -26,9 +26,15 @@
 # Centre of Mass
 ## System of particles
 * A system of n particles, not necessarily lying in a plane, but distributed in space
-* The centre of mass of such a system is at (X, Y, Z )
+### Scalar notation
+The centre of mass of such a system is at (X, Y, Z )
 
 <img width=120 src="https://user-images.githubusercontent.com/20998959/153767157-6b878bcd-d022-4f07-a8bd-356c44e1dc52.png">
+
+M = total mass of all of the particles
+
+### Vector notation
+<img width=400 src="https://user-images.githubusercontent.com/20998959/153767439-b8eb8aaf-4737-4d71-85ed-3d561ef1695a.png">
 
 
 
