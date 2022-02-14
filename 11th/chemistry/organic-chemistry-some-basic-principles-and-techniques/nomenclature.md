@@ -10,6 +10,7 @@
 * Common names are useful particularly when the alternative systematic names are lengthy and complicated.
 
 ## Terminologies
+### Parent chain, branch and functional group
 <img width="480" src="https://user-images.githubusercontent.com/20998959/153826095-7989ed11-a7c1-45bd-b92a-399f2eef2999.png">
 
 ### Aklyl group
