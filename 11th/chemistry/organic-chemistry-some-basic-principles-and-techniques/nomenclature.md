@@ -56,16 +56,25 @@
 
 #### Step 5: Two substituents in equivalent positions
 * Give the lower number to the one coming first in the alphabetical listing
+* Correct name is 3-ethyl-6-methyloctane and not 6-ethyl-3-methyloctane
+
+<img width="480" src="https://user-images.githubusercontent.com/20998959/153828162-2580c46a-1c79-40ed-9db3-880fc90db233.png">
+
 #### Step 6: Naming branched alkyl groups
 * Name the branched alkyl groups in the same way as the parent chain.
 * The carbon atom of the branch that attaches to the root alkane is numbered 1.
 * The name of such branched chain alkyl group is placed in parenthesis while naming the compound
+
+<img width="480" src="https://user-images.githubusercontent.com/20998959/153828623-3b9c9639-a085-4197-80b3-c596e092c5e0.png">
+
+
 #### Multiple chains
 * If there happens to be two chains of equal size, then that chain is to be selected which contains more number of side chains.
 * After selection of the chain, numbering is to be done from the end closer to the substituent.
 
 ## Cyclic Compounds
 * Add **cyclo** to the corresponding straight chain alkane name.
+<img width="480" src="https://user-images.githubusercontent.com/20998959/153828714-80cf63c1-411e-4100-8aeb-f776eb0f6f33.png">
 
 # 12.5.3 Nomenclature of Organic Compounds having Functional Group(s)
 # 12.5.4 Nomenclature of Substituted Benzene Compounds
