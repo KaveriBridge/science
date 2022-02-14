@@ -25,13 +25,13 @@
 
 #### Branched Alkyl group 
 ##### Branched Propyl
-<img width="120" src="https://user-images.githubusercontent.com/20998959/153827353-ee4dec8d-254a-4ad4-b335-e670aa0f8e1b.png">
+<img width="180" src="https://user-images.githubusercontent.com/20998959/153827353-ee4dec8d-254a-4ad4-b335-e670aa0f8e1b.png">
 
 ##### Branched Butyl
-<img width="360" src="https://user-images.githubusercontent.com/20998959/153827456-47f0f1b3-f5f8-41c2-9157-63e66a757311.png">
+<img width="640" src="https://user-images.githubusercontent.com/20998959/153827456-47f0f1b3-f5f8-41c2-9157-63e66a757311.png">
 
 ##### Branched Pentyl group
-<img width="120" src="https://user-images.githubusercontent.com/20998959/153827529-fde0a0b6-88a5-484e-a166-83a5ad8f4125.png">
+<img width="180" src="https://user-images.githubusercontent.com/20998959/153827529-fde0a0b6-88a5-484e-a166-83a5ad8f4125.png">
 
 
 # IUPAC Nomenclature of Alkanes
