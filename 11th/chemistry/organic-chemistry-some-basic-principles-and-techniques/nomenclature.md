@@ -9,10 +9,16 @@
 * Example - Citric acid as it is found in citric fruits
 * Common names are useful particularly when the alternative systematic names are lengthy and complicated.
 
+## Terminologies
+<img width="480" src="https://user-images.githubusercontent.com/20998959/153826095-7989ed11-a7c1-45bd-b92a-399f2eef2999.png">
+
 # IUPAC Nomenclature of Alkanes
 ## Straight chain hydrocarbons: 
 * Suffix - ane
 * Prefix - indicating the number of carbon atoms present in the chain.
+
+<img width="480" src="https://user-images.githubusercontent.com/20998959/153826257-8e243414-4c7a-4d5f-bdf6-397c5b5909c9.png">
+
 
 ## Branched chain hydrocarbons
 #### Step 1: Identify the longest carbon chain. This is also called the parent chain.
