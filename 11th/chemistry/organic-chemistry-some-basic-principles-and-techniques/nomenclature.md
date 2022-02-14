@@ -12,6 +12,12 @@
 ## Terminologies
 <img width="480" src="https://user-images.githubusercontent.com/20998959/153826095-7989ed11-a7c1-45bd-b92a-399f2eef2999.png">
 
+### Aklyl group
+* Replace "ane" of an alkane with "yl"
+
+<img width="480" src="https://user-images.githubusercontent.com/20998959/153826439-2d031d8c-1616-408b-b53c-e9b9ece18f1a.png">
+
+
 # IUPAC Nomenclature of Alkanes
 ## Straight chain hydrocarbons: 
 * Suffix - ane
