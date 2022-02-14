@@ -13,7 +13,12 @@
 ### Parent chain, branch and functional group
 <img width="480" src="https://user-images.githubusercontent.com/20998959/153826095-7989ed11-a7c1-45bd-b92a-399f2eef2999.png">
 
+* Parent chain - longest carbon chain
+* In a branched chain compound, small chains ofcarbon atoms are attached at one or more carbon atoms of the parent chain. 
+
+
 ### Aklyl group
+* The small carbon chains (branches) are called alkyl groups.
 * Replace "ane" of an alkane with "yl"
 
 <img width="480" src="https://user-images.githubusercontent.com/20998959/153826439-2d031d8c-1616-408b-b53c-e9b9ece18f1a.png">
