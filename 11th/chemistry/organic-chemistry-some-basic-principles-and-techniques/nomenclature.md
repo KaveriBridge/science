@@ -19,21 +19,44 @@
 * Parent chain - longest carbon chain
 * In a branched chain compound, small chains ofcarbon atoms are attached at one or more carbon atoms of the parent chain. 
 
+### Principal functional group
+* Used to define the class the compound belongs to e.g. an alcohol, ROH
+* Gives its suffix to the name of the molecule
+* Highest priority functional group in a molecule with multiple functional groups
 
-### Aklyl group
+### Longest chain and substituents
+* The longest continuous chain containing the principal functional group.
+* Other groups attached to this chain are called substituents.
+
+### First point of difference rule
+* List out the locant set for each scenario with the locants in numerical order
+* Compare the lists looking for the first time the numbers are different
+* Pick the scenario with the lower number at the first difference
+
+### Alphabetisation rule
+* In constructing the name, substituents are cited in alphabetical order,
+* Used only if First point of difference rule does not work.
+* For simple substituents
+ * multiplier prefixes (di-, tri- tetra- etc.) are ignored
+ * prefixes such as neo-, sec-, tert- (or their abbreviations) are ignored
+ * the prefixes iso- and cyclo- are included (note they are are used without hyphens and are part of the substituent name)
+* For complex substituents, any terms used in the brackets are included. 
+ * Example: (1,1-dimethylethyl)- is alphabetised as "d
+
+## Alkyl group
 * The small carbon chains (branches) are called alkyl groups.
 * Replace "ane" of an alkane with "yl"
 
 <img width="480" src="https://user-images.githubusercontent.com/20998959/153826439-2d031d8c-1616-408b-b53c-e9b9ece18f1a.png">
 
-#### Branched Alkyl group 
-##### Branched Propyl
+### Branched Alkyl group 
+#### Branched Propyl
 <img width="180" src="https://user-images.githubusercontent.com/20998959/153827353-ee4dec8d-254a-4ad4-b335-e670aa0f8e1b.png">
 
-##### Branched Butyl
+#### Branched Butyl
 <img width="640" src="https://user-images.githubusercontent.com/20998959/153827456-47f0f1b3-f5f8-41c2-9157-63e66a757311.png">
 
-##### Branched Pentyl group
+#### Branched Pentyl group
 <img width="180" src="https://user-images.githubusercontent.com/20998959/153827529-fde0a0b6-88a5-484e-a166-83a5ad8f4125.png">
 
 
@@ -117,9 +140,9 @@
 ![image](https://user-images.githubusercontent.com/20998959/154028218-bbbb39cf-d959-468d-92b2-9610561bb713.png)
 ### Benzene with two substituents
 * Number the carbon atoms such that substituents are located at the lowest numbers possible.
-
 ![image](https://user-images.githubusercontent.com/20998959/154028240-f5d86692-e9e2-4217-8803-a37a0c3be9e3.png)
 
-
+### Benzene as a substituent
+* Name is phenyl
 
 
