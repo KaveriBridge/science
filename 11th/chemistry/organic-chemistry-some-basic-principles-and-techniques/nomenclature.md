@@ -9,6 +9,22 @@
 * Example - Citric acid as it is found in citric fruits
 * Common names are useful particularly when the alternative systematic names are lengthy and complicated.
 
+## Methodology - Basic rules
+### Identify the principal functional group and substituents
+* The principal functional group is used to define the class the compound belongs to e.g. an alcohol, ROH
+* The principal functional group is the highest priority functional group. Functional group priority is discussed later.
+* The principal functional group is usually given the lowest locant possible.
+### Identify the longest continuous chain containing the principal functional group.
+* The longest continuous chain containing the principal functional group defines the root name. 
+* Other groups attached to this chain are called substituents.
+* If there are two chains of equal length, then the choice that gives the simplest substituents is chosen.
+### Assign locants (i.e. numbering) to the principal functional group and substituents.
+* The numbers that define the positions of the principal functional group and substituents are called locants.
+* Compounds are numbered from one end of the longest continuous chain.
+* The locants are assigned such that the principal functional group gets the lowest possible locant.
+* If this results in a "tie" then the first point of difference rule is applied so that the first time a difference in numbering occurs, then the method that gives the lower number at this first difference is used.
+* In the event that there is no first point of difference then alphabetisation is used.
+
 ## Terminologies
 ### Locant
 * That part of the name of a compound (often a letter or number) that describes the position of an atom, residue or functional group.
@@ -36,12 +52,8 @@
 ### Alphabetisation rule
 * In constructing the name, substituents are cited in alphabetical order,
 * Used only if First point of difference rule does not work.
-* For simple substituents
- * multiplier prefixes (di-, tri- tetra- etc.) are ignored
- * prefixes such as neo-, sec-, tert- (or their abbreviations) are ignored
- * the prefixes iso- and cyclo- are included (note they are are used without hyphens and are part of the substituent name)
-* For complex substituents, any terms used in the brackets are included. 
- * Example: (1,1-dimethylethyl)- is alphabetised as "d
+* For simple substituents (1) multiplier prefixes (di-, tri- tetra- etc.) are ignored (2) prefixes such as neo-, sec-, tert- (or their abbreviations) are ignored (3) the prefixes iso- and cyclo- are included (note they are are used without hyphens and are part of the substituent name)
+* For complex substituents, any terms used in the brackets are included. Example: (1,1-dimethylethyl)- is alphabetised as "d
 
 ## Alkyl group
 * The small carbon chains (branches) are called alkyl groups.
