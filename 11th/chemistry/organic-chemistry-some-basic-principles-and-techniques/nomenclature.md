@@ -134,14 +134,17 @@
 * Ethane–1,2–diol
 #### Examples -  CH2=CH-CH=CH2
 * Buta–1,3–diene
+
 # Nomenclature of Substituted Benzene Compounds
 ### Benzene with single substituent
 * Place substituent as prefix to the word benzene
 * Common names (written in bracket below) of many substituted benzene compounds are also universally used.
 
 <img width="480" src="https://user-images.githubusercontent.com/20998959/154028218-bbbb39cf-d959-468d-92b2-9610561bb713.png">
+
 ### Benzene with two substituents
 * Number the carbon atoms such that substituents are located at the lowest numbers possible.
+
 <img width="480" src="https://user-images.githubusercontent.com/20998959/154028240-f5d86692-e9e2-4217-8803-a37a0c3be9e3.png">
 
 ### Benzene as a substituent
