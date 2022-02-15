@@ -10,6 +10,9 @@
 * Common names are useful particularly when the alternative systematic names are lengthy and complicated.
 
 ## Terminologies
+### Locant
+* That part of the name of a compound (often a letter or number) that describes the position of an atom, residue or functional group.
+* The 2 in hexan-2-one is a locant.
 ### Parent chain, branch and functional group
 <img width="480" src="https://user-images.githubusercontent.com/20998959/153826095-7989ed11-a7c1-45bd-b92a-399f2eef2999.png">
 
@@ -76,5 +79,47 @@
 * Add **cyclo** to the corresponding straight chain alkane name.
 <img width="480" src="https://user-images.githubusercontent.com/20998959/153828714-80cf63c1-411e-4100-8aeb-f776eb0f6f33.png">
 
-# 12.5.3 Nomenclature of Organic Compounds having Functional Group(s)
-# 12.5.4 Nomenclature of Substituted Benzene Compounds
+# Nomenclature of Organic Compounds having Functional Group(s)
+<img width="480" src="https://user-images.githubusercontent.com/20998959/154024995-f7bfbf28-793c-484f-b264-391003da9334.png">
+
+### Identify the functional group
+* This determines the choice of appropriate suffix
+### Numbering of the group
+* Choose numbering such that functional group is attached at the carbon atom possessing lowest possible number in the chain.
+### Compounds with multiple functional groups
+* Polyfunctional compounds
+* Choose one functional group as the principal functional group.
+* Order of priority: -COOH, –SO₃H, -COOR (R=alkyl group), COCl, -CONH₂, -CN,-HC=O, >C=O, -OH, -NH₂, >C=C<, -C≡C-
+* Remaining functional groups are named as substituents using the appropriate prefixes.
+* Always prefix substituents : –R, C6H5-, halogens (F, Cl, Br, I), –NO₂, alkoxy (–OR) 
+
+#### Examples - Compound containing both an alcohol and a keto group
+*  Named as hydroxyalkanone since the keto group is preferred to the hydroxyl group.
+
+#### Examples - HOCH₂(CH₂)₃CH2COCH₃
+* 7-hydroxyheptan-2-one 
+* Not 2-oxoheptan-7-ol
+#### Examples - BrCH₂CH=CH₂
+* 3-bromoprop-1-ene and not 1-bromoprop-2-ene.
+### Compounds with more than one functional group of the same type.
+* Adding di, tri, etc. before the class suffix.
+* Full name of the parent alkane is written before the class suffix
+* Ending – ne of the parent alkane is dropped in the case of compounds having more than one double or triple bond
+#### Examples -  CH2(OH)CH2(OH) 
+* Ethane–1,2–diol
+#### Examples -  CH2=CH-CH=CH2
+* Buta–1,3–diene
+# Nomenclature of Substituted Benzene Compounds
+### Benzene with single substituent
+* Place substituent as prefix to the word benzene
+* Common names (written in bracket below) of many substituted benzene compounds are also universally used.
+
+![image](https://user-images.githubusercontent.com/20998959/154028218-bbbb39cf-d959-468d-92b2-9610561bb713.png)
+### Benzene with two substituents
+* Number the carbon atoms such that substituents are located at the lowest numbers possible.
+
+![image](https://user-images.githubusercontent.com/20998959/154028240-f5d86692-e9e2-4217-8803-a37a0c3be9e3.png)
+
+
+
+
