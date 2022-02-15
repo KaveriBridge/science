@@ -219,13 +219,16 @@ Why?
 
 ## QUESTIONS
 ### 1. Define the principal focus of a concave mirror.
-* 
+* It is the point on the principal axis of the mirror where reflection of the rays parallel to the principal axis all meet.
 
 ### 2. The radius of curvature of a spherical mirror is 20 cm. What is its focal length?
-* 
+* Focal length = 1/2 (Radius of the curvature)
+* Therefore, the focal length of a spherical mirror with 20cm radius of curvature is 10cm.
 
 ### 3. Name a mirror that can give an erect and enlarged image of an object.
-* 
+* Concave mirror, when the object is between the radius of curvature and the pole of the mirror.
 
 ### 4. Why do we prefer a convex mirror as a rear-view mirror in vehicles?
-* 
+* They always give an erect, though diminished, image. 
+* They have a wider field of view as they are curved outwards. 
+* Enables the driver to view much larger area than would be possible with a plane mirror.
