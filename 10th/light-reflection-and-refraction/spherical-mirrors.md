@@ -217,3 +217,15 @@ Why?
 * Negative for real images
 * Positive for virtual images
 
+## QUESTIONS
+### 1. Define the principal focus of a concave mirror.
+* 
+
+### 2. The radius of curvature of a spherical mirror is 20 cm. What is its focal length?
+* 
+
+### 3. Name a mirror that can give an erect and enlarged image of an object.
+* 
+
+### 4. Why do we prefer a convex mirror as a rear-view mirror in vehicles?
+* 
