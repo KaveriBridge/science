@@ -1,3 +1,10 @@
+## Organic reaction
+* Organic molecule (substrate) + Attacking Reagent → Intermediate(s) → Product(s)
+
+### Reaction mechanism
+* A reaction mechanism is the sequence of elementary steps by which a chemical reaction occurs.
+* A sequential account of each step, describing details of electron movement, energetics during bond cleavage and bond formation, and the rates of transformation of reactants into products (kinetics) is referred to as reaction mechanism.
+
 ## 12.7.1 Fission of a Covalent Bond
 A covalent bond can get cleaved either by : (i) heterolytic cleavage, or by (ii) homolytic cleavage.
 ### Heterolytic cleavage
