@@ -10,39 +10,29 @@
 * Common names are useful particularly when the alternative systematic names are lengthy and complicated.
 
 ## Methodology - Basic rules
-### Identify the principal functional group and substituents
-* The principal functional group is used to define the class the compound belongs to e.g. an alcohol, ROH
-* The principal functional group is the highest priority functional group. Functional group priority is discussed later.
-* The principal functional group is usually given the lowest locant possible.
+
+<img width="480" src="https://user-images.githubusercontent.com/20998959/153826095-7989ed11-a7c1-45bd-b92a-399f2eef2999.png">
+
+### Identify the principal functional group
+* Defines the class the compound belongs to e.g. an alcohol, ROH
+* Highest priority functional group if there is more than one functional group.
+* Order of priority: -COOH, –SO₃H, -COOR (R=alkyl group), COCl, -CONH₂, -CN,-HC=O, >C=O, -OH, -NH₂, >C=C<, -C≡C-
+
+
+
+### Identify substituents
+* Other groups attached to the longest chain with primary functional group are called substituents.
+
 ### Identify the longest continuous chain containing the principal functional group.
 * The longest continuous chain containing the principal functional group defines the root name. 
-* Other groups attached to this chain are called substituents.
 * If there are two chains of equal length, then the choice that gives the simplest substituents is chosen.
-### Assign locants (i.e. numbering) to the principal functional group and substituents.
+
+### Assign numbers to the principal functional group and substituents.
 * The numbers that define the positions of the principal functional group and substituents are called locants.
 * Compounds are numbered from one end of the longest continuous chain.
 * The locants are assigned such that the principal functional group gets the lowest possible locant.
 * If this results in a "tie" then the first point of difference rule is applied so that the first time a difference in numbering occurs, then the method that gives the lower number at this first difference is used.
 * In the event that there is no first point of difference then alphabetisation is used.
-
-## Terminologies
-### Locant
-* That part of the name of a compound (often a letter or number) that describes the position of an atom, residue or functional group.
-* The 2 in hexan-2-one is a locant.
-### Parent chain, branch and functional group
-<img width="480" src="https://user-images.githubusercontent.com/20998959/153826095-7989ed11-a7c1-45bd-b92a-399f2eef2999.png">
-
-* Parent chain - longest carbon chain
-* In a branched chain compound, small chains ofcarbon atoms are attached at one or more carbon atoms of the parent chain. 
-
-### Principal functional group
-* Used to define the class the compound belongs to e.g. an alcohol, ROH
-* Gives its suffix to the name of the molecule
-* Highest priority functional group in a molecule with multiple functional groups
-
-### Longest chain and substituents
-* The longest continuous chain containing the principal functional group.
-* Other groups attached to this chain are called substituents.
 
 ### First point of difference rule
 * List out the locant set for each scenario with the locants in numerical order
@@ -149,10 +139,10 @@
 * Place substituent as prefix to the word benzene
 * Common names (written in bracket below) of many substituted benzene compounds are also universally used.
 
-![image](https://user-images.githubusercontent.com/20998959/154028218-bbbb39cf-d959-468d-92b2-9610561bb713.png)
+<img width="480" src="https://user-images.githubusercontent.com/20998959/154028218-bbbb39cf-d959-468d-92b2-9610561bb713.png">
 ### Benzene with two substituents
 * Number the carbon atoms such that substituents are located at the lowest numbers possible.
-![image](https://user-images.githubusercontent.com/20998959/154028240-f5d86692-e9e2-4217-8803-a37a0c3be9e3.png)
+<img width="480" src="https://user-images.githubusercontent.com/20998959/154028240-f5d86692-e9e2-4217-8803-a37a0c3be9e3.png">
 
 ### Benzene as a substituent
 * Name is phenyl
