@@ -105,7 +105,7 @@
 <img width="480" src="https://user-images.githubusercontent.com/20998959/153828714-80cf63c1-411e-4100-8aeb-f776eb0f6f33.png">
 
 # Nomenclature of Organic Compounds having Functional Group(s)
-<img width="480" src="https://user-images.githubusercontent.com/20998959/154024995-f7bfbf28-793c-484f-b264-391003da9334.png">
+<img width="640" src="https://user-images.githubusercontent.com/20998959/154024995-f7bfbf28-793c-484f-b264-391003da9334.png">
 
 ### Identify the functional group
 * This determines the choice of appropriate suffix
