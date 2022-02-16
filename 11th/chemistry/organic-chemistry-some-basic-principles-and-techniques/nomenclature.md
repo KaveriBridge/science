@@ -18,10 +18,8 @@
 * Highest priority functional group if there is more than one functional group.
 * Order of priority: -COOH, –SO₃H, -COOR (R=alkyl group), COCl, -CONH₂, -CN,-HC=O, >C=O, -OH, -NH₂, >C=C<, -C≡C-
 
-
-
 ### Identify substituents
-* Other groups attached to the longest chain with primary functional group are called substituents.
+* A substituent is one or a group of atoms that replaces (one or more) hydrogen atoms on the parent chain of a hydrocarbon
 
 ### Identify the longest continuous chain containing the principal functional group.
 * The longest continuous chain containing the principal functional group defines the root name. 
