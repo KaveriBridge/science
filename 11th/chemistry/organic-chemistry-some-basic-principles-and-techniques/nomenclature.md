@@ -98,6 +98,9 @@
 * If there happens to be two chains of equal size, then that chain is to be selected which contains more number of side chains.
 * After selection of the chain, numbering is to be done from the end closer to the substituent.
 
+<img width="480" src="https://user-images.githubusercontent.com/20998959/154262583-face655d-f138-4f23-9560-65806b9e3fe5.png">
+
+
 ## Cyclic Compounds
 * Add **cyclo** to the corresponding straight chain alkane name.
 <img width="480" src="https://user-images.githubusercontent.com/20998959/153828714-80cf63c1-411e-4100-8aeb-f776eb0f6f33.png">
