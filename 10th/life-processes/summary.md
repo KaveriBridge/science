@@ -1,4 +1,7 @@
 ## Movement of various types can be taken as an indication of life.
+* Movements can be visible or invisible.
+* Molecular movements are needed for processes needed for maintaining life.
+
 ## Maintenance of life requires processes like nutrition, respiration, transport of materials within the body and excretion of waste products.
 ## Autotrophic nutrition involves the intake of simple inorganic materials from the environment and using an external energy source like the Sun to synthesise complex high-energy organic material.
 ## Heterotrophic nutrition involves the intake of complex material prepared by other organisms.
