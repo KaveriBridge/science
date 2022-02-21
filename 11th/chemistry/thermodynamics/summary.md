@@ -35,8 +35,7 @@ In this unit, we would like to answer some of the important questions through th
 * It is necessary to think of the system as separated from the surroundings by some sort of wall which may be real or imaginary. 
 * The wall that separates the system from the surroundings is called boundary. 
 * This is designed to allow us to control and keep track of all movements of matter and energy in or out of the system.
-### 6.1.2 Types of the System
-We, further classify the systems according to the movements of matter and energy in or out of the system.
+### Types of the System
 |Property|Open System|Closed system|Isolated system|
 |-|-|-|-|
 |Exchange of energy | ✔ | ✔  |❌|
@@ -51,3 +50,7 @@ We, further classify the systems according to the movements of matter and energy
 #### Isolated System
 * No exchange of energy or matter between the system and the surroundings.
 * Example: Reactants in a thermos flask or any other closed insulated vessel
+
+### Thermodynamic processes
+* Adiabatic process: A thermodynamic process that transfers energy to the surroundings only as work. The system exchanges no heat or matter with its surroundings.
+* Isothermal process: A thermodynamic process in which the temperature T of a system remains constant: ΔT = 0. 
