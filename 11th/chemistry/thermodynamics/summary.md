@@ -37,6 +37,11 @@ In this unit, we would like to answer some of the important questions through th
 * This is designed to allow us to control and keep track of all movements of matter and energy in or out of the system.
 ### 6.1.2 Types of the System
 We, further classify the systems according to the movements of matter and energy in or out of the system.
+|Property|Open System|Closed system|Isolated system|
+|-|-|-|-|
+|Exchange of energy | ✔ | ✔  |❌|
+|Exchange of matter | ✔ | ❌ |❌|
+
 #### 1. Open System
 * In an open system, there is exchange of energy and matter between system and surroundings [Fig. 6.2 (a)]. 
 * The presence of reactants in an open beaker is an example of an open system*.
