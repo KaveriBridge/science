@@ -42,10 +42,12 @@ We, further classify the systems according to the movements of matter and energy
 |Exchange of energy | ✔ | ✔  |❌|
 |Exchange of matter | ✔ | ❌ |❌|
 
-#### 1. Open System
-* In an open system, there is exchange of energy and matter between system and surroundings [Fig. 6.2 (a)]. 
-* The presence of reactants in an open beaker is an example of an open system*.
-* Here the boundary is an imaginary surface enclosing the beaker and reactants.
-#### 2. Closed System
-* In a closed system, there is no exchange of matter, but exchange of energy is possible between system and the surroundings [Fig. 6.2 (b)]. 
-* The presence of reactants in a closed vessel made of conducting material e.g., copper or steel is an example of a closed system 
+#### Open System
+* Exchange of energy and matter between system and surroundings
+* Example: Reactants in an open beaker
+#### Closed System
+* No exchange of matter, but exchange of energy is possible between system and the surroundings
+* Example: Reactants in a closed vessel made of conducting material
+#### Isolated System
+* No exchange of energy or matter between the system and the surroundings.
+* Example: Reactants in a thermos flask or any other closed insulated vessel
