@@ -54,3 +54,11 @@ In this unit, we would like to answer some of the important questions through th
 ### Thermodynamic processes
 * Adiabatic process: A thermodynamic process that transfers energy to the surroundings only as work. The system exchanges no heat or matter with its surroundings.
 * Isothermal process: A thermodynamic process in which the temperature T of a system remains constant: ΔT = 0. 
+
+## 6.1 THERMODYNAMIC TERMS
+## 6.2 APPLICATIONS
+## 6.3 MEASUREMENT OF ∆U AND ∆H: CALORIMETRY
+## 6.4 ENTHALPY CHANGE, ∆rH OF A REACTION – REACTION ENTHALPY
+## 6.5 ENTHALPIES FOR DIFFERENT TYPES OF REACTIONS
+## 6.6 SPONTANEITY
+## 6.7 GIBBS ENERGY CHANGE AND EQUILIBRIUM
