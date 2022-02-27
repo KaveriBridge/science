@@ -22,6 +22,7 @@
 |U| Internal energy
 |H| Enthalpy
 |n| Amount of substance (usually moles)
+|∆n<sub>g</sub>| (Number of moles of **gaseous products**) **−** (the number of moles of **gaseous reactants**)
 
 ## THERMODYNAMIC TERMS
 ### System, Surroundings, Universe and the Boundary
@@ -81,6 +82,21 @@
 * **The energy of an isolated system is constant**
 * aka the law of conservation of energy (**energy can neither be created nor be destroyed**)
 * **∆U** (change in internal energy) = **q** (heat added to the system) + **w** (work done on the system)
+
+## Enthalpy
+* **H** (Enthapy) = **U** (Internal energy) **+ pV** (pressure x volume)
+### Various conditions
+|System|Equation|
+|-|-|
+|Constant pressure (∆p=0) |∆H = ∆U + p∆V |
+|Constant volume (∆V=0)|∆H = ∆U |
+|Constant temperature (∆T=0) |∆H = ∆U + ∆n<sub>g</sub>RT |
+
+### ∆H for Exothermic and Endothermic 
+|Type of system|∆H|
+|-|-|
+|Exothermic | Negative (-ve)
+|Endothermic | Positive (+ve)
 
 ## 6.1 THERMODYNAMIC TERMS
 ## 6.2 APPLICATIONS
