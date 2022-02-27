@@ -128,6 +128,7 @@
 * Enthalpy change for a reaction when all the participating substances are in their standard states 
 * Standard pressue - 1 bar pressure
 * Standard temperature - 25C or 298K
+* Standard unit - 1 mole.
 
 ### Thermochemical Equations
 * A balanced chemical equation together with the value of its **∆<sub>r</sub>H** (reaction enthalpy) is called a thermochemical equation.
