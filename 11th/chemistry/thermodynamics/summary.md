@@ -109,6 +109,32 @@
 |Molar volume | Volume / number of moles|
 |Molar heat capacity | Heat capacity / number of moles|
 
+### Heat Capacity
+|Type|Symbol|Description|
+|-|-|-|
+|Heat capacity | **C** | Heat capacity of a subsance
+|Molar heat capacity |**C<sub>m</sub>** | Heat capacity for one mole of the substance |
+|Specific heat capacity |**c** | Heat capacity for unit mass of the substance |
+| | **C<sub>v</sub>** | Heat capacity at const volume
+| | **C<sub>p</sub>** | Heat capacity at const pressue
+
+#### q = C∆T = cm∆T
+
+|Symbol| Description|
+|-|-|
+|**q**| Heat Transferred|
+|**C**| Heat capacity|
+|**c**| Specific heat capacity
+|**m**| mass in grams
+|**∆T**| Change in temperature
+
+#### C<sub>p</sub> - C<sub>V</sub> = R
+|Symbol| Description|
+|-|-|
+|**C<sub>p</sub>**| Heat capacity at const pressure|
+|**C<sub>V</sub>**| Heat capacity at const volume|
+|**R**| Constant
+
 ## 6.1 THERMODYNAMIC TERMS
 ## 6.2 APPLICATIONS
 ## 6.3 MEASUREMENT OF ∆U AND ∆H: CALORIMETRY
