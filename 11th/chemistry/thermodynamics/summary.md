@@ -112,6 +112,14 @@
 |Vaporization enthalpy |**∆<sub>vap</sub>H**| Enthalpy change of vaporisation (liquid to gas)
 |Sublimation enthalpy |**∆<sub>sub</sub>H**| Enthalpy change of sublimation (solid to gas)
 |Formation enthalpy|**∆<sub>f</sub>H**| Enthalpy change for formation of a compound from its elements
+|Combustion enthalpy|**∆<sub>c</sub>H**| Enthalpy change during combustion
+|Atomization enthalpy|**∆<sub>a</sub>H**| Enthalpy change on breaking bonds completely to obtain atoms in the gas phase
+|Bond dissociation enthalpy |**∆<sub>bond</sub>H**| Enthalpy change on breaking a bond
+|Mean bond enthalpy|?| Average enthalpy change on breaking a bond, when there are multiple bonds and each bond takes different amounts of energy to break.
+|Lattice enthalpy| **∆<sub>lattice</sub>H**| Enthalpy change that occurs when ionic compound dissociates into its ions in gaseous state
+|Solution enthalpy|**∆<sub>sol</sub>H**| Enthalpy change that occurs when a substance dissolves in a specified amount of solvent
+|Hydration enthalpy | **∆<sub>hyd</sub>H**| Enthalpy change that ?
+|Dilution enthalpy | | It is heat withdrawn from the surroundings when additional solvent is added to the solution
 
 #### Standard entalphies
 * Enthalpy change for a reaction when all the participating substances are in their standard states 
@@ -132,7 +140,11 @@
 |Molar heat capacity | Heat capacity / number of moles|
 |Molar enthalpy H<sub>m</sub> | H / number of moles | 
 
-### Heat Capacity
+## Hess’s Law of Constant Heat Summation
+* Enthalpy change for a reaction is the same whether it occurs in one step or in a series of steps.
+* **If a reaction takes place in several steps then its standard reaction enthalpy is the sum of the standard enthalpies of the intermediate reactions into which the overall reaction may be divided at the same temperature.**
+
+## Heat Capacity
 |Type|Symbol|Description|
 |-|-|-|
 |Heat capacity | **C** | Heat capacity of a subsance
