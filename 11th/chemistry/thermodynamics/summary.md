@@ -145,14 +145,6 @@
 * **If a reaction takes place in several steps then its standard reaction enthalpy is the sum of the standard enthalpies of the intermediate reactions into which the overall reaction may be divided at the same temperature.**
 
 ## Heat Capacity
-|Type|Symbol|Description|
-|-|-|-|
-|Heat capacity | **C** | Heat capacity of a subsance
-|Molar heat capacity |**C<sub>m</sub>** | Heat capacity for one mole of the substance |
-|Specific heat capacity |**c** | Heat capacity for unit mass of the substance |
-| | **C<sub>v</sub>** | Heat capacity at const volume
-| | **C<sub>p</sub>** | Heat capacity at const pressue
-
 #### q = C∆T = cm∆T
 
 |Symbol| Description|
@@ -170,10 +162,5 @@
 |**C<sub>V</sub>**| Heat capacity at const volume|
 |**R**| Constant
 
-## 6.1 THERMODYNAMIC TERMS
-## 6.2 APPLICATIONS
-## 6.3 MEASUREMENT OF ∆U AND ∆H: CALORIMETRY
-## 6.4 ENTHALPY CHANGE, ∆rH OF A REACTION – REACTION ENTHALPY
-## 6.5 ENTHALPIES FOR DIFFERENT TYPES OF REACTIONS
 ## 6.6 SPONTANEITY
 ## 6.7 GIBBS ENERGY CHANGE AND EQUILIBRIUM
