@@ -13,6 +13,7 @@
 ### Notation
 |Notation|Description|
 |-|-|
+|Δ| Change in
 |p| Pressure
 |V| Volume
 |T| Temperature
@@ -20,7 +21,6 @@
 |w| Work
 |U| Internal energy
 |H| Enthalpy
-|Δ| Change in
 |n| Amount of substance (usually moles)
 
 ## THERMODYNAMIC TERMS
@@ -35,6 +35,7 @@
 |**Universe** | The system + The surroundings |
 |**Boundary** | The **wall** between the system from the surroundings |
 |**Internal energy** (U) | The **sum of all the energy of the system** |
+|**Free expansion**| Expansion of a gas in vacuum (Δw=0)|
 
 ### Types of the System
 |Property|Energy exchange|Matter exchange|Example system|
@@ -44,12 +45,12 @@
 |Isolated system | ❌| ❌ |Thermos flask |
 
 ### Thermodynamic processes
-|System|Property|Equation|
-|-|-|-|
-|Adiabatic process | No heat exchange |Δq=0|
-|Isothermal process | Const temp |ΔT=0|
-|Isobaric process | Const pressure |Δp=0|
-|Isochoric process | Const volume |ΔV=0|
+|System|Property|Equation| Work done|
+|-|-|-|-|
+|Adiabatic process | No heat exchange |Δq=0| ?|
+|Isothermal process | Const temp |ΔT=0| Reversible: w = – 2.303 nRT log (Vf/Vi) <br> Irreversible:  w = -p<sub>ex</sub>ΔV
+|Isobaric process | Const pressure |Δp=0| w = -p<sub>ex</sub>ΔV 
+|Isochoric process | Const volume |ΔV=0| w = 0
 
 ### Specifying state of system and its sorroundings
 |  | Description
