@@ -47,7 +47,7 @@
 ### Thermodynamic processes
 |System|Property|Equation| Work done|
 |-|-|-|-|
-|Adiabatic process | No heat exchange |Δq=0| ?|
+|Adiabatic process | No heat exchange |Δq=0| No simple equation|
 |Isothermal process | Const temp |ΔT=0| Reversible: w = – 2.303 nRT log (Vf/Vi) <br> Irreversible:  w = -p<sub>ex</sub>ΔV
 |Isobaric process | Const pressure |Δp=0| w = -p<sub>ex</sub>ΔV 
 |Isochoric process | Const volume |ΔV=0| w = 0
