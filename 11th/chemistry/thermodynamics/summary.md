@@ -70,6 +70,12 @@
 |Heat transferred **to the system**|+ve|?|
 |Heat transferred **by the system**|-ve|?|
 
+### Reversible vs Irreversible process
+#### Reversible process
+* The process could, at any moment, be reversed by an infinitesimal change. 
+* Proceeds infinitely slowly by a series of equilibrium states 
+* The system and the surroundings are always in near equilibrium with each other.
+
 ## First Law of Thermodynamic System
 * **The energy of an isolated system is constant**
 * aka the law of conservation of energy (**energy can neither be created nor be destroyed**)
