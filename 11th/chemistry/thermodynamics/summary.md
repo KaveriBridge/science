@@ -37,6 +37,10 @@
 |**Boundary** | The **wall** between the system from the surroundings |
 |**Internal energy** (U) | The **sum of all the energy of the system** |
 |**Free expansion**| Expansion of a gas in vacuum (Δw=0)|
+|**Extensive property** | **Depends on the quantity** or size of matter (e.g. Mass)
+|**Intensive property** | **Independent of the quantity** or size of matter (e.g. Temperature)
+|**Molar property**| = χ/n = **Extensive Property Value/ Num moles**. (e.g. molar volume, molar heat capacity).
+
 
 ### Types of the System
 |Property|Energy exchange|Matter exchange|Example system|
@@ -83,20 +87,27 @@
 * aka the law of conservation of energy (**energy can neither be created nor be destroyed**)
 * **∆U** (change in internal energy) = **q** (heat added to the system) + **w** (work done on the system)
 
-## Enthalpy
+### Enthalpy
 * **H** (Enthapy) = **U** (Internal energy) **+ pV** (pressure x volume)
-### Various conditions
+#### Various conditions
 |System|Equation|
 |-|-|
 |Constant pressure (∆p=0) |∆H = ∆U + p∆V |
 |Constant volume (∆V=0)|∆H = ∆U |
 |Constant temperature (∆T=0) |∆H = ∆U + ∆n<sub>g</sub>RT |
 
-### ∆H for Exothermic and Endothermic 
+#### ∆H for Exothermic and Endothermic 
 |Type of system|∆H|
 |-|-|
 |Exothermic | Negative (-ve)
 |Endothermic | Positive (+ve)
+
+### Molar properties
+|Type| Formula|
+|-|-|
+|Molar property | Extensive property value / number of moles 
+|Molar volume | Volume / number of moles|
+|Molar heat capacity | Heat capacity / number of moles|
 
 ## 6.1 THERMODYNAMIC TERMS
 ## 6.2 APPLICATIONS
