@@ -10,6 +10,19 @@
 * Deals with **heat/work/temperature**
 * Their **relation to energy/entropy/physical properties of matter and radiation**
 
+### Notation
+|Notation|Description|
+|-|-|
+|p| Pressure
+|V| Volume
+|T| Temperature
+|q| Heat
+|w| Work
+|U| Internal energy
+|H| Enthalpy
+|Δ| Change in
+|n| Amount of substance (usually moles)
+
 ## THERMODYNAMIC TERMS
 ### System, Surroundings, Universe and the Boundary
 
@@ -36,6 +49,14 @@
 |Isothermal process | Const temp |ΔT=0|
 |Isobaric process | Const pressure |Δp=0|
 |Isochoric process | Const volume |ΔV=0|
+
+### State functions and variables
+ * Specify the state of the system by **state functions** or **state variables**
+
+| Variable | Description| Examples|
+|-|-|-|
+|State function/variable| Depend only on state <br> and not on how it is reached. | Pressure, Volume, Temperature|
+|Path variable |Depends on the path used to reach | Heat, Work|
 
 ## 6.1 THERMODYNAMIC TERMS
 ## 6.2 APPLICATIONS
