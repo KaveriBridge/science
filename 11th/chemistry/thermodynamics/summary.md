@@ -23,6 +23,8 @@
 |H| Enthalpy
 |n| Amount of substance (usually moles)
 |∆n<sub>g</sub>| (Number of moles of **gaseous products**) **−** (the number of moles of **gaseous reactants**)
+|?<sup>ϴ</sup> | Standard conditions
+|?<sub>m</sub> | Molar quantity
 
 ## THERMODYNAMIC TERMS
 ### System, Surroundings, Universe and the Boundary
@@ -102,12 +104,33 @@
 |Exothermic | Negative (-ve)
 |Endothermic | Positive (+ve)
 
+### Types of Reaction enthalpy
+|Type|Symbol|Description|
+|-|-|-|
+|Reaction enthalpy |**∆<sub>r</sub>H**| Enthalpy change of a chemical reaction
+|Fusion enthalpy |**∆<sub>fus</sub>H**| Enthalpy change of  melting (solid to liquid)
+|Vaporization enthalpy |**∆<sub>vap</sub>H**| Enthalpy change of vaporisation (liquid to gas)
+|Sublimation enthalpy |**∆<sub>sub</sub>H**| Enthalpy change of sublimation (solid to gas)
+|Formation enthalpy|**∆<sub>f</sub>H**| Enthalpy change for formation of a compound from its elements
+
+#### Standard entalphies
+* Enthalpy change for a reaction when all the participating substances are in their standard states 
+* Standard pressue - 1 bar pressure
+* Standard temperature - 25C or 298K
+
+### Thermochemical Equations
+* A balanced chemical equation together with the value of its **∆<sub>r</sub>H** (reaction enthalpy) is called a thermochemical equation.
+* Coefficients refers to the number of moles (never molecules) of reactants and products
+* Value of ∆<sub>r</sub>H<sup>ϴ</sup> refers to the number of moles of substances specified by the equation
+* When a chemical equation is reversed, the value of ∆<sub>r</sub>H<sup>ϴ</sup> is reversed in sign.
+
 ### Molar properties
 |Type| Formula|
 |-|-|
 |Molar property | Extensive property value / number of moles 
 |Molar volume | Volume / number of moles|
 |Molar heat capacity | Heat capacity / number of moles|
+|Molar enthalpy H<sub>m</sub> | H / number of moles | 
 
 ### Heat Capacity
 |Type|Symbol|Description|
