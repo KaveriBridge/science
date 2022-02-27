@@ -21,6 +21,7 @@
 |w| Work
 |U| Internal energy
 |H| Enthalpy
+|S| Entropy
 |n| Amount of substance (usually moles)
 |∆n<sub>g</sub>| (Number of moles of **gaseous products**) **−** (the number of moles of **gaseous reactants**)
 |?<sup>ϴ</sup> | Standard conditions
@@ -42,6 +43,8 @@
 |**Extensive property** | **Depends on the quantity** or size of matter (e.g. Mass)
 |**Intensive property** | **Independent of the quantity** or size of matter (e.g. Temperature)
 |**Molar property**| = χ/n = **Extensive Property Value/ Num moles**. (e.g. molar volume, molar heat capacity).
+|**Spontaneous**| Can proceed without the assistance of external agency
+|**Entropy**|A measure of disorder in the system. 
 
 
 ### Types of the System
@@ -163,4 +166,15 @@
 |**R**| Constant
 
 ## 6.6 SPONTANEITY
+* A spontaneous process is an irreversible process 
+* It proceeds without the assistance of external agency
+* It may only be reversed by some external agency.
+## Entropy
+* A measure of disorder in the system. 
+* The greater the disorder in an isolated system, the higher is the entropy
+* For a given substance, the crystalline solid state is the state of lowest entropy (most ordered), the gaseous state is state of highest entropy 
+ 
 ## 6.7 GIBBS ENERGY CHANGE AND EQUILIBRIUM
+### G = H – TS
+* G is an extensive property and a state function
+* 
