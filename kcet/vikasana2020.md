@@ -1,6 +1,7 @@
 ## Biology
 ### Biology - Part 1 by Sushma Mani K | 23-03-2020
-[![](https://img.youtube.com/vi/1mFOZY5-Cd0/0.jpg)](https://www.youtube.com/watch?v=1mFOZY5-Cd0)
+[![](https://img.youtube.com/vi/qmg2fgJE1I4/0.jpg)](https://www.youtube.com/watch?v=qmg2fgJE1I4)
+
 ### Biology - Part 2 by Dr B V Putaswamaih | 25-03-2020
 ### Biology - Part 3 by Sulakshana | 27-03-2020
 ### Biology - Part 4 by Siddalinga Murthy | 29-03-2020
