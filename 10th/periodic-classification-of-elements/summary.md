@@ -1,4 +1,6 @@
-# 2-mark questions
+## State the modern periodic law
+* ‘The properties of elements are periodic functions of their atomic numbers.’
+
 ## Write the limitations of Mendeleev’s periodic table.
 Limitations of Mendeleev’s classification :
 * No fixed position was given to hydrogen
