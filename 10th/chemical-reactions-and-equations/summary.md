@@ -16,12 +16,14 @@
 * During an oxidation-reduction reaction, also known as a redox reaction, one reactant is oxidized (gains oxygen) while the other is reduced (loses oxygen). 
 * Redox reactions are important because they involve the transfer of electrons from one reactant to the other.
 #### Example #1
-* CuO (s) +H₂ (g) → (Heat) → Cu (s) + H₂O (g)
+* CuO (s) + H₂ (g) → (Heat) → Cu (s) + H₂O (g)
 * Copper(II) oxide is reduced by losing oxygen, while the hydrogen is oxidized by gaining oxygen. 
-### Example #2
-* ZnO + C →  Zn + CO
-### Example #3
+#### Example #2
+* ZnO + C → Zn + CO
+* Carbon is oxidised to CO and ZnO is reduced to Zn.
+#### Example #3
 * MnO₂ + 4HCl → MnCl₂ + 2H₂O +Cl₂
+* HCl is oxidised to Cl2 whereas MnO2 is reduced to MnCl2.
 
 ## 1.3 HAVE YOU OBSERVED THE EFFECTS OF OXIDATION REACTIONS IN EVERYDAY LIFE?
 ### Corrosion
