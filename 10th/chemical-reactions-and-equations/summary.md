@@ -23,7 +23,7 @@
 * Carbon is oxidised to CO and ZnO is reduced to Zn.
 #### Example #3
 * MnO₂ + 4HCl → MnCl₂ + 2H₂O +Cl₂
-* HCl is oxidised to Cl2 whereas MnO2 is reduced to MnCl2.
+* HCl is oxidised to Cl₂ whereas MnO₂ is reduced to MnCl₂.
 
 ## 1.3 HAVE YOU OBSERVED THE EFFECTS OF OXIDATION REACTIONS IN EVERYDAY LIFE?
 ### Corrosion
